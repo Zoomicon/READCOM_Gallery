@@ -1,2 +1,1 @@
-# Assets
-## [READ-COM Gallery](..)
+# [READ-COM Gallery](..) > Assets
