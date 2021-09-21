@@ -1,1 +1,2 @@
-*Icons*
+# Graphics
+## Icons

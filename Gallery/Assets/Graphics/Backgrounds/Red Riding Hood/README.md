@@ -1,1 +1,2 @@
-*Background images from Little Red Riding Hood fairytale*
+# Background images
+## Little Red Riding Hood

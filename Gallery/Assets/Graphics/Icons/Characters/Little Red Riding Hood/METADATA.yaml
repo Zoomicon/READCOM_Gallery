@@ -1,0 +1,19 @@
+---
+title: Icons for Little Red Riding Hood character
+tags: Red Riding Hood, Character, Icon
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+files:
+  - RedRidingHood.svg:
+      title: Little Red riding hood
+      tags: #more file specific optional tags here (comma-separated, extend parent list of tags)
+      source: #if defined at parent level (say its a url to a collection) no need to override (can remove or leave empty)
+      license: #if defined at parent level no need to override (can remove or leave empty)
+      attribution: #if defined at parent level no need to override (can remove or leave empty)
+  #- RedRidingHoodWithBasket.svg:
+  #  title: Little Red riding hood with basket
+  #  tags: #more file specific optional tags here (comma-separated)
+  #  source: #if defined at parent level (say its a url to a collection) no need to override (can remove or leave empty)
+  #  license: #if defined at parent level no need to override (can remove or leave empty)
+  #  attribution: #if defined at parent level no need to override (can remove or leave empty)

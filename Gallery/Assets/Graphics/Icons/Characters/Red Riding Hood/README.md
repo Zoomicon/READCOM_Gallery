@@ -1,1 +1,0 @@
-*Icons for Little Red Riding Hood character*

@@ -1,1 +1,1 @@
-*Background images*
+# Background images
