@@ -1,1 +1,1 @@
-*READ-COM Gallery / Graphics / Icons*
+*Icons*
