@@ -1,1 +1,1 @@
-# [READ-COM Gallery](../../..) > [Texts](../..) > [Παραμύθια](..) > Little Red Riding Hood
+# [READ-COM Gallery](../../..) > [Texts](../..) > [Fairytales](..) > Little Red Riding Hood
