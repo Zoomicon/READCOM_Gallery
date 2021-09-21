@@ -1,2 +1,2 @@
 # Text
-## (READ-COM Gallery)[..]
+## [READ-COM Gallery](..)

@@ -1,2 +1,2 @@
 # Activities
-## (READ-COM Gallery)[..]
+## [READ-COM Gallery](..)
