@@ -1,1 +1,0 @@
-# [READ-COM Gallery](../../..) > [Graphics](../..) > [Icons](..) > Speech Bubbles
