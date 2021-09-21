@@ -1,4 +1,1 @@
-# Graphics
-## Icons
-### Characters
-#### Little Red Riding Hood
+# [READ-COM Gallery](../../../..) > [Graphics](../../..) > [Icons](../..) > Characters (..) > Little Red Riding Hood

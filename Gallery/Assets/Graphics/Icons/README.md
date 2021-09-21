@@ -1,2 +1,1 @@
-# Graphics
-## Icons
+# [READ-COM Gallery](../..) > [Graphics](..) > Icons
