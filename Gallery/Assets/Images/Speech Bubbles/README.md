@@ -1,1 +1,1 @@
-# [READ-COM Gallery](../..) > [Images](..) > Speech Bubbles type1
+# [READ-COM Gallery](../..) > [Images](..) > Speech Bubbles
