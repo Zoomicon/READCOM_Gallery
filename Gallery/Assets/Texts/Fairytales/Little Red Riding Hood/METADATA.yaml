@@ -5,13 +5,13 @@ source: #if same one for all files in folder, set url here
 license: #if same one for all files in folder (those that don't override it below), can mention license here
 attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
 files:
-  - LittleRedHood.en.txt:
+  - LittleRedHood.txt:
     title: Little Red Hood (Lower Lusatia)
     tags: Germany, Poland, Lower Lusatia
     source: https://sites.pitt.edu/~dash/type0333.html#wratislaw
     license:
     attribution: A. H. Wratislaw, Sixty Folk-Tales from Exclusively Slavonic Sources (London: Elliot Stock, 1889), no. 15, pp. 97-100
-  - LittleRedCap.en.txt:
+  - LittleRedCap.txt:
     title: Little Red Cap (Jacob and Wilhelm Grimm)
     tags: Grimm brothers
     source: https://sites.pitt.edu/~dash/type0333.html#grimm
