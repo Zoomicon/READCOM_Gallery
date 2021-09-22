@@ -1,0 +1,13 @@
+---
+title: Sounds for Animals
+tags: Animal, Sound
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+files:
+  - Wolf.mp3:
+      title: Little Red riding hood
+      tags: Wolf
+      source: https://www.freesoundslibrary.com/wolf-howling-sound-effect/
+      license: CC-BY 4.0
+      attribution: Free Sounds Library - http://www.freesoundslibrary.com
