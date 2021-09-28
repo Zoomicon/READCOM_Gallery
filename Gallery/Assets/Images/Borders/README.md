@@ -1,3 +1,3 @@
 # [READ-COM Gallery](../..) > [Images](..) > Borders
 
-Border decorations
+Border decorations (transparent)
