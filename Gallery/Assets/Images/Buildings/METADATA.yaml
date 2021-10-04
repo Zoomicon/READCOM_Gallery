@@ -1,0 +1,25 @@
+---
+title: Images for Buildings
+tags: Building, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+files:
+  - WoodenHouse-01.svg:
+      title: Wooden House
+      tags: House, Wooden
+      source: http://www.freepik.com
+      license: http://www.freepik.com/terms_of_use
+      attribution: Designed by brgfx / Freepik
+  - WoodenHouse2-01.svg:
+      title: Small Wooden House with trees
+      tags: House, Wooden, Small
+      source: http://www.freepik.com
+      license: http://www.freepik.com/terms_of_use
+      attribution: Designed by brgfx / Freepik
+  - WoodenHouse2-03.svg:
+      title: Small Wooden House
+      tags: House, Wooden, Small
+      source: http://www.freepik.com
+      license: http://www.freepik.com/terms_of_use
+      attribution: Designed by brgfx / Freepik
