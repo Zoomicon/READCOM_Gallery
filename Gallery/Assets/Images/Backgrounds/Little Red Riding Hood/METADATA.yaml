@@ -1,0 +1,25 @@
+---
+title: Background Images
+tags: Background, Image
+source:
+license:
+attribution:
+files:
+  - Background_1-01.svg:
+      title: Forest background
+      tags: Forest
+      source: https://www.freepik.com/free-vector/
+      license: http://www.freepik.com/terms_of_use
+      attribution: Designed by brgfx / Freepik
+  - Background_2-01.svg:
+      title: Meadow background
+      tags: Meadow
+      source: https://www.freepik.com/free-vector/
+      license: http://www.freepik.com/terms_of_use
+      attribution: Designed by brgfx / Freepik
+  - indoorbackground-*.svg:
+      title: Indoor background
+      tags: Indoor
+      source: https://www.freepik.com/free-vector/
+      license: http://www.freepik.com/terms_of_use
+      attribution: Designed by upklyak / Freepik
