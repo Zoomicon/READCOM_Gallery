@@ -5,15 +5,39 @@ source: #if same one for all files in folder, set url here
 license: #if same one for all files in folder (those that don't override it below), can mention license here
 attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
 files:
-  - RedRidingHood.svg:
-      title: Little Red riding hood
-      tags: #more file specific optional tags here (comma-separated, extend parent list of tags)
-      source: #if defined at parent level (say its a url to a collection) no need to override (can remove or leave empty)
-      license: #if defined at parent level no need to override (can remove or leave empty)
-      attribution: #if defined at parent level no need to override (can remove or leave empty)
-  #- RedRidingHoodWithBasket.svg:
-  #  title: Little Red riding hood with basket
-  #  tags: #more file specific optional tags here (comma-separated)
-  #  source: #if defined at parent level (say its a url to a collection) no need to override (can remove or leave empty)
-  #  license: #if defined at parent level no need to override (can remove or leave empty)
-  #  attribution: #if defined at parent level no need to override (can remove or leave empty)
+  - LittleRed.svg:
+      title: Little Red Riding Hood
+      tags: Girl, Kid, Basket #more file specific optional tags here (comma-separated, extend parent list of tags)
+      source: https://www.freepik.com/free-vector/little-red-riding-hood_984951.htm
+      license: https://www.freepik.com/terms_of_use
+      attribution: Designed by Ddraw - Freepik.com
+  - Grandma.svg:
+      title: Grandma
+      tags: Grandma, Old, Lady
+      source: https://www.freepik.com/free-vector/little-red-riding-hood_984951.htm
+      license: https://www.freepik.com/terms_of_use
+      attribution: Designed by Ddraw - Freepik.com
+  - Huntsman.svg:
+      title: Huntsman
+      tags: Huntsman
+      source: https://www.freepik.com/free-vector/little-red-riding-hood_984951.htm
+      license: https://www.freepik.com/terms_of_use
+      attribution: Designed by Ddraw - Freepik.com
+  - Mother.svg:
+      title: Mother
+      tags: Mother, Lady
+      source: https://www.freepik.com/free-vector/little-red-riding-hood_984951.htm
+      license: https://www.freepik.com/terms_of_use
+      attribution: Designed by Ddraw - Freepik.com
+  - Wolf.svg:
+      title: Wolf
+      tags: Wolf, Animal
+      source: https://www.freepik.com/free-vector/little-red-riding-hood_984951.htm
+      license: https://www.freepik.com/terms_of_use
+      attribution: Designed by Ddraw - Freepik.com
+  - Wolf.svg:
+      title: Disguised Wolf
+      tags: Disguise, Wolf, Animal, Old, Lady
+      source: https://www.freepik.com/free-vector/little-red-riding-hood_984951.htm
+      license: https://www.freepik.com/terms_of_use
+      attribution: Designed by Ddraw - Freepik.com
