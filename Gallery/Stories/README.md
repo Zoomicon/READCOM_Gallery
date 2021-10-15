@@ -1,1 +1,1 @@
-# [READ-COM Gallery](..) > Activities
+# [READ-COM Gallery](..) > Stories
