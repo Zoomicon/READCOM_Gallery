@@ -5,10 +5,16 @@ source: #if same one for all files in folder, set url here
 license: #if same one for all files in folder (those that don't override it below), can mention license here
 attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
 files:
-  #- someFile.svg:
-  #    title: ...
-  #    tags: ...
-  #    source: ...
-  #    license: ...
-  #    attribution: ...
+  #- granma house.svg:
+  #    title: Granma House
+  #    tags: House, granma, 
+  #    source: https://publicdomainvectors.org/en/free-clipart/Tree-house-vector-clip-art/84435.html
+  #    license: CC0 Public Domain 
+  #    attribution: -
 
+  #- filename.svg:
+  #    title: 
+  #    tags: 
+  #    source: 
+  #    license: CC0 Public Domain 
+  #    attribution: -
