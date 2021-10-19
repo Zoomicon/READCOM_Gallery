@@ -7,14 +7,14 @@ attribution: #if same one for all files in folder (those that don't override it 
 files:
   #- granma house.svg:
   #    title: Granma House
-  #    tags: House, granma, 
+  #    tags: house, granma, 
   #    source: https://publicdomainvectors.org/en/free-clipart/Tree-house-vector-clip-art/84435.html
   #    license: CC0 Public Domain 
   #    attribution: -
 
-  #- filename.svg:
-  #    title: 
-  #    tags: 
-  #    source: 
+  #- House-02.svg:
+  #    title: House 
+  #    tags: house, grandma house, 
+  #    source: https://publicdomainvectors.org/en/free-clipart/House-cottage/83990.html
   #    license: CC0 Public Domain 
   #    attribution: -
