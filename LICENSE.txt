@@ -1,2 +1,2 @@
-You can use this content only in the context of the opensource READ-COM App (http://github.com/Zoomicon/READCOM_App).
+You can use this content freely in the context of the opensource READ-COM App (http://github.com/Zoomicon/READCOM_App).
 For other use please see respective source and attibution in METADATA.yaml at each subfolder and download content from original source.
