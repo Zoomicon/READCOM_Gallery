@@ -5,23 +5,21 @@ source: #if same one for all files in folder, set url here
 license: #if same one for all files in folder (those that don't override it below), can mention license here
 attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
 files:
-  #- granma house.svg:
-  #    title: Granma House
-  #    tags: house, granma, 
-  #    source: https://publicdomainvectors.org/en/free-clipart/Tree-house-vector-clip-art/84435.html
-  #    license: CC0 Public Domain 
-  #    attribution: -
-
-  #- House-02.svg:
-  #    title: House 
-  #    tags: house, grandma house, 
-  #    source: https://publicdomainvectors.org/en/free-clipart/House-cottage/83990.html
-  #    license: CC0 Public Domain 
-  #    attribution: -
-
-  #- houseintheforest.svg:
-  #    title: House 
-  #    tags: house, grandma house, 
-  #    source: https://publicdomainvectors.org/en/free-clipart/Wooden-hut-in-the-forest/87943.html
-  #    license: CC0 Public Domain 
-  #    attribution: -
+  - granma house.svg:
+      title: Granma House
+      tags: house, grandma
+      source: https://publicdomainvectors.org/en/free-clipart/Tree-house-vector-clip-art/84435.html
+      license: CC0 Public Domain 
+      attribution:
+  - House-02.svg:
+      title: House 
+      tags: house, grandma
+      source: https://publicdomainvectors.org/en/free-clipart/House-cottage/83990.html
+      license: CC0 Public Domain 
+      attribution:
+  - houseintheforest.svg:
+      title: House 
+      tags: house, grandma
+      source: https://publicdomainvectors.org/en/free-clipart/Wooden-hut-in-the-forest/87943.html
+      license: CC0 Public Domain 
+      attribution:
