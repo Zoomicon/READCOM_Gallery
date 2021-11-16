@@ -5,9 +5,30 @@ source: #if same one for all files in folder, set url here
 license: #if same one for all files in folder (those that don't override it below), can mention license here
 attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
 files:
-  #- SomeFile.svg:
-  #    title: ...
-  #    tags: ...
-  #    source: ...
-  #    license: ...
-  #    attribution: ...
+  #- 1F332.svg:
+  #    title: TREE
+  #    tags: tree, forest tree, christmas tree
+  #    source: https://openmoji.org/library/#group=animals-nature%2Fplant-other
+  #    license: CC-BY-SA
+  #    attribution: Hilda Kalyoncu
+  
+  #- 1F333.svg:
+  #    title: TREE
+  #    tags: tree, forest tree
+  #    source: https://openmoji.org/library/#group=animals-nature%2Fplant-other
+  #    license: CC-BY-SA
+  #    attribution: Hilda Kalyoncu
+  
+  #- 1F334.svg:
+  #    title: TREE
+  #    tags: tree, forest tree, palm tree
+  #    source: https://openmoji.org/library/#group=animals-nature%2Fplant-other
+  #    license: CC-BY-SA
+  #    attribution: Hilda Kalyoncu
+
+ #- 1F33E.svg:
+  #    title: TREE
+  #    tags: tree, forest tree, palm tree
+  #    source: https://openmoji.org/library/#group=animals-nature%2Fplant-other
+  #    license: CC-BY-SA
+  #    attribution: Hend Hourani
