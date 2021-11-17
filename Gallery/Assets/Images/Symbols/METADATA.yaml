@@ -1,0 +1,25 @@
+---
+title: Images for Symbols
+tags: Symbol, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+files:
+  - play.svg:
+      title: Play symbol
+      tags: Play
+      source: https://openmoji.org/library/#group=symbols%2Fav-symbol
+      license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+      attribution: OpenMoji.org
+  - reverse.svg:
+      title: Reverse symbol
+      tags: Reverse
+      source: https://openmoji.org/library/#group=symbols%2Fav-symbol
+      license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+      attribution: OpenMoji.org
+  - edit.svg:
+      title: Edit symbol
+      tags: Edit
+      source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
+      license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+      attribution: OpenMoji.org
