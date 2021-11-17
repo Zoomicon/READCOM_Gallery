@@ -4,22 +4,32 @@ tags: Symbol, Image
 source: #if same one for all files in folder, set url here
 license: #if same one for all files in folder (those that don't override it below), can mention license here
 attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
-files:
-  - play.svg:
-      title: Play symbol
-      tags: Play
-      source: https://openmoji.org/library/#group=symbols%2Fav-symbol
-      license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
-      attribution: OpenMoji.org
-  - reverse.svg:
-      title: Reverse symbol
-      tags: Reverse
-      source: https://openmoji.org/library/#group=symbols%2Fav-symbol
-      license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
-      attribution: OpenMoji.org
-  - edit.svg:
-      title: Edit symbol
-      tags: Edit
-      source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
-      license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
-      attribution: OpenMoji.org
+filegroups:
+  - OpenMoji.org:
+    license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+    attribution: OpenMoji.org
+    files:
+      - Play.svg:
+          title: Play symbol
+          tags: Play
+          source: https://openmoji.org/library/#group=symbols%2Fav-symbol
+      - Reverse.svg:
+          title: Reverse symbol
+          tags: Reverse
+          source: https://openmoji.org/library/#group=symbols%2Fav-symbol
+      - Edit.svg:
+          title: Edit
+          tags: Edit
+          source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
+      - OpenFileFolder.svg:
+          title: Open File Folder symbol
+          tag: Open, File, Folder
+          source: https://openmoji.org/library/#group=objects%2Foffice 
+      - Save.svg:
+          title: Save symbol
+          tag: Save, File
+          source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
+      - Anchor.svg:
+          title: Anchor symbol
+          tag: Anchor
+          source: https://openmoji.org/library/#group=travel-places
