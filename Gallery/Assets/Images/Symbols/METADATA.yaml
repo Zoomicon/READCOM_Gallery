@@ -29,7 +29,15 @@ filegroups:
           title: Save symbol
           tag: Save, File
           source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
+      - Delete.svg:
+          title: Delete symbol
+          tag: Delete
+          source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element          
       - Anchor.svg:
           title: Anchor symbol
           tag: Anchor
           source: https://openmoji.org/library/#group=travel-places
+      - GlobeWithMeridians.svg:
+          title: Globe with meridians symbols%2Fav-symbol
+          tag: Globe, Meridians
+          source: https://openmoji.org/library/#group=travel-places%2Fplace-map
