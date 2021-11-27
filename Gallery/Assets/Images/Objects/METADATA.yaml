@@ -1,0 +1,15 @@
+---
+title: Images for Objects
+tags: Object, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - OpenMoji.org:
+    license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+    attribution: OpenMoji.org
+    files:
+      - Camera.svg:
+          title: Camera
+          tags: Camera
+          source: https://openmoji.org/library/#group=objects%2Flight-video
