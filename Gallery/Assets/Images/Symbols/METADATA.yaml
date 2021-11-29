@@ -32,12 +32,18 @@ filegroups:
       - Delete.svg:
           title: Delete symbol
           tag: Delete
-          source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element          
+          source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
       - Anchor.svg:
           title: Anchor symbol
           tag: Anchor
           source: https://openmoji.org/library/#group=travel-places
       - GlobeWithMeridians.svg:
-          title: Globe with meridians symbols%2Fav-symbol
+          title: Globe with meridians symbol
           tag: Globe, Meridians
           source: https://openmoji.org/library/#group=travel-places%2Fplace-map
+      - Diagram.svg:
+          title: Diagram symbol
+          tag: Diagram
+          license: CC-BY-SA
+          attribution: diagram by Wan HD from the Noun Project
+          source: https://thenounproject.com/term/org-chart/4173547/

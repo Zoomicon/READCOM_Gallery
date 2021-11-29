@@ -13,3 +13,7 @@ filegroups:
           title: Camera
           tags: Camera
           source: https://openmoji.org/library/#group=objects%2Flight-video
+      - FramedPicture.svg:
+          title: Framed Picture
+          tags: Picture, Frame
+          source: https://openmoji.org/library/#group=activities%2Farts-crafts
