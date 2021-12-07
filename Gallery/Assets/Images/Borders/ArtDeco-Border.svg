@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- ClipArt by Arvin61r58 (http://openclipart.org/user-detail/Arvin61r58) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="990" viewBox="0 0 215.9 279.4" width="765" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title id="title4555">Art Deco Border 6</title>
+ <metadata id="metadata44">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Art Deco Border 6</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Arvin61r58</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title>Openclipart.org</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:identifier>https://openclipart.org/</dc:identifier>
+    <dc:source>https://openclipart.org/user-detail/Arvin61r58</dc:source>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>frame</rdf:li>
+      <rdf:li>border</rdf:li>
+      <rdf:li>gold</rdf:li>
+      <rdf:li>gradient</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+    <dc:description>gold art deco style border</dc:description>
+    <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs4">
+  <clipPath id="clipWmfPath1" clipPathUnits="userSpaceOnUse">
+   <path id="path7" d="m0 0h631.13v901.69h-631.13z"/>
+  </clipPath>
+  <linearGradient id="linearGradient4337">
+   <stop id="stop4339" stop-color="#c4b81a" offset="0"/>
+   <stop id="stop4341" stop-color="#ebe281" offset=".071429"/>
+   <stop id="stop4343" stop-color="#fdfba8" offset=".14286"/>
+   <stop id="stop4345" stop-color="#ede76e" offset=".21429"/>
+   <stop id="stop4347" stop-color="#f2ea53" offset=".28571"/>
+   <stop id="stop4349" stop-color="#dccc1c" offset=".35714"/>
+   <stop id="stop4351" stop-color="#f3e555" offset=".42857"/>
+   <stop id="stop4353" stop-color="#fdfbae" offset=".5"/>
+   <stop id="stop4355" stop-color="#ebd12a" offset=".57143"/>
+   <stop id="stop4357" stop-color="#d7b01a" offset=".64286"/>
+   <stop id="stop4359" stop-color="#d0ac25" offset=".71429"/>
+   <stop id="stop4361" stop-color="#deba26" offset=".78571"/>
+   <stop id="stop4363" stop-color="#f6ec70" offset=".85714"/>
+   <stop id="stop4365" stop-color="#b89418" offset=".92857"/>
+   <stop id="stop4367" stop-color="#85660b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4395" y2="147.06" xlink:href="#linearGradient4337" gradientUnits="userSpaceOnUse" x2="125.21" y1="147.06" x1="56.421"/>
+  <linearGradient id="linearGradient4397" y2="148.09" xlink:href="#linearGradient4337" gradientUnits="userSpaceOnUse" x2="133.64" gradientTransform="matrix(.37601 0 0 .38784 -12.791 -35.184)" y1="148.09" x1="51.735"/>
+  <linearGradient id="linearGradient4422">
+   <stop id="stop4424" stop-color="#8a6b0c" offset="0"/>
+   <stop id="stop4426" stop-color="#b59218" offset=".071429"/>
+   <stop id="stop4428" stop-color="#f3e76a" offset=".14286"/>
+   <stop id="stop4430" stop-color="#dfbd2b" offset=".21429"/>
+   <stop id="stop4432" stop-color="#d1ad25" offset=".28571"/>
+   <stop id="stop4434" stop-color="#d7b11b" offset=".35714"/>
+   <stop id="stop4436" stop-color="#ead02b" offset=".42857"/>
+   <stop id="stop4438" stop-color="#fcf9a7" offset=".5"/>
+   <stop id="stop4440" stop-color="#f3e556" offset=".57143"/>
+   <stop id="stop4442" stop-color="#ddce20" offset=".64286"/>
+   <stop id="stop4444" stop-color="#f1e952" offset=".71429"/>
+   <stop id="stop4446" stop-color="#eee870" offset=".78571"/>
+   <stop id="stop4448" stop-color="#fcfaa5" offset=".85714"/>
+   <stop id="stop4450" stop-color="#eae17e" offset=".92857"/>
+   <stop id="stop4452" stop-color="#c7bc23" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4480" y2="147.06" xlink:href="#linearGradient4422" gradientUnits="userSpaceOnUse" x2="585.76" y1="147.06" x1="516.97"/>
+  <linearGradient id="linearGradient4482" y2="148.94" xlink:href="#linearGradient4422" gradientUnits="userSpaceOnUse" x2="591.38" gradientTransform="matrix(.37601 0 0 .38784 -12.791 -35.184)" y1="148.94" x1="509.48"/>
+  <linearGradient id="linearGradient4490" y2="755.01" xlink:href="#linearGradient4337" gradientUnits="userSpaceOnUse" x2="125.21" y1="755.01" x1="56.426"/>
+  <linearGradient id="linearGradient4492" y2="256.67" xlink:href="#linearGradient4337" gradientUnits="userSpaceOnUse" x2="37.028" gradientTransform="translate(.028212 .082436)" y1="256.67" x1="6.2958"/>
+  <linearGradient id="linearGradient4500" y2="755" xlink:href="#linearGradient4422" gradientUnits="userSpaceOnUse" x2="585.77" y1="755" x1="516.98"/>
+  <linearGradient id="linearGradient4502" y2="257.03" xlink:href="#linearGradient4422" gradientUnits="userSpaceOnUse" x2="209.09" gradientTransform="translate(.028212 .082436)" y1="257.03" x1="178.29"/>
+ </defs>
+ <g id="g4542">
+  <title id="title4553">Art Deco Border 6  --  by Arvin61r58</title>
+  <path id="path16" stroke-linejoin="round" d="m56.608 113.11h528.59v675.47h-528.59v-675.47" clip-path="url(#clipWmfPath1)" transform="matrix(.37601 0 0 .38784 -12.791 -35.184)" stroke="#c2bf60" stroke-linecap="round" stroke-width="4.4342" fill="none"/>
+  <g stroke-linejoin="round" stroke="#a7a540" stroke-linecap="round">
+   <path id="path20" d="m204.57 11.886h4.8633v26.409h-4.8633v-26.409m-25.655-5.0195h25.655v5.0195h-25.655v-5.0195" stroke-width=".56444" fill="url(#linearGradient4482)"/>
+   <path id="path22" d="m517.35 113.11v12.943h55.484v54.96h12.559v-67.903h-68.043" clip-path="url(#clipWmfPath1)" transform="matrix(.37601 0 0 .38784 -12.791 -35.184)" stroke-width="1.4781" fill="url(#linearGradient4480)"/>
+   <path id="path26" d="m11.666 6.5756h25.655v4.9473h-25.655v-4.9473m-4.8632 4.9473h4.8632v26.409h-4.8632v-26.409" stroke-width=".56444" fill="url(#linearGradient4397)"/>
+   <path id="path28" d="m56.796 181.01h12.934v-55.335h55.108v-12.568h-68.042v67.903" clip-path="url(#clipWmfPath1)" transform="matrix(.37601 0 0 .38784 -12.791 -35.184)" stroke-width="1.4781" fill="url(#linearGradient4395)"/>
+   <path id="path32" d="m6.4671 241.04h4.7927v26.409h-4.7927v-26.409m4.7927 26.409h25.655v5.0199h-25.655v-5.0199" stroke-width=".56444" fill="url(#linearGradient4492)"/>
+   <path id="path34" d="m124.84 788.96v-12.943h-55.483v-54.96h-12.559v67.903h68.042" clip-path="url(#clipWmfPath1)" transform="matrix(.37601 0 0 .38784 -12.845 -35.346)" stroke-width="1.4781" fill="url(#linearGradient4490)"/>
+   <path id="path38" d="m178.46 267.81h25.655v5.0199h-25.655v-5.0199m25.655-26.409h4.8633v26.409h-4.8633v-26.409" stroke-width=".56444" fill="url(#linearGradient4502)"/>
+   <path id="path40" d="m585.39 721.05h-12.934v55.335h-55.109v12.568h68.043v-67.903" clip-path="url(#clipWmfPath1)" transform="matrix(.37601 0 0 .38784 -12.899 -35.346)" stroke-width="1.4781" fill="url(#linearGradient4500)"/>
+  </g>
+ </g>
+</svg>
