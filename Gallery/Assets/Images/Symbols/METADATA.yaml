@@ -5,7 +5,7 @@ source: #if same one for all files in folder, set url here
 license: #if same one for all files in folder (those that don't override it below), can mention license here
 attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
 filegroups:
-  - OpenMoji.org:
+  - OpenMoji:
     license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
     attribution: OpenMoji.org
     files:
@@ -41,6 +41,11 @@ filegroups:
           title: Globe with meridians symbol
           tag: Globe, Meridians
           source: https://openmoji.org/library/#group=travel-places%2Fplace-map
+      - Plus.svg:
+          title: Plus sign
+          tag: Plus, Sign, Math
+          source: https://openmoji.org/library/#group=symbols%2Fmath
+  - Other:
       - Diagram.svg:
           title: Diagram symbol
           tag: Diagram
