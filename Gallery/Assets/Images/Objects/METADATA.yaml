@@ -17,3 +17,7 @@ filegroups:
           title: Framed Picture
           tags: Picture, Frame, Crafts
           source: https://openmoji.org/library/#group=activities%2Farts-crafts
+      - PaperA4.svg:
+          title: A4 Paper
+          tags: A4, Paper, Books
+          source: https://openmoji.org/library/#group=objects%2Fbook-paper
