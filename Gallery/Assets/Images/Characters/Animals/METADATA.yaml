@@ -1,3 +1,5 @@
+//TODO: fix syntax
+
 ---
 title: Turtle1
 tags:  Image, Animal, Tortoise
@@ -103,11 +105,12 @@ source: https://publicdomainvectors.org/en/free-clipart/Green-and-brown-color-sn
 license: public domain
 attribution: 
 
-title: tweet
-tags:  Image, Animal, tweet
-source: https://publicdomainvectors.org/en/free-clipart/Tweet-vector-clip-art/6784.html
-license: public domain
-attribution: 
+filename: BirdTweet.svg:
+    title: tweet
+    tags:  Image, Animal, tweet
+    source: https://publicdomainvectors.org/en/free-clipart/Tweet-vector-clip-art/6784.html
+    license: public domain
+    attribution: 
 
 
 title: frog
