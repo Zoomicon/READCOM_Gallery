@@ -21,3 +21,7 @@ filegroups:
           title: A4 Paper
           tags: A4, Paper, Books
           source: https://openmoji.org/library/#group=objects%2Fbook-paper
+      - Signpost.svg:
+          title: Signpost
+          tags: Sign, Directions, Crossroad
+          source: https://openmoji.org/library/#group=extras-openmoji%2Femergency
