@@ -6,13 +6,11 @@ object PanelStoryItem: TPanelStoryItem
   Size.PlatformDefault = False
   TabStop = False
   TabOrder = 32767
-  ActivationOrder = -1
   object backgroundinprogress765507370: TVectorImageStoryItem
     Size.Width = 600.000000000000000000
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:#befaee;}.cl' +
@@ -75,7 +73,6 @@ object PanelStoryItem: TPanelStoryItem
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:#d9f0ff;}.cl' +
@@ -218,7 +215,6 @@ object PanelStoryItem: TPanelStoryItem
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 660 660"><defs><style>.cls-1{fill:#eff7c3;}.cl' +
@@ -342,7 +338,6 @@ object PanelStoryItem: TPanelStoryItem
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 660 660"><defs><style>.cls-1{fill:#6d9d31;}.cl' +
@@ -419,7 +414,6 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 220.546478271484400000
       Size.PlatformDefault = False
       TabStop = False
-      ActivationOrder = -1
       Active = True
       SVGText = 
         '<svg id="svg2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="h' +
@@ -538,7 +532,6 @@ object PanelStoryItem: TPanelStoryItem
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="Publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 600 600"><defs><style>.cls-1{fill:#5a7781;}.cl' +
@@ -628,7 +621,6 @@ object PanelStoryItem: TPanelStoryItem
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="Publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 600 600"><defs><style>.cls-1{fill:#7c7299;}.cl' +

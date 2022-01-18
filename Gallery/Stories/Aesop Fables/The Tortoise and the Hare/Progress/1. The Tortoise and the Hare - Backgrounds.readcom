@@ -6,14 +6,13 @@ object PanelStoryItem: TPanelStoryItem
   Size.PlatformDefault = False
   TabStop = False
   TabOrder = 32767
-  ActivationOrder = -1
   Active = True
+  StoryPoint = True
   object backgroundinprogress765507370: TVectorImageStoryItem
     Size.Width = 600.000000000000000000
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:#befaee;}.cl' +
@@ -68,6 +67,7 @@ object PanelStoryItem: TPanelStoryItem
       ',1,25.9,0,14.25,14.25,0,0,0,23,0,15.24,15.24,0,0,1,24.6,0,17.54,' +
       '17.54,0,0,0,21.25,5.7,25.9,25.9,0,0,1,20.95,0,92.41,92.41,0,0,0,' +
       '16,5.38Z"/></svg>'
+    AutoSize = False
   end
   object backgroundstart186206505: TVectorImageStoryItem
     Position.X = 600.000000000000000000
@@ -75,7 +75,6 @@ object PanelStoryItem: TPanelStoryItem
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:#d9f0ff;}.cl' +
@@ -210,6 +209,7 @@ object PanelStoryItem: TPanelStoryItem
       '7.15.68.68,0,0,1-.44,0A.57.57,0,0,1,141.29,291.93Z"/><path class' +
       '="cls-16" d="M142.77,291.9l-.47-1.35.27-.09.19.53.53-.19-.18-.53' +
       '.27-.09.47,1.35-.27.09-.21-.59-.53.19.2.59Z"/></svg>'
+    AutoSize = False
   end
   object backgroundinprogress1340702164: TVectorImageStoryItem
     Position.X = 1200.000000000000000000
@@ -217,7 +217,6 @@ object PanelStoryItem: TPanelStoryItem
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 660 660"><defs><style>.cls-1{fill:#eff7c3;}.cl' +
@@ -333,6 +332,7 @@ object PanelStoryItem: TPanelStoryItem
       '6.75-4.32,19.35,19.35,0,0,0,21.39,6.69,29.07,29.07,0,0,0,48.57-5' +
       '.44,15.46,15.46,0,0,0,23.67-10.5L640,50.77l-50.19-2.45A15.45,15.' +
       '45,0,0,0,574.59,35.33Z"/></svg>'
+    AutoSize = False
   end
   object backgroundsunset1451480015: TVectorImageStoryItem
     Position.X = 1800.000000000000000000
@@ -340,7 +340,6 @@ object PanelStoryItem: TPanelStoryItem
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 660 660"><defs><style>.cls-1{fill:#6d9d31;}.cl' +
@@ -408,6 +407,7 @@ object PanelStoryItem: TPanelStoryItem
       '39,8.39,0,0,1,625,201.5a13.57,13.57,0,0,1-22.52-.82A9.39,9.39,0,' +
       '0,1,587.12,195l-9.74-1.45,9.74-1.45A9.39,9.39,0,0,1,596.39,184.1' +
       '6Z"/></svg>'
+    AutoSize = False
   end
   object backgroundatnight568081569: TVectorImageStoryItem
     Position.X = 2400.000000000000000000
@@ -415,7 +415,6 @@ object PanelStoryItem: TPanelStoryItem
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="Publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 600 600"><defs><style>.cls-1{fill:#5a7781;}.cl' +
@@ -497,6 +496,7 @@ object PanelStoryItem: TPanelStoryItem
       '3c17.1-53.93,28.61-54.27,35.73-12.69,11.28-67.34,42.57-66.87,48.' +
       '75-1,1.51-35.76,27-35.71,38.26,0C295.81,87.24,307.91,81,316.14,1' +
       '26.47Z"/></svg>'
+    AutoSize = False
   end
   object backgroundatnight1081936210: TVectorImageStoryItem
     Position.X = 3000.000000000000000000
@@ -504,7 +504,6 @@ object PanelStoryItem: TPanelStoryItem
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
-    ActivationOrder = -1
     SVGText = 
       '<svg id="Publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 600 600"><defs><style>.cls-1{fill:#7c7299;}.cl' +
@@ -601,5 +600,6 @@ object PanelStoryItem: TPanelStoryItem
       'lass="cls-14" d="M441,416.17a18.21,18.21,0,0,1,33.7,10.41H412l1.' +
       '12-2.16a9.89,9.89,0,0,1,14.11-3.78,9.35,9.35,0,0,0,13.3-3.56C440' +
       '.69,416.77,440.86,416.46,441,416.17Z"/></svg>'
+    AutoSize = False
   end
 end
