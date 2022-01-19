@@ -1,0 +1,11 @@
+---
+title: READ-COM Stories
+tags: Story
+source: https://github.com/zoomicon/READCOM_Gallery
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+files:
+  - The Tortoise and the Hare.readcom:
+      title: The Tortoise and the Hare
+      tags: Tortoise, Hare, Aesop, Fable, Story
+
