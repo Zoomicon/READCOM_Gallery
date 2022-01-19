@@ -1,0 +1,19 @@
+---
+title: Images for Symbols
+tags: Sign, Symbol, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - OpenMoji:
+    license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+    attribution: OpenMoji.org
+    files:
+      - Info.svg:
+          title: Info sign
+          tags: Info
+          source: https://openmoji.org/library/#group=symbols%2Falphanum
+      - SOS.svg:
+          title: SOS sign
+          tags: SOS, Help
+          source: https://openmoji.org/library/#group=symbols%2Falphanum
