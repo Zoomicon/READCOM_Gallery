@@ -25,3 +25,7 @@ filegroups:
           title: Signpost
           tags: Sign, Directions, Crossroad
           source: https://openmoji.org/library/#group=extras-openmoji%2Femergency
+      - MagnifyingGlass.svg:
+          title: Magnifying Glass
+          tags: Zoom, Magnify, Tools
+          source: https://openmoji.org/library/#group=objects%2Flight-video
