@@ -6,45 +6,57 @@ license: #if same one for all files in folder (those that don't override it belo
 attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
 filegroups:
   - OpenMoji:
-    license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
-    attribution: OpenMoji.org
-    files:
-      - Play.svg:
-          title: Play symbol
-          tags: Play
-          source: https://openmoji.org/library/#group=symbols%2Fav-symbol
-      - Reverse.svg:
-          title: Reverse symbol
-          tags: Reverse
-          source: https://openmoji.org/library/#group=symbols%2Fav-symbol
-      - Edit.svg:
-          title: Edit
-          tags: Edit
-          source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
-      - OpenFileFolder.svg:
-          title: Open File Folder symbol
-          tag: Open, File, Folder
-          source: https://openmoji.org/library/#group=objects%2Foffice 
-      - Save.svg:
-          title: Save symbol
-          tag: Save, File
-          source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
-      - Delete.svg:
-          title: Delete symbol
-          tag: Delete
-          source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
-      - Anchor.svg:
-          title: Anchor symbol
-          tag: Anchor
-          source: https://openmoji.org/library/#group=travel-places
-      - GlobeWithMeridians.svg:
-          title: Globe with meridians symbol
-          tag: Globe, Meridians
-          source: https://openmoji.org/library/#group=travel-places%2Fplace-map
-      - Plus.svg:
-          title: Plus sign
-          tag: Plus, Sign, Math
-          source: https://openmoji.org/library/#group=symbols%2Fmath
+        license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+        attribution: OpenMoji.org
+        files:
+          - Play.svg:
+              title: Play symbol
+              tags: Play
+              source: https://openmoji.org/library/#group=symbols%2Fav-symbol
+          - Reverse.svg:
+              title: Reverse symbol
+              tags: Reverse
+              source: https://openmoji.org/library/#group=symbols%2Fav-symbol
+          - Edit.svg:
+              title: Edit
+              tags: Edit
+              source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
+          - OpenFileFolder.svg:
+              title: Open File Folder symbol
+              tag: Open, File, Folder
+              source: https://openmoji.org/library/#group=objects%2Foffice 
+          - Save.svg:
+              title: Save symbol
+              tag: Save, File
+              source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
+          - Delete.svg:
+              title: Delete symbol
+              tag: Delete
+              source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
+          - Anchor.svg:
+              title: Anchor symbol
+              tag: Anchor
+              source: https://openmoji.org/library/#group=travel-places
+          - GlobeWithMeridians.svg:
+              title: Globe with meridians symbol
+              tag: Globe, Meridians
+              source: https://openmoji.org/library/#group=travel-places%2Fplace-map
+          - Plus.svg:
+              title: Plus sign
+              tag: Plus, Sign, Math
+              source: https://openmoji.org/library/#group=symbols%2Fmath
+  - SVGrepo:
+        license: 
+        attribution: SVGRepo.com
+        files:
+          - CopyAction.svg:
+            title: Copy action symbol
+            tags: Copy, Action
+            source: https://www.svgrepo.com/svg/253532/copy
+          - PasteAction.svg:
+            title: Paste action symbol
+            tags: Paste, Action
+            source: https://www.svgrepo.com/svg/253525/paste-clipboard-paste
   - Other:
       - Diagram.svg:
           title: Diagram symbol
@@ -52,3 +64,4 @@ filegroups:
           license: CC-BY-SA
           attribution: diagram by Wan HD from the Noun Project
           source: https://thenounproject.com/term/org-chart/4173547/
+     
