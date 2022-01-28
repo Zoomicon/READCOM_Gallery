@@ -29,3 +29,7 @@ filegroups:
           title: Magnifying Glass
           tags: Zoom, Magnify, Tools
           source: https://openmoji.org/library/#group=objects%2Flight-video
+      - HoleFlag.svg:
+          title: Flag in hole
+          tags: Flag, Hole, Golf, Games
+          source: https://openmoji.org/library/#search=GOAL&emoji=26F3
