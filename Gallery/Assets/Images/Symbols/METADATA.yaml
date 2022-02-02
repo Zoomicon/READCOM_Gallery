@@ -46,7 +46,7 @@ filegroups:
               tag: Plus, Sign, Math
               source: https://openmoji.org/library/#group=symbols%2Fmath
   - SVGrepo:
-        license: 
+        license: CC0
         attribution: SVGRepo.com
         files:
           - CopyAction.svg:
@@ -57,6 +57,14 @@ filegroups:
             title: Paste action symbol
             tags: Paste, Action
             source: https://www.svgrepo.com/svg/253525/paste-clipboard-paste
+          - FlipHorizontally.svg:
+            title: Flip Horizontally
+            tags: Flip, Horizontal, Action, Mirror
+            source: https://www.svgrepo.com/svg/189118/flip
+          - FlipVertically.svg:
+            title: Flip Vertically
+            tags: Flip, Vertical, Action
+            source: https://www.svgrepo.com/svg/189121/flip
   - Other:
       - Diagram.svg:
           title: Diagram symbol

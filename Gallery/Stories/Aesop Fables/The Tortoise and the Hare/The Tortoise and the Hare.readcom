@@ -1901,10 +1901,11 @@ object PanelStoryItem2222: TPanelStoryItem
     object hare20755897142: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 141.726760864257800000
-      Position.Y = 362.556457519531300000
-      Size.Width = 65.113136291503910000
-      Size.Height = 41.435638427734380000
+      Position.X = 359.201293945312500000
+      Position.Y = 358.339904785156300000
+      Scale.X = -1.000000000000000000
+      Size.Width = 54.260944366455080000
+      Size.Height = 34.529697418212890000
       Size.PlatformDefault = False
       TabStop = False
       SVGText = 
