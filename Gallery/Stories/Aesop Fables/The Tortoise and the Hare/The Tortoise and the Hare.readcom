@@ -7,14 +7,13 @@ object StoryRoot22: TPanelStoryItem
   Size.PlatformDefault = False
   TabStop = False
   TabOrder = 32767
-  Active = True
-  StoryPoint = True
   object Background1: TVectorImageStoryItem
     Locked = True
     Size.Width = 600.000000000000000000
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     Home = True
     StoryPoint = True
     SVGText = 
@@ -4058,15 +4057,15 @@ object StoryRoot22: TPanelStoryItem
         object Zzzz68725999: TTextStoryItem
           Align = Scale
           Locked = True
-          Position.X = 40
-          Position.Y = 15
-          Size.Width = 100
-          Size.Height = 50
+          Position.X = 40.000000000000000000
+          Position.Y = 15.000000000000000000
+          Size.Width = 100.000000000000000000
+          Size.Height = 50.000000000000000000
           Size.PlatformDefault = False
           TabStop = False
+          Text = 'Zzzz'
           Editable = True
           TextColor = claBlack
-          Text = 'Zzzz'
         end
       end
     end
