@@ -1,4 +1,4 @@
-object PanelStoryItem2222: TPanelStoryItem
+object StoryRoot: TPanelStoryItem
   Align = Center
   ClipChildren = True
   Locked = True
@@ -9,7 +9,7 @@ object PanelStoryItem2222: TPanelStoryItem
   TabOrder = 32767
   Active = True
   StoryPoint = True
-  object backgroundinprogress765507370: TVectorImageStoryItem
+  object Background1: TVectorImageStoryItem
     Locked = True
     Size.Width = 600.000000000000000000
     Size.Height = 600.000000000000000000
@@ -1755,7 +1755,7 @@ object PanelStoryItem2222: TPanelStoryItem
       AutoSize = False
     end
   end
-  object backgroundstart186206505: TVectorImageStoryItem
+  object Background2: TVectorImageStoryItem
     Locked = True
     Position.X = 600.000000000000000000
     Size.Width = 600.000000000000000000
@@ -3582,7 +3582,7 @@ object PanelStoryItem2222: TPanelStoryItem
       AutoSize = False
     end
   end
-  object backgroundinprogress1340702164: TVectorImageStoryItem
+  object Background3: TVectorImageStoryItem
     Locked = True
     Position.X = 1200.000000000000000000
     Size.Width = 600.000000000000000000
@@ -5390,7 +5390,7 @@ object PanelStoryItem2222: TPanelStoryItem
       AutoSize = False
     end
   end
-  object backgroundsunset1451480015: TVectorImageStoryItem
+  object Background4: TVectorImageStoryItem
     Locked = True
     Position.X = 1800.000000000000000000
     Size.Width = 600.000000000000000000
