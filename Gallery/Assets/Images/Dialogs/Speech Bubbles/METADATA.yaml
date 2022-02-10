@@ -1,12 +1,27 @@
 ---
 title: Speech bubbles
-tags: Speech bubble, Image
-source: https://openclipart.org/detail/311281/bubble-pack
-license: CC0
-attribution:
-  #- someFile.svg:
-  #    title: ...
-  #    tags: ...
-  #    source: ...
-  #    license: ...
-  #    attribution: ...
+tags: Speech bubble, Speech, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - OpenMoji:
+        source: https://openmoji.org/library/#group=smileys-emotion%2Femotion
+        license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+        attribution: OpenMoji.org
+        files:
+          - ThoughtEllipsis.svg:
+              title: Thought bubble with ellipsis
+              tags: Thought, Ellipsis
+          - Thought.svg:
+              title: Thought bubble
+              tags: Thought
+          - Anger.svg:
+              title: Anger speech bubble
+              tags: Angry
+          - Speech.svg:
+              title: Speech bubble
+  - OpenClipArt:
+        source: https://openclipart.org/detail/311281/bubble-pack
+        license: CC0
+        attribution: OpenClipArt.org
