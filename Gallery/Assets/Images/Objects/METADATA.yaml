@@ -33,3 +33,8 @@ filegroups:
           title: Flag in hole
           tags: Flag, Hole, Golf, Games
           source: https://openmoji.org/library/#search=GOAL&emoji=26F3
+      - LoveLetter.svg:
+          title: Love Letter
+          tags: Love, Letter
+          source: https://openmoji.org/library/#group=smileys-emotion%2Femotion&emoji=1F48C
+

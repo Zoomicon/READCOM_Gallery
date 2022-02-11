@@ -28,3 +28,8 @@ files:
       source: https://openmoji.org/library/#group=extras-openmoji%2Fui-element
       license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
       attribution: OpenMoji.org
+  - Hole.svg:
+      title: Hole icon
+      source: https://openmoji.org/library/#group=smileys-emotion%2Femotion&emoji=1F573
+      license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+      attribution: OpenMoji.org
