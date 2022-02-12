@@ -2,8 +2,8 @@ object StoryRoot222: TPanelStoryItem
   Align = Center
   ClipChildren = True
   Locked = True
-  Size.Width = 2400.000000000000000000
-  Size.Height = 600.000000000000000000
+  Size.Width = 1200.000000000000000000
+  Size.Height = 1200.000000000000000000
   Size.PlatformDefault = False
   TabStop = False
   TabOrder = 32767
@@ -3610,7 +3610,7 @@ object StoryRoot222: TPanelStoryItem
   end
   object Background3: TVectorImageStoryItem
     Locked = True
-    Position.X = 1200.000000000000000000
+    Position.Y = 600.000000000000000000
     Size.Width = 600.000000000000000000
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
@@ -5481,7 +5481,8 @@ object StoryRoot222: TPanelStoryItem
   end
   object Background4: TVectorImageStoryItem
     Locked = True
-    Position.X = 1800.000000000000000000
+    Position.X = 600.000000000000000000
+    Position.Y = 600.000000000000000000
     Size.Width = 600.000000000000000000
     Size.Height = 600.000000000000000000
     Size.PlatformDefault = False
