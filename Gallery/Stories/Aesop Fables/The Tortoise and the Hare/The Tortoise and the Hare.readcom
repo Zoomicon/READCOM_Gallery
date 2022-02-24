@@ -10,6 +10,7 @@ object StoryRoot222: TPanelStoryItem
   Active = True
   StoryPoint = False
   object Background1: TVectorImageStoryItem
+    Align = Scale
     Locked = True
     Size.Width = 600.000000000000000000
     Size.Height = 600.000000000000000000
@@ -1782,6 +1783,7 @@ object StoryRoot222: TPanelStoryItem
     end
   end
   object Background2: TVectorImageStoryItem
+    Align = Scale  
     Locked = True
     Position.X = 600.000000000000000000
     Size.Width = 600.000000000000000000
@@ -3609,6 +3611,7 @@ object StoryRoot222: TPanelStoryItem
     end
   end
   object Background3: TVectorImageStoryItem
+    Align = Scale  
     Locked = True
     Position.Y = 600.000000000000000000
     Size.Width = 600.000000000000000000
@@ -5480,6 +5483,7 @@ object StoryRoot222: TPanelStoryItem
     end
   end
   object Background4: TVectorImageStoryItem
+    Align = Scale  
     Locked = True
     Position.X = 600.000000000000000000
     Position.Y = 600.000000000000000000

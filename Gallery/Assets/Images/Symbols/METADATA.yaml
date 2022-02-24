@@ -45,6 +45,10 @@ filegroups:
               title: Plus sign
               tag: Plus, Sign, Math
               source: https://openmoji.org/library/#group=symbols%2Fmath
+          - Timer.svg:
+              title: Timer symbol
+              tag: Timer
+              source: https://openmoji.org/library/#search=timer&emoji=E0AB
   - SVGrepo:
         license: CC0
         attribution: SVGRepo.com
