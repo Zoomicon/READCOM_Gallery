@@ -1,0 +1,20 @@
+---
+title: Images for READ-COM logo
+tags: Logo, Image, READ-COM
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - READ-COM:
+    license: CC NC-BY-SA
+    attribution: READ-COM project (https://www.read-com-eu.uma.es/)
+    source: https://www.read-com-eu.uma.es
+    files:
+      - READ-COM.svg:
+          title: READ-COM project logo
+      - READ-COM_1024x1024.png:
+          title: READ-COM project logo (1024x1024)
+      - READ-COM_512x512.png:
+          title: READ-COM project logo (512x512)
+      - READ-COM_256x256.png:
+          title: READ-COM project logo (256x256)
