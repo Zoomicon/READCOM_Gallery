@@ -1,6 +1,6 @@
 ---
-title: Images for Logos
-tags: Logo, Image
+title: Images for READ-COM Partner logos
+tags: Logo, Image, READ-COM, Partner
 source: #if same one for all files in folder, set url here
 license: #if same one for all files in folder (those that don't override it below), can mention license here
 attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
@@ -10,8 +10,6 @@ filegroups:
     attribution: READ-COM project (https://www.read-com-eu.uma.es/)
     source: https://www.read-com-eu.uma.es/the-partners/
     files:
-      - READ-COM.svg:
-          title: READ-COM project logo
       - CEIP-Rosa-de-Galvez.png:
           title: C.E.I.P. Rosa de Gálvez
       - CTI.png:
