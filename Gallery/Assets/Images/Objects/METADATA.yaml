@@ -37,4 +37,7 @@ filegroups:
           title: Love Letter
           tags: Love, Letter
           source: https://openmoji.org/library/#group=smileys-emotion%2Femotion&emoji=1F48C
-
+      - Printer.svg:
+          title: Love Letter
+          tags: Printer
+          source: https://openmoji.org/library/#emoji=1F5A8&search=printer

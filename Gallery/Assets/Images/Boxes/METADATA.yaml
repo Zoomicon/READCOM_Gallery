@@ -1,0 +1,10 @@
+---
+title: Images for boxes
+tags: boxes, Image
+files:
+  - BorderedWhiteBox.svg:
+    title: Bordered white box
+    tags: Border, White
+    source: https://openmoji.org/library/#search=screen&emoji=1F3F3-FE0F
+    license: CC BY-SA 4.0
+    attribution: OpenMoji
