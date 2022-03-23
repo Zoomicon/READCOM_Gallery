@@ -1,0 +1,15 @@
+---
+title: Images for Tracks
+tags: Track, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - OpenMoji:
+        license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+        attribution: OpenMoji.org
+        files:
+          - Paws.svg:
+              title: Paw Prints
+              tags: Paw, Track
+              source: https://openmoji.org/library/#search=printer&emoji=1F43E
