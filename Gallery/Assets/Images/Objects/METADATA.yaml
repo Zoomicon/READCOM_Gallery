@@ -40,4 +40,16 @@ filegroups:
       - Printer.svg:
           title: Love Letter
           tags: Printer
-          source: https://openmoji.org/library/#emoji=1F5A8&search=printer
+          source: https://openmoji.org/library/#emoji=1F5A8
+      - Briefcase.svg:
+          title: Briefcase
+          tags: Briefcase, Bag
+          source: https://openmoji.org/library/#emoji=1F4BC
+      - FirstAidBag.svg:
+          title: First Aid bag
+          tags: First Aid, Bag
+          source: https://openmoji.org/library/#emoji=E309
+      - Scissors.svg:
+          title: Scissors
+          tags: Scissors
+          source: https://openmoji.org/library/#emoji=2702
