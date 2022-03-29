@@ -15,3 +15,6 @@ filegroups:
           - Questionmark.svg:
               title: Questionmark
               source: https://openmoji.org/library/#group=symbols%2Fpunctuation
+          - Chat.svg:
+              title: Chat
+              source: https://openmoji.org/library/#search=chat&emoji=E248
