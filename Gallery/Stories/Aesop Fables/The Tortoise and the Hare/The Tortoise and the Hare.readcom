@@ -1,4 +1,4 @@
-object StoryRoot2222222: TPanelStoryItem
+object StoryRoot22222222: TPanelStoryItem
   Align = Center
   ClipChildren = True
   Locked = True
@@ -8,16 +8,20 @@ object StoryRoot2222222: TPanelStoryItem
   TabStop = False
   TabOrder = 32767
   StoryPoint = False
+  BackgroundColor = xFFE0E0E0
   object Background1: TVectorImageStoryItem
     Align = Scale
-    Enabled = False
     Locked = True
-    Size.Width = 600.000000000000000000
-    Size.Height = 600.000000000000000000
+    Position.X = 12.426292419433590000
+    Position.Y = 14.218797683715820000
+    Size.Width = 585.429565429687500000
+    Size.Height = 587.117797851562500000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     Home = True
     StoryPoint = True
+    BackgroundColor = xFFE0E0E0
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:#befaee;}.cl' +
@@ -76,12 +80,13 @@ object StoryRoot2222222: TPanelStoryItem
     object hare2075589714: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 0.299128532409668000
-      Position.Y = 429.102600097656300000
-      Size.Width = 135.018615722656300000
-      Size.Height = 85.920944213867190000
+      Position.X = 0.287428855895996100
+      Position.Y = 419.889739990234400000
+      Size.Width = 96.938354492187500000
+      Size.Height = 81.658020019531250000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
         'svg" viewBox="0 0 660 567.74"><defs><style>.cls-1{fill:#ebebeb;}' +
@@ -384,16 +389,56 @@ object StoryRoot2222222: TPanelStoryItem
         '6.37,16.37,0,0,0,3.77-3.11l0,0c.35-.4.69-.81,1-1.24a9.6,9.6,0,0,' +
         '1,0-19.18"/></svg>'
       AutoSize = False
+      object BitmapImageStoryItem: TBitmapImageStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = 50.238502502441410000
+        Position.Y = -57.367210388183590000
+        Size.Width = 168.072509765625000000
+        Size.Height = 90.346321105957030000
+        Size.PlatformDefault = False
+        TabStop = False
+        BackgroundColor = xFFE0E0E0
+        SVGText = 
+          '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
+          '000/svg" viewBox="0 0 190.38 167.32"><defs><style>.cls-1{fill:#f' +
+          'ff;stroke:#231f20;stroke-miterlimit:10;}</style></defs><title>sp' +
+          'eechbubbles</title><path class="cls-1" d="M51,148.7H67.33l-25,18' +
+          '.62-.64-.58,9-9.66H30.16c6-6.13,11.45-11.61,16.83-17.14s10.69-11' +
+          '.14,16.06-16.73l-21.24-1.12L87.32,88.63c-10.72-1-20.5-2.22-30.32' +
+          '-2.85C37.47,84.53,21.07,76.55,7.82,62.49c-7-7.39-7-16.66-3.59-25' +
+          '.87C9.17,23.36,19.59,15.74,32,10.33,42.47,5.76,53.62,3.65,64.86,' +
+          '2.57,77.8,1.32,90.85,0,103.79.46a153,153,0,0,1,69.83,19.46c7.94,' +
+          '4.44,14,10.68,15.18,20.07,1.51,11.92-2.34,22.23-11.41,30.16C166.' +
+          '73,79.46,153.83,84,140,85.63c-9.94,1.21-20,1.5-30,2.27a7.31,7.31' +
+          ',0,0,0-3.34.95q-17.58,11.67-35.07,23.49a14.41,14.41,0,0,0-1.31,1' +
+          '.2l20.06,1.19Z"/></svg>'
+        AutoSize = False
+        object TextStoryItem: TTextStoryItem
+          Align = Scale
+          Locked = True
+          Position.X = 17.004940032958980000
+          Position.Y = 10.335843086242680000
+          Size.Width = 141.117385864257800000
+          Size.Height = 27.562473297119140000
+          Size.PlatformDefault = False
+          TabStop = False
+          BackgroundColor = xFFE0E0E0
+          Text = #917#943#956#945#953' '#959' '#960#953#959' '#947#961#942#947#959#961#959#962'!'
+          TextColor = claBlack
+        end
+      end
     end
     object turtle1128922017: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 468.254302978515600000
-      Position.Y = 452.470397949218800000
-      Size.Width = 112.515510559082000000
-      Size.Height = 71.600784301757810000
+      Position.X = 455.726135253906300000
+      Position.Y = 447.933624267578100000
+      Size.Width = 106.084899902343800000
+      Size.Height = 58.117736816406250000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
         'svg" viewBox="0 0 660 333.17"><defs><style>.cls-1{fill:#63ad45;}' +
@@ -1754,16 +1799,55 @@ object StoryRoot2222222: TPanelStoryItem
         '1-3.08-.25c-.28,0-.47,0-.82-.08a3.49,3.49,0,0,1-1-.28,3.86,3.86,' +
         '0,0,1-1.61-1.28,4,4,0,0,1-.78-2"/></svg>'
       AutoSize = False
+      object BitmapImageStoryItem: TBitmapImageStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = -170.199020385742200000
+        Position.Y = -55.183147430419920000
+        Size.Width = 168.072509765625000000
+        Size.Height = 90.346305847167970000
+        Size.PlatformDefault = False
+        TabStop = False
+        BackgroundColor = xFFE0E0E0
+        SVGText = 
+          '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
+          '000/svg" viewBox="0 0 246.81 167.32"><defs><style>.cls-1{fill:#f' +
+          'ff;stroke:#231f20;stroke-miterlimit:10;stroke-width:1.25px;}</st' +
+          'yle></defs><title>speechbubbles</title><path class="cls-1" d="M2' +
+          '45.29,167.32c-7.85-5-16.4-9.31-23.4-15.3-14.54-12.44-28.36-25.68' +
+          '-42.2-38.87a30.51,30.51,0,0,1-6.33-9.83c-1.89-4.29-4.37-4.68-8.4' +
+          '5-3.11-44.47,17.13-88.24,12.66-131-5.38-9-3.79-17.4-10.35-24.13-' +
+          '17.4-13.62-14.27-12.7-31.6,1.06-45.81,13.36-13.78,30.53-21,48.95' +
+          '-25.33,42.5-10,84.33-8.86,124.74,9C195,20,204.12,26.42,211.28,35' +
+          '.42c12.74,16,7.54,36.05-6.26,45-5.48,3.57-6.87,8.54-3.84,13.89,7' +
+          '.92,14,16,27.92,24.59,41.5,6.51,10.25,14,19.92,21,29.85Z"/></svg' +
+          '>'
+        AutoSize = False
+        object TextStoryItem2: TTextStoryItem
+          Align = Scale
+          Locked = True
+          Position.X = 7.030768394470215000
+          Position.Y = 16.413242340087890000
+          Size.Width = 141.117385864257800000
+          Size.Height = 27.562458038330080000
+          Size.PlatformDefault = False
+          TabStop = False
+          BackgroundColor = xFFE0E0E0
+          Text = #922#940#957#959#965#956#949' '#941#957#945#957' '#945#947#974#957#945';'
+          TextColor = claBlack
+        end
+      end
     end
     object Hole1446348090: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 2.464470148086548000
-      Position.Y = 512.382995605468800000
-      Size.Width = 93.762924194335940000
-      Size.Height = 59.667327880859380000
+      Position.X = 11.061520576477050000
+      Position.Y = 503.552490234375000000
+      Size.Width = 67.339721679687500000
+      Size.Height = 51.498046875000000000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
         '0/svg">'#10'  <g id="color">'#10'    <ellipse cx="36" cy="36" rx="32.5" ' +
@@ -1784,14 +1868,15 @@ object StoryRoot2222222: TPanelStoryItem
   end
   object Background2: TVectorImageStoryItem
     Align = Scale
-    Enabled = False
     Locked = True
-    Position.X = 600.000000000000000000
-    Size.Width = 600.000000000000000000
-    Size.Height = 600.000000000000000000
+    Position.X = 613.012390136718800000
+    Position.Y = 15.840827941894530000
+    Size.Width = 575.216003417968800000
+    Size.Height = 585.318603515625000000
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
+    BackgroundColor = xFFE0E0E0
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 500 500"><defs><style>.cls-1{fill:#d9f0ff;}.cl' +
@@ -1930,13 +2015,14 @@ object StoryRoot2222222: TPanelStoryItem
     object hare20755897142: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 359.201293945312500000
-      Position.Y = 358.339904785156300000
+      Position.X = 334.657867431640600000
+      Position.Y = 345.834533691406300000
       Scale.X = -1.000000000000000000
-      Size.Width = 54.260944366455080000
-      Size.Height = 34.529697418212890000
+      Size.Width = 47.740234375000000000
+      Size.Height = 39.495910644531250000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
         'svg" viewBox="0 0 660 567.74"><defs><style>.cls-1{fill:#ebebeb;}' +
@@ -2243,12 +2329,13 @@ object StoryRoot2222222: TPanelStoryItem
     object turtle11289220172: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 205.832748413085900000
-      Position.Y = 412.116882324218800000
-      Size.Width = 78.135765075683590000
-      Size.Height = 49.722766876220700000
+      Position.X = 197.330490112304700000
+      Position.Y = 402.032958984375000000
+      Size.Width = 85.122238159179690000
+      Size.Height = 48.209472656250000000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
         'svg" viewBox="0 0 660 333.17"><defs><style>.cls-1{fill:#63ad45;}' +
@@ -3613,12 +3700,13 @@ object StoryRoot2222222: TPanelStoryItem
     object Owl165716411: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 365.989074707031300000
-      Position.Y = 135.415893554687500000
-      Size.Width = 69.205200195312500000
-      Size.Height = 91.386337280273440000
+      Position.X = 334.395965576171900000
+      Position.Y = 132.102355957031300000
+      Size.Width = 82.821380615234380000
+      Size.Height = 89.246414184570310000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
         '0/svg">'#13'  <g id="color">'#13'    <path fill="#9B9B9A" stroke="#9B9B9' +
@@ -3663,18 +3751,62 @@ object StoryRoot2222222: TPanelStoryItem
         'mit="10" stroke-width="2" d="M25,59c0,0-0.75-7,1.625-9S37,41,36,' +
         '35"/>'#13'  </g>'#13'</svg>'
       AutoSize = False
+      object BitmapImageStoryItem: TBitmapImageStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = -77.727111816406250000
+        Position.Y = -40.848503112792970000
+        Size.Width = 107.127609252929700000
+        Size.Height = 67.944557189941410000
+        Size.PlatformDefault = False
+        TabStop = False
+        BackgroundColor = xFFE0E0E0
+        SVGText = 
+          '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
+          '000/svg" viewBox="0 0 216.6 167.32"><defs><style>.cls-1{fill:#ff' +
+          'f;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.99px;}</sty' +
+          'le></defs><title>speechbubbles</title><path class="cls-1" d="M20' +
+          '7.23,166.81a49.3,49.3,0,0,1-37.11-9.42C160.33,150.28,153,141,146' +
+          '.56,131c-1.54-2.4-3-4.83-4.78-7.59l-15.49,16.4-7.8-16.2L95.41,14' +
+          '2.4l-6.35-20.77-22.7,25.16c-1.68-9.37-3.28-18.25-5-27.65L25.73,1' +
+          '40.5l9.43-35.76L6.52,108c4.88-6.69,9.18-12.86,13.79-18.79,1.6-2.' +
+          '06,1.22-3.3-.23-5.07C13.77,76.44,7.56,68.67,1.32,60.93,1,60.5.67' +
+          ',60,0,59.08l37.6-1.76C31.08,42.26,24.67,27.49,18.27,12.71l.38-.4' +
+          '5L49.84,30.62C50.93,20.31,52,10.5,53.09,0L72.81,21.58,101.16.86l' +
+          '23.78,29.59L138.76-.15l13.65,20,32.18-12.5c-1.52,11.32-3,22.08-4' +
+          '.5,33.42L213,25.42l.38.46c-6,9.39-11.9,18.78-18,28.4,7,7.21,13.9' +
+          '3,14.4,21.25,22L196.38,86.94l17,12.6-19.89,8.14c-3.38,1.38-6.73,' +
+          '2.82-10.15,4.07a4.57,4.57,0,0,0-3.21,3.55c-2,7.73-.6,15.12,2.25,' +
+          '22.3a57.76,57.76,0,0,0,22.67,27.72C205.6,165.68,206.13,166.06,20' +
+          '7.23,166.81Z"/></svg>'
+        AutoSize = False
+        object TextStoryItem: TTextStoryItem
+          Align = Scale
+          Locked = True
+          Position.X = 26.139307022094730000
+          Position.Y = 15.146841049194340000
+          Size.Width = 68.133132934570310000
+          Size.Height = 28.129915237426760000
+          Size.PlatformDefault = False
+          TabStop = False
+          BackgroundColor = xFFE0E0E0
+          Text = #932#961#941#958#964#949'!!!'#13#10'......'
+          TextColor = claBlack
+        end
+      end
     end
   end
   object Background3: TVectorImageStoryItem
     Align = Scale
-    Enabled = False
     Locked = True
-    Position.Y = 600.000000000000000000
-    Size.Width = 600.000000000000000000
-    Size.Height = 600.000000000000000000
+    Position.X = 9.427619934082031000
+    Position.Y = 623.677062988281300000
+    Size.Width = 588.633117675781300000
+    Size.Height = 566.843811035156300000
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
+    BackgroundColor = xFFE0E0E0
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 660 660"><defs><style>.cls-1{fill:#eff7c3;}.cl' +
@@ -3794,12 +3926,13 @@ object StoryRoot2222222: TPanelStoryItem
     object hare207558971422: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 368.853363037109400000
-      Position.Y = 464.791381835937500000
-      Size.Width = 135.018615722656300000
-      Size.Height = 85.920944213867190000
+      Position.X = 361.867004394531300000
+      Position.Y = 449.125640869140600000
+      Size.Width = 107.572082519531300000
+      Size.Height = 71.157440185546880000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
         'svg" viewBox="0 0 660 567.74"><defs><style>.cls-1{fill:#ebebeb;}' +
@@ -4105,12 +4238,13 @@ object StoryRoot2222222: TPanelStoryItem
       object speechbubbles115403232: TVectorImageStoryItem
         Align = Scale
         Locked = True
-        Position.X = 89.804061889648440000
-        Position.Y = -31.870937347412110000
-        Size.Width = 112.515510559082000000
-        Size.Height = 71.600784301757810000
+        Position.X = 85.475723266601560000
+        Position.Y = -36.453285217285160000
+        Size.Width = 89.643356323242190000
+        Size.Height = 59.297885894775390000
         Size.PlatformDefault = False
         TabStop = False
+        BackgroundColor = xFFE0E0E0
         SVGText = 
           '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
           '000/svg" viewBox="0 0 206.5 167.32"><defs><style>.cls-1{fill:#ff' +
@@ -4143,12 +4277,13 @@ object StoryRoot2222222: TPanelStoryItem
         object Sleep1301956649: TVectorImageStoryItem
           Align = Scale
           Locked = True
-          Position.X = 14.874752044677730000
-          Position.Y = 2.655879974365234000
-          Size.Width = 76.618469238281250000
-          Size.Height = 48.757217407226560000
+          Position.X = 19.052972793579100000
+          Position.Y = 5.175776481628418000
+          Size.Width = 50.869567871093750000
+          Size.Height = 33.649517059326170000
           Size.PlatformDefault = False
           TabStop = False
+          BackgroundColor = xFFE0E0E0
           SVGText = 
             '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
             '0/svg">'#10'  <g id="color"/>'#10'  <g id="hair"/>'#10'  <g id="skin"/>'#10'  <g' +
@@ -4169,13 +4304,14 @@ object StoryRoot2222222: TPanelStoryItem
     object turtle112892201722: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 313.832763671875000000
-      Position.Y = 340.835479736328100000
+      Position.X = 300.027404785156300000
+      Position.Y = 322.973999023437500000
       Scale.X = -1.000000000000000000
-      Size.Width = 78.135765075683590000
-      Size.Height = 49.722770690917970000
+      Size.Width = 77.145324707031250000
+      Size.Height = 38.665344238281250000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
         'svg" viewBox="0 0 660 333.17"><defs><style>.cls-1{fill:#63ad45;}' +
@@ -5536,19 +5672,64 @@ object StoryRoot2222222: TPanelStoryItem
         '1-3.08-.25c-.28,0-.47,0-.82-.08a3.49,3.49,0,0,1-1-.28,3.86,3.86,' +
         '0,0,1-1.61-1.28,4,4,0,0,1-.78-2"/></svg>'
       AutoSize = False
+      object BitmapImageStoryItem: TBitmapImageStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = -139.009536743164100000
+        Position.Y = -26.565525054931640000
+        Size.Width = 154.079101562500000000
+        Size.Height = 48.814697265625000000
+        Size.PlatformDefault = False
+        TabStop = False
+        BackgroundColor = xFFE0E0E0
+        SVGText = 
+          '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
+          '000/svg" viewBox="0 0 231.77 167.32"><defs><style>.cls-1{fill:#f' +
+          'ff;stroke:#231f20;stroke-miterlimit:10;stroke-width:1.06px;}</st' +
+          'yle></defs><title>speechbubbles</title><path class="cls-1" d="M1' +
+          '45.18,141.05c-38.49,5.32-75.33,2-109.62-17.4C25,117.68,15.86,110' +
+          ',9,99.87-4.83,79.39-2.59,55.76,14.81,37.05,30.12,20.58,49.6,11.4' +
+          '6,70.92,6.22c36-8.85,71.62-7.5,106.37,5.94,15.94,6.17,30.25,15,4' +
+          '1,28.76,16.39,20.86,15.68,46.73-3.06,65.61-7.69,7.76-17.35,13.61' +
+          '-26.36,20-1.36,1-4.33.67-6-.12-7.37-3.38-14.91-4.31-22.63-2C152.' +
+          '15,126.88,146.11,131.57,145.18,141.05Z"/><path class="cls-1" d="' +
+          'M188.48,144.15c-8.45-.07-16.59-.16-20,9.55-5.81.81-10.83-1.15-15' +
+          '.31-4.5-6.2-4.63-6.5-12-.93-17.31,8.2-7.86,25.36-7.68,33.54.3C18' +
+          '9.18,135.47,190.13,139.26,188.48,144.15Z"/><path class="cls-1" d' +
+          '="M199.69,166.71c-3.69-.08-5.73-1.78-5.75-5.43s1.85-5.71,5.37-5.' +
+          '74,5.55,1.92,5.66,5.51S203.08,166.45,199.69,166.71Z"/><path clas' +
+          's="cls-1" d="M182.88,145.82c6.3,0,11.22,3.67,11.05,8.2-.15,4.24-' +
+          '5.14,7.84-11,7.93s-11.27-3.72-11.28-8.12S176.63,145.8,182.88,145' +
+          '.82Z"/></svg>'
+        AutoSize = False
+        object TextStoryItem2: TTextStoryItem
+          Align = Scale
+          Locked = True
+          Position.X = 134.679946899414100000
+          Position.Y = 12.450060844421390000
+          Scale.X = -1.000000000000000000
+          Size.Width = 124.170455932617200000
+          Size.Height = 20.019798278808590000
+          Size.PlatformDefault = False
+          TabStop = False
+          BackgroundColor = xFFE0E0E0
+          Text = #927#965#966', '#964#959#957' '#960#941#961#945#963#945
+          TextColor = claBlack
+        end
+      end
     end
   end
   object Background4: TVectorImageStoryItem
     Align = Scale
-    Enabled = False
     Locked = True
-    Position.X = 600.000000000000000000
-    Position.Y = 600.000000000000000000
-    Size.Width = 600.000000000000000000
-    Size.Height = 600.000000000000000000
+    Position.X = 613.030334472656300000
+    Position.Y = 623.677062988281300000
+    Size.Width = 575.882995605468800000
+    Size.Height = 565.400573730468800000
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
+    BackgroundColor = xFFE0E0E0
     SVGText = 
       '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
       'svg" viewBox="0 0 660 660"><defs><style>.cls-1{fill:#6d9d31;}.cl' +
@@ -5620,12 +5801,13 @@ object StoryRoot2222222: TPanelStoryItem
     object HoleFlag462982182: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 204.045806884765600000
-      Position.Y = 274.337158203125000000
-      Size.Width = 93.762924194335940000
-      Size.Height = 59.667320251464840000
+      Position.X = 295.056030273437500000
+      Position.Y = 255.264617919921900000
+      Size.Width = 86.260375976562500000
+      Size.Height = 53.779815673828130000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
         '0/svg">'#10'  <g id="color">'#10'    <path fill="#B1CC33" stroke="none" ' +
@@ -5667,12 +5849,13 @@ object StoryRoot2222222: TPanelStoryItem
     object burundukaschimpmunk956331461: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 222.310424804687500000
-      Position.Y = 310.281555175781300000
-      Size.Width = 46.758884429931640000
-      Size.Height = 36.483757019042970000
+      Position.X = 209.399047851562500000
+      Position.Y = 257.000396728515600000
+      Size.Width = 28.162200927734380000
+      Size.Height = 37.766540527343750000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<?xml version="1.0"?>'#13#10'<svg xmlns:rdf="http://www.w3.org/1999/02' +
         '/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc=' +
@@ -6322,16 +6505,63 @@ object StoryRoot2222222: TPanelStoryItem
         '.org/ns#DerivativeWorks"/>'#13#10'   </cc:License>'#13#10'  </rdf:RDF>'#13#10' </m' +
         'etadata>'#13#10'</svg>'#13#10
       AutoSize = False
+      object BitmapImageStoryItem3: TBitmapImageStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = 29.616535186767580000
+        Position.Y = -53.286178588867190000
+        Size.Width = 160.135375976562500000
+        Size.Height = 64.911369323730470000
+        Size.PlatformDefault = False
+        TabStop = False
+        BackgroundColor = xFFE0E0E0
+        SVGText = 
+          '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
+          '000/svg" viewBox="0 0 218.85 167.32"><defs><style>.cls-1{fill:#f' +
+          'ff;stroke:#231f20;stroke-miterlimit:10;stroke-width:1.21px;}</st' +
+          'yle></defs><title>speechbubbles</title><path class="cls-1" d="M1' +
+          '32.32,9.49c5.17,6.83,10,13,14.6,19.42,1.79,2.52,3.1,3.24,6.26,1.' +
+          '89,14.15-6,28.47-11.64,42.73-17.4,1.07-.43,2.17-.78,4.1-1.47-1,2' +
+          '.35-1.71,4.08-2.52,5.74-5.28,10.86-10.63,21.68-15.85,32.57-2.12,' +
+          '4.44-2,4.75,2.68,6.45,10,3.68,20.09,7.26,30.14,10.88l4.39,1.59-5' +
+          '.52,2.71c-9,4.47-18,9-27,13.36-2.71,1.31-3.24,2.91-2,5.63,3,7,5.' +
+          '89,14,9.13,21.71H160.48c-2.38,12.24-4.66,23.9-7.12,36.49l-31.15-' +
+          '26.73c-6.76,3.85-13.52,7.73-20.31,11.55-18.69,10.52-37.73,20.27-' +
+          '58.18,26.86-11,3.53-22.11,6.22-33.74,5.84-3-.09-6-.44-10-.76,1.5' +
+          '7-.79,2.22-1.22,2.93-1.47,26.58-9.45,50.61-23.5,72.54-41.24a55.6' +
+          '5,55.65,0,0,0,7.76-8.31c.87-1.07.93-2.79,1.36-4.22a16.2,16.2,0,0' +
+          ',0-4-1c-13.58.25-27.16.61-40.74.93-1.52,0-3.05,0-5.84,0L68.07,80' +
+          '.33,48.66,58.83l17.94-6A71.26,71.26,0,0,1,74,50.49c3.18-.67,3.55' +
+          '-2.18,2.53-5.06-4.78-13.48-9.4-27-14.07-40.54C62,3.57,61.68,2.21' +
+          ',61,0c2.62,1.52,4.5,2.58,6.35,3.68,13.38,7.91,26.8,15.77,40.11,2' +
+          '3.81,2.75,1.66,4.6,1.34,6.83-.85C120.07,20.94,126,15.44,132.32,9' +
+          '.49Z"/></svg>'
+        AutoSize = False
+        object TextStoryItem: TTextStoryItem
+          Align = Scale
+          Locked = True
+          Position.X = 58.597259521484380000
+          Position.Y = 13.966518402099610000
+          Size.Width = 74.041564941406250000
+          Size.Height = 26.754558563232420000
+          Size.PlatformDefault = False
+          TabStop = False
+          BackgroundColor = xFFE0E0E0
+          Text = #925#943#954#951#963#949#962'!!!'#13#10'......'
+          TextColor = claBlack
+        end
+      end
     end
     object Simple_Farm_Animals1198692032: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 437.977661132812500000
-      Position.Y = 312.531463623046900000
-      Size.Width = 162.022338867187500000
-      Size.Height = 103.105133056640600000
+      Position.X = 323.059906005859400000
+      Position.Y = 291.339263916015600000
+      Size.Width = 107.188385009765600000
+      Size.Height = 74.090179443359380000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="svg2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="h' +
         'ttp://www.w3.org/1999/xlink" viewBox="0 0 117.85 106.28"><defs><' +
@@ -6434,12 +6664,13 @@ object StoryRoot2222222: TPanelStoryItem
     object turtle1128922017222: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 262.226043701171900000
-      Position.Y = 307.396850585937500000
-      Size.Width = 65.113136291503910000
-      Size.Height = 41.435638427734380000
+      Position.X = 241.243881225585900000
+      Position.Y = 277.065429687500000000
+      Size.Width = 59.903030395507810000
+      Size.Height = 37.347045898437500000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
         'svg" viewBox="0 0 660 333.17"><defs><style>.cls-1{fill:#63ad45;}' +
@@ -7804,12 +8035,13 @@ object StoryRoot2222222: TPanelStoryItem
     object hare20755897143: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 32.214092254638670000
-      Position.Y = 487.548126220703100000
-      Size.Width = 135.018615722656300000
-      Size.Height = 85.920951843261720000
+      Position.X = 29.636465072631840000
+      Position.Y = 439.440643310546900000
+      Size.Width = 101.016304016113300000
+      Size.Height = 76.716583251953130000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       SVGText = 
         '<svg id="publicdomainvectors.org" xmlns="http://www.w3.org/2000/' +
         'svg" viewBox="0 0 660 567.74"><defs><style>.cls-1{fill:#ebebeb;}' +
@@ -8112,15 +8344,70 @@ object StoryRoot2222222: TPanelStoryItem
         '6.37,16.37,0,0,0,3.77-3.11l0,0c.35-.4.69-.81,1-1.24a9.6,9.6,0,0,' +
         '1,0-19.18"/></svg>'
       AutoSize = False
+      object BitmapImageStoryItem2: TBitmapImageStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = 79.527839660644530000
+        Position.Y = -28.488967895507810000
+        Size.Width = 149.945190429687500000
+        Size.Height = 73.172561645507810000
+        Size.PlatformDefault = False
+        TabStop = False
+        BackgroundColor = xFFE0E0E0
+        SVGText = 
+          '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
+          '000/svg" viewBox="0 0 206.5 167.32"><defs><style>.cls-1{fill:#ff' +
+          'f;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.86px;}</sty' +
+          'le></defs><title>speechbubbles</title><path class="cls-1" d="M18' +
+          '2.19,86.26c-2.8-11.59-10.42-20.27-18.23-20a41.06,41.06,0,0,0,3.4' +
+          '7,2.87c9.88,6.3,13.88,14.65,11.44,24-2.35,9-12.53,16.44-23.14,16' +
+          '.76a29.26,29.26,0,0,1-4.29-.16c-8.12-.93-8.52-1.29-10.32-9.19-3.' +
+          '7,14.4-12.57,23.25-27.22,24.79-14.37,1.52-25.54-4.24-32.76-17.33' +
+          'L80,108.8c.44,1.69.88,3.39,1.34,5.18-12,8.31-34.22,3.68-43.46-9.' +
+          '3l3.24-2.16-.21-1c-1.55.12-3.11.13-4.63.38A20.29,20.29,0,0,1,17.' +
+          '8,96.16a14.48,14.48,0,0,1-1.88-17.8c1.22-2,2.39-2.55,4.79-1.85,3' +
+          '.2.92,6.61,2.57,10.07-.59-2.12-.35-4.23-.73-6.35-1C14.64,73.45,8' +
+          '.36,65.56,9.62,56.26c.86-6.3,6.59-11.45,14.74-13.15.75,1.14,1.54' +
+          ',2.33,2.32,3.53l1.33.25c-3.27-15,1.53-26,15.14-32.18C56,8.89,68.' +
+          '09,11.93,79.54,19.76c.21-.51.41-1,.61-1.54l-5-4.53c6.4-10.57,21.' +
+          '72-12.86,34.31-5v4.87C114.24,5.41,120.21-.2,130.2.05a19,19,0,0,1' +
+          ',13.48,5.47L141,10.69l1.07.89c1-1,2.17-2,3.09-3.1,8.87-10.86,25.' +
+          '93-11.58,34.55-1,2.65,3.25,3.8,7.73,5.75,11.91l1.94-2.17c7.35,3,' +
+          '12.77,7.8,14.25,16.1,1.46,8.11-3.9,13.6-8.73,19.27l1.54,1,7-6.68' +
+          'c5.37,7.41,6.7,15.21,2.81,23.39C199.91,79.47,192.33,84.48,182.19' +
+          ',86.26Z"/><path class="cls-1" d="M22.59,145.44c6,0,10.63,3,10.47' +
+          ',6.64-.15,3.44-4.87,6.36-10.4,6.43S12,155.5,12,151.93,16.68,145.' +
+          '42,22.59,145.44Z"/><path class="cls-1" d="M35.33,122.67c7.8,0,13' +
+          '.9,3.89,13.69,8.7-.19,4.5-6.37,8.32-13.61,8.41-7.41.1-14-3.94-14' +
+          '-8.61S27.58,122.65,35.33,122.67Z"/><path class="cls-1" d="M7.92,' +
+          '161.17c3,0,5.31,1.48,5.23,3.32s-2.44,3.18-5.2,3.21-5.34-1.5-5.34' +
+          '-3.28S5,161.16,7.92,161.17Z"/></svg>'
+        AutoSize = False
+        object TextStoryItem2: TTextStoryItem
+          Align = Scale
+          Locked = True
+          Position.X = 25.184576034545900000
+          Position.Y = 11.195763587951660000
+          Size.Width = 92.989326477050780000
+          Size.Height = 31.588180541992190000
+          Size.PlatformDefault = False
+          TabStop = False
+          BackgroundColor = xFFE0E0E0
+          Text = #932#951#957' '#960#940#964#951#963#945'!'
+          TextColor = claBlack
+        end
+      end
     end
     object Simple_Farm_Animals1204001792: TVectorImageStoryItem
       Align = Scale
-      Position.X = 380.424530029296900000
-      Position.Y = 261.794494628906300000
-      Size.Width = 103.198303222656300000
-      Size.Height = 183.788726806640600000
+      Position.X = 212.938064575195300000
+      Position.Y = 298.739013671875000000
+      Scale.X = -1.000000000000000000
+      Size.Width = 88.395248413085940000
+      Size.Height = 97.863159179687500000
       Size.PlatformDefault = False
       TabStop = False
+      BackgroundColor = xFFE0E0E0
       Anchored = False
       SVGText = 
         '<svg id="svg2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="h' +
