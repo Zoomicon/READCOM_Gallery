@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns1="http://sozi.baierouge.fr" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" xml:space="preserve" viewBox="0 0 18.2 46.493" version="1.1" inkscape:version="0.91 r13725">
+  <defs id="defs6">
+    <linearGradient id="linearGradient24" y2="51.2" gradientUnits="userSpaceOnUse" x2="6.3247" gradientTransform="matrix(.8 0 0 -.8 2.7689e-7 37.194)" y1="25.5" x1="6.3247">
+      <stop id="stop26" style="stop-color:#268c9f" offset="0"/>
+      <stop id="stop28" style="stop-color:#267483" offset=".2588"/>
+      <stop id="stop30" style="stop-color:#24373c" offset=".81960"/>
+      <stop id="stop32" style="stop-color:#242224" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient46" y2="57.275" gradientUnits="userSpaceOnUse" x2="12.301" gradientTransform="matrix(.8 0 0 -.8 2.7689e-7 37.194)" y1="-1.2749" x1="12.301">
+      <stop id="stop48" style="stop-color:#5ac28f" offset="0"/>
+      <stop id="stop50" style="stop-color:#51a67c" offset=".20390"/>
+      <stop id="stop52" style="stop-color:#395f4d" offset=".64710"/>
+      <stop id="stop54" style="stop-color:#242224" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient68" y2="53.112" gradientUnits="userSpaceOnUse" x2="7.9751" gradientTransform="matrix(.8 0 0 -.8 2.7689e-7 37.194)" y1="20.587" x1="7.9751">
+      <stop id="stop70" style="stop-color:#454d9f" offset="0"/>
+      <stop id="stop72" style="stop-color:#3e4383" offset=".2588"/>
+      <stop id="stop74" style="stop-color:#2a2a3c" offset=".81960"/>
+      <stop id="stop76" style="stop-color:#242224" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="g10" transform="matrix(1.25 0 0 -1.25 0 46.493)">
+    <g id="g12">
+      <g id="g14">
+        <g id="g16">
+          <g id="g22">
+            <path id="path34" style="fill-rule:evenodd;fill:url(#linearGradient24)" d="m9.281 0.394c-0.48-0.399-1.386-0.481-2.722-0.239 0.16 2.266 0.043 4.641-0.36 7.117-0.801 4.961-2.586 7.989-5.359 9.083l1.199-0.442c0.961-0.453 1.867-1.133 2.723-2.039 2.664-2.879 4.172-7.371 4.519-13.48z" inkscape:connector-curvature="0"/>
+          </g>
+        </g>
+      </g>
+      <g id="g36">
+        <g id="g38">
+          <g id="g44">
+            <path id="path56" style="fill-rule:evenodd;fill:url(#linearGradient46)" d="m14.559 0.636c-0.266-0.188-0.625-0.348-1.079-0.481-0.906-0.242-1.773-0.199-2.601 0.117 0.16 5.149 0.043 10.563-0.359 16.243-0.801 11.304-2.598 18.199-5.399 20.679 1.438-0.507 2.906-2.414 4.399-5.718 3.015-6.614 4.695-16.895 5.039-30.84z" inkscape:connector-curvature="0"/>
+          </g>
+        </g>
+      </g>
+      <g id="g58">
+        <g id="g60">
+          <g id="g66">
+            <path id="path78" style="fill-rule:evenodd;fill:url(#linearGradient68)" d="m12.762 0.593c-0.11-0.133-0.309-0.238-0.602-0.321-0.586-0.156-1.293-0.144-2.121 0.043-0.16 3.067-0.691 6.415-1.598 10.04-1.816 7.199-4.629 12.121-8.441 14.761 1.922-0.777 3.895-2.363 5.922-4.761 4.051-4.852 6.332-11.442 6.84-19.762z" inkscape:connector-curvature="0"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+<metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/><dc:publisher><cc:Agent rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher></cc:Work><cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/><cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/><cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata></svg>
