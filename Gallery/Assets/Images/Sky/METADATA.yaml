@@ -1,0 +1,15 @@
+---
+title: Images for Sky objects
+tags: Sky, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - OpenMoji:
+        license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+        attribution: OpenMoji.org
+        files:
+          - Sun.svg:
+              title: Sun
+              tags: Sun
+              source: https://openmoji.org/library/#search=light&emoji=1F506
