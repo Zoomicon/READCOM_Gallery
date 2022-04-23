@@ -10,7 +10,6 @@ object StoryRoot22222222: TPanelStoryItem
   StoryPoint = False
   object Background1: TVectorImageStoryItem
     Align = Scale
-    Enabled = False
     Locked = True
     Position.X = 17.893867492675780000
     Position.Y = 20.475074768066410000
@@ -18,6 +17,7 @@ object StoryRoot22222222: TPanelStoryItem
     Size.Height = 845.449707031250000000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     Home = True
     StoryPoint = True
     SVGText = 
@@ -421,6 +421,7 @@ object StoryRoot22222222: TPanelStoryItem
           TabStop = False
           ForegroundColor = xFFBF1818
           Text = #917#943#956#945#953' '#959' '#960#953#959' '#947#961#942#947#959#961#959#962'!'
+          Font.Size = 12.600002288818360000
         end
       end
     end
@@ -1827,6 +1828,7 @@ object StoryRoot22222222: TPanelStoryItem
           TabStop = False
           ForegroundColor = xFF0CA554
           Text = #922#940#957#959#965#956#949' '#941#957#945#957' '#945#947#974#957#945';'
+          Font.Size = 13.000003814697270000
         end
       end
     end
@@ -1882,12 +1884,12 @@ object StoryRoot22222222: TPanelStoryItem
         Size.PlatformDefault = False
         TabStop = False
         Text = #927' '#923#913#915#927#931' '#922#913#921' '#919' '#935#917#923#937#925#913
+        Font.Size = 12.300001144409180000
       end
     end
   end
   object Background2: TVectorImageStoryItem
     Align = Scale
-    Enabled = False
     Locked = True
     Position.X = 882.738037109375000000
     Position.Y = 22.810794830322270000
@@ -3752,6 +3754,7 @@ object StoryRoot22222222: TPanelStoryItem
           Size.PlatformDefault = False
           TabStop = False
           Text = #932#961#949#967#940#964#949' '#960#959#948#945#961#940#954#953#945' '#956#959#965
+          Font.Size = 12.700002670288090000
         end
       end
     end
@@ -3846,13 +3849,13 @@ object StoryRoot22222222: TPanelStoryItem
           Size.PlatformDefault = False
           TabStop = False
           Text = #932#961#941#958#964#949'!!!'
+          Font.Size = 12.900003433227540000
         end
       end
     end
   end
   object Background3: TVectorImageStoryItem
     Align = Scale
-    Enabled = False
     Locked = True
     Position.X = 13.575775146484380000
     Position.Y = 898.095153808593800000
@@ -5762,13 +5765,13 @@ object StoryRoot22222222: TPanelStoryItem
           Size.PlatformDefault = False
           TabStop = False
           Text = #927#965#966', '#964#959#957' '#960#941#961#945#963#945'...'
+          Font.Size = 12.500001907348630000
         end
       end
     end
   end
   object Background4: TVectorImageStoryItem
     Align = Scale
-    Enabled = False
     Locked = True
     Position.X = 882.763793945312500000
     Position.Y = 898.095153808593800000
@@ -6586,11 +6589,13 @@ object StoryRoot22222222: TPanelStoryItem
           Locked = True
           Position.X = 61.134990692138670000
           Position.Y = 11.851815223693850000
-          Size.Width = 77.248199462890630000
-          Size.Height = 22.703578948974610000
+          Size.Width = 75.246353149414060000
+          Size.Height = 24.600841522216800000
           Size.PlatformDefault = False
           TabStop = False
+          ForegroundColor = xFFA96B13
           Text = #925#943#954#951#963#949#962'!!!'
+          Font.Size = 14.000007629394530000
         end
       end
     end
@@ -8431,6 +8436,7 @@ object StoryRoot22222222: TPanelStoryItem
           Size.PlatformDefault = False
           TabStop = False
           Text = #932#951#957' '#960#940#964#951#963#945'!'
+          Font.Size = 12.800003051757810000
         end
       end
     end
