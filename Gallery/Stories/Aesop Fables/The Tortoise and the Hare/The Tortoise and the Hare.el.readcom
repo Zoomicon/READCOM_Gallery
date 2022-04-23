@@ -389,10 +389,10 @@ object StoryRoot22222222: TPanelStoryItem
       object BitmapImageStoryItem2: TBitmapImageStoryItem
         Align = Scale
         Locked = True
-        Position.X = 90.468360900878910000
-        Position.Y = -58.796440124511720000
-        Size.Width = 239.688598632812500000
-        Size.Height = 115.144592285156300000
+        Position.X = 90.471405029296880000
+        Position.Y = -37.601570129394530000
+        Size.Width = 163.865844726562500000
+        Size.Height = 93.942916870117190000
         Size.PlatformDefault = False
         TabStop = False
         SVGText = 
@@ -413,14 +413,14 @@ object StoryRoot22222222: TPanelStoryItem
         object TextStoryItem2: TTextStoryItem
           Align = Scale
           Locked = True
-          Position.X = 22.375482559204100000
-          Position.Y = 15.673264503479000000
-          Size.Width = 201.247619628906300000
-          Size.Height = 35.127807617187500000
+          Position.X = 16.579319000244140000
+          Position.Y = 10.747300148010250000
+          Size.Width = 137.585281372070300000
+          Size.Height = 28.659698486328130000
           Size.PlatformDefault = False
           TabStop = False
           ForegroundColor = xFFBF1818
-          Text = 'Haha! Do you ever get anywhere?'
+          Text = #917#943#956#945#953' '#959' '#960#953#959' '#947#961#942#947#959#961#959#962'!'
           Font.Size = 12.600002288818360000
         end
       end
@@ -1797,10 +1797,10 @@ object StoryRoot22222222: TPanelStoryItem
       object BitmapImageStoryItem3: TBitmapImageStoryItem
         Align = Scale
         Locked = True
-        Position.X = -279.935455322265600000
-        Position.Y = -113.295234680175800000
-        Size.Width = 298.235198974609400000
-        Size.Height = 139.990615844726600000
+        Position.X = -190.404907226562500000
+        Position.Y = -36.744537353515630000
+        Size.Width = 186.472564697265600000
+        Size.Height = 86.464950561523440000
         Size.PlatformDefault = False
         TabStop = False
         SVGText = 
@@ -1820,17 +1820,15 @@ object StoryRoot22222222: TPanelStoryItem
         object TextStoryItem22: TTextStoryItem
           Align = Scale
           Locked = True
-          Position.X = 14.976043701171880000
-          Position.Y = 22.931791305541990000
-          Size.Width = 230.399200439453100000
-          Size.Height = 44.436767578125000000
+          Position.X = 7.800476551055908000
+          Position.Y = 15.708120346069340000
+          Size.Width = 140.918472290039100000
+          Size.Height = 23.614316940307620000
           Size.PlatformDefault = False
           TabStop = False
           ForegroundColor = xFF0CA554
-          Text = 
-            'Yes, and I get there sooner than you think. I'#39'll run you a race ' +
-            'and prove it.'
-          Font.Size = 13.500005722045900000
+          Text = #922#940#957#959#965#956#949' '#941#957#945#957' '#945#947#974#957#945';'
+          Font.Size = 13.000003814697270000
         end
       end
     end
@@ -1865,8 +1863,8 @@ object StoryRoot22222222: TPanelStoryItem
       Locked = True
       Position.X = 23.698110580444340000
       Position.Y = 20.891773223876950000
-      Size.Width = 208.806533813476600000
-      Size.Height = 46.087966918945310000
+      Size.Width = 172.918563842773400000
+      Size.Height = 43.119041442871090000
       Size.PlatformDefault = False
       TabStop = False
       SVGText = 
@@ -1879,27 +1877,15 @@ object StoryRoot22222222: TPanelStoryItem
       object TextStoryItem3: TTextStoryItem
         Align = Scale
         Locked = True
-        Position.X = 13.548147201538090000
-        Position.Y = 11.113143920898440000
-        Size.Width = 179.250350952148400000
-        Size.Height = 24.006935119628910000
+        Position.X = 11.219602584838870000
+        Position.Y = 10.397251129150390000
+        Size.Width = 148.442352294921900000
+        Size.Height = 22.460437774658200000
         Size.PlatformDefault = False
         TabStop = False
-        Text = 'THE HARE AND THE TORTOISE'
+        Text = #927' '#923#913#915#927#931' '#922#913#921' '#919' '#935#917#923#937#925#913
         Font.Size = 12.300001144409180000
       end
-    end
-    object TextStoryItem4: TTextStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 327.066680908203100000
-      Position.Y = 212.060714721679700000
-      Size.Width = 407.123382568359400000
-      Size.Height = 65.377456665039060000
-      Size.PlatformDefault = False
-      TabStop = False
-      Text = 'A Hare was making fun of the Tortoise one day for being so slow.'
-      Font.Size = 23.000041961669920000
     end
   end
   object Background2: TVectorImageStoryItem
@@ -3729,6 +3715,48 @@ object StoryRoot22222222: TPanelStoryItem
         '1-3.08-.25c-.28,0-.47,0-.82-.08a3.49,3.49,0,0,1-1-.28,3.86,3.86,' +
         '0,0,1-1.61-1.28,4,4,0,0,1-.78-2"/></svg>'
       AutoSize = False
+      object BitmapImageStoryItem5: TBitmapImageStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = -171.144119262695300000
+        Position.Y = -16.021535873413090000
+        Size.Width = 198.759857177734400000
+        Size.Height = 44.811393737792970000
+        Size.PlatformDefault = False
+        TabStop = False
+        SVGText = 
+          '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
+          '000/svg" viewBox="0 0 231.77 167.32"><defs><style>.cls-1{fill:#f' +
+          'ff;stroke:#231f20;stroke-miterlimit:10;stroke-width:1.06px;}</st' +
+          'yle></defs><title>speechbubbles</title><path class="cls-1" d="M1' +
+          '45.18,141.05c-38.49,5.32-75.33,2-109.62-17.4C25,117.68,15.86,110' +
+          ',9,99.87-4.83,79.39-2.59,55.76,14.81,37.05,30.12,20.58,49.6,11.4' +
+          '6,70.92,6.22c36-8.85,71.62-7.5,106.37,5.94,15.94,6.17,30.25,15,4' +
+          '1,28.76,16.39,20.86,15.68,46.73-3.06,65.61-7.69,7.76-17.35,13.61' +
+          '-26.36,20-1.36,1-4.33.67-6-.12-7.37-3.38-14.91-4.31-22.63-2C152.' +
+          '15,126.88,146.11,131.57,145.18,141.05Z"/><path class="cls-1" d="' +
+          'M188.48,144.15c-8.45-.07-16.59-.16-20,9.55-5.81.81-10.83-1.15-15' +
+          '.31-4.5-6.2-4.63-6.5-12-.93-17.31,8.2-7.86,25.36-7.68,33.54.3C18' +
+          '9.18,135.47,190.13,139.26,188.48,144.15Z"/><path class="cls-1" d' +
+          '="M199.69,166.71c-3.69-.08-5.73-1.78-5.75-5.43s1.85-5.71,5.37-5.' +
+          '74,5.55,1.92,5.66,5.51S203.08,166.45,199.69,166.71Z"/><path clas' +
+          's="cls-1" d="M182.88,145.82c6.3,0,11.22,3.67,11.05,8.2-.15,4.24-' +
+          '5.14,7.84-11,7.93s-11.27-3.72-11.28-8.12S176.63,145.8,182.88,145' +
+          '.82Z"/></svg>'
+        AutoSize = False
+        object TextStoryItem23: TTextStoryItem
+          Align = Scale
+          Locked = True
+          Position.X = 25.781631469726560000
+          Position.Y = 6.592381954193115000
+          Size.Width = 151.826690673828100000
+          Size.Height = 23.484365463256840000
+          Size.PlatformDefault = False
+          TabStop = False
+          Text = #932#961#949#967#940#964#949' '#960#959#948#945#961#940#954#953#945' '#956#959#965
+          Font.Size = 12.700002670288090000
+        end
+      end
     end
     object Owl165716411: TVectorImageStoryItem
       Align = Scale
@@ -3820,106 +3848,8 @@ object StoryRoot22222222: TPanelStoryItem
           Size.Height = 30.767934799194340000
           Size.PlatformDefault = False
           TabStop = False
-          ForegroundColor = xFFA11414
-          Text = 'Start!!!'
-          Font.Size = 16.800018310546880000
-        end
-      end
-    end
-    object TextStoryItem5: TTextStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 79.626174926757810000
-      Position.Y = 311.150299072265600000
-      Size.Width = 344.510864257812500000
-      Size.Height = 94.245544433593750000
-      Size.PlatformDefault = False
-      TabStop = False
-      Text = 
-        'The Hare was much amused at the idea of running a race with the ' +
-        'Tortoise, but for the fun of the thing he agreed. '
-      Font.Size = 19.100027084350590000
-    end
-    object BitmapImageStoryItem5: TBitmapImageStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 207.931808471679700000
-      Position.Y = 432.822845458984400000
-      Size.Width = 254.326080322265600000
-      Size.Height = 74.912475585937500000
-      Size.PlatformDefault = False
-      TabStop = False
-      SVGText = 
-        '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-        '000/svg" viewBox="0 0 231.77 167.32"><defs><style>.cls-1{fill:#f' +
-        'ff;stroke:#231f20;stroke-miterlimit:10;stroke-width:1.06px;}</st' +
-        'yle></defs><title>speechbubbles</title><path class="cls-1" d="M1' +
-        '45.18,141.05c-38.49,5.32-75.33,2-109.62-17.4C25,117.68,15.86,110' +
-        ',9,99.87-4.83,79.39-2.59,55.76,14.81,37.05,30.12,20.58,49.6,11.4' +
-        '6,70.92,6.22c36-8.85,71.62-7.5,106.37,5.94,15.94,6.17,30.25,15,4' +
-        '1,28.76,16.39,20.86,15.68,46.73-3.06,65.61-7.69,7.76-17.35,13.61' +
-        '-26.36,20-1.36,1-4.33.67-6-.12-7.37-3.38-14.91-4.31-22.63-2C152.' +
-        '15,126.88,146.11,131.57,145.18,141.05Z"/><path class="cls-1" d="' +
-        'M188.48,144.15c-8.45-.07-16.59-.16-20,9.55-5.81.81-10.83-1.15-15' +
-        '.31-4.5-6.2-4.63-6.5-12-.93-17.31,8.2-7.86,25.36-7.68,33.54.3C18' +
-        '9.18,135.47,190.13,139.26,188.48,144.15Z"/><path class="cls-1" d' +
-        '="M199.69,166.71c-3.69-.08-5.73-1.78-5.75-5.43s1.85-5.71,5.37-5.' +
-        '74,5.55,1.92,5.66,5.51S203.08,166.45,199.69,166.71Z"/><path clas' +
-        's="cls-1" d="M182.88,145.82c6.3,0,11.22,3.67,11.05,8.2-.15,4.24-' +
-        '5.14,7.84-11,7.93s-11.27-3.72-11.28-8.12S176.63,145.8,182.88,145' +
-        '.82Z"/></svg>'
-      AutoSize = False
-      object TextStoryItem23: TTextStoryItem
-        Align = Scale
-        Locked = True
-        Position.X = 32.989246368408200000
-        Position.Y = 11.020670890808110000
-        Size.Width = 187.578384399414100000
-        Size.Height = 45.682357788085940000
-        Size.PlatformDefault = False
-        TabStop = False
-        ForegroundColor = xFFCF1919
-        Text = 'This is ridiculous. I'#39'll take a nap to prove how fast I am.'
-        Font.Size = 14.400009155273440000
-      end
-      object BitmapImageStoryItem52: TBitmapImageStoryItem
-        Align = Scale
-        Locked = True
-        Position.X = 31.107254028320310000
-        Position.Y = 70.185203552246090000
-        Scale.X = -1.000000000000000000
-        Size.Width = 183.964370727539100000
-        Size.Height = 0.000000000000000000
-        Size.PlatformDefault = False
-        TabStop = False
-        SVGText = 
-          '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-          '000/svg" viewBox="0 0 231.77 167.32"><defs><style>.cls-1{fill:#f' +
-          'ff;stroke:#231f20;stroke-miterlimit:10;stroke-width:1.06px;}</st' +
-          'yle></defs><title>speechbubbles</title><path class="cls-1" d="M1' +
-          '45.18,141.05c-38.49,5.32-75.33,2-109.62-17.4C25,117.68,15.86,110' +
-          ',9,99.87-4.83,79.39-2.59,55.76,14.81,37.05,30.12,20.58,49.6,11.4' +
-          '6,70.92,6.22c36-8.85,71.62-7.5,106.37,5.94,15.94,6.17,30.25,15,4' +
-          '1,28.76,16.39,20.86,15.68,46.73-3.06,65.61-7.69,7.76-17.35,13.61' +
-          '-26.36,20-1.36,1-4.33.67-6-.12-7.37-3.38-14.91-4.31-22.63-2C152.' +
-          '15,126.88,146.11,131.57,145.18,141.05Z"/><path class="cls-1" d="' +
-          'M188.48,144.15c-8.45-.07-16.59-.16-20,9.55-5.81.81-10.83-1.15-15' +
-          '.31-4.5-6.2-4.63-6.5-12-.93-17.31,8.2-7.86,25.36-7.68,33.54.3C18' +
-          '9.18,135.47,190.13,139.26,188.48,144.15Z"/><path class="cls-1" d' +
-          '="M199.69,166.71c-3.69-.08-5.73-1.78-5.75-5.43s1.85-5.71,5.37-5.' +
-          '74,5.55,1.92,5.66,5.51S203.08,166.45,199.69,166.71Z"/><path clas' +
-          's="cls-1" d="M182.88,145.82c6.3,0,11.22,3.67,11.05,8.2-.15,4.24-' +
-          '5.14,7.84-11,7.93s-11.27-3.72-11.28-8.12S176.63,145.8,182.88,145' +
-          '.82Z"/></svg>'
-        AutoSize = False
-        object TextStoryItem232: TTextStoryItem
-          Align = Scale
-          Locked = True
-          Size.Width = 183.964370727539100000
-          Size.Height = 0.000000000000000000
-          Size.PlatformDefault = False
-          TabStop = False
-          Text = #932#961#949#967#940#964#949' '#960#959#948#945#961#940#954#953#945' '#956#959#965
+          Text = #932#961#941#958#964#949'!!!'
+          Font.Size = 12.900003433227540000
         end
       end
     end
@@ -4050,7 +3980,7 @@ object StoryRoot22222222: TPanelStoryItem
       '.44,15.46,15.46,0,0,0,23.67-10.5L640,50.77l-50.19-2.45A15.45,15.' +
       '45,0,0,0,574.59,35.33Z"/></svg>'
     AutoSize = False
-    object hare2075589714222: TVectorImageStoryItem
+    object hare207558971422: TVectorImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 521.088562011718800000
@@ -4425,7 +4355,7 @@ object StoryRoot22222222: TPanelStoryItem
         end
       end
     end
-    object turtle1128922017222: TVectorImageStoryItem
+    object turtle112892201722: TVectorImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 432.039520263671900000
@@ -5795,13 +5725,13 @@ object StoryRoot22222222: TPanelStoryItem
         '1-3.08-.25c-.28,0-.47,0-.82-.08a3.49,3.49,0,0,1-1-.28,3.86,3.86,' +
         '0,0,1-1.61-1.28,4,4,0,0,1-.78-2"/></svg>'
       AutoSize = False
-      object BitmapImageStoryItem523: TBitmapImageStoryItem
+      object BitmapImageStoryItem52: TBitmapImageStoryItem
         Align = Scale
         Locked = True
-        Position.X = -196.559692382812500000
-        Position.Y = -78.128532409667970000
-        Size.Width = 231.566070556640600000
-        Size.Height = 91.696731567382810000
+        Position.X = -128.583816528320300000
+        Position.Y = -54.033325195312500000
+        Size.Width = 140.984115600585900000
+        Size.Height = 74.598320007324220000
         Size.PlatformDefault = False
         TabStop = False
         SVGText = 
@@ -5824,18 +5754,18 @@ object StoryRoot22222222: TPanelStoryItem
           '5.14,7.84-11,7.93s-11.27-3.72-11.28-8.12S176.63,145.8,182.88,145' +
           '.82Z"/></svg>'
         AutoSize = False
-        object TextStoryItem42: TTextStoryItem
+        object TextStoryItem4: TTextStoryItem
           Align = Scale
           Locked = True
-          Position.X = 207.388198852539100000
-          Position.Y = 12.019123077392580000
+          Position.X = 131.009140014648400000
+          Position.Y = 17.372831344604490000
           Scale.X = -1.000000000000000000
-          Size.Width = 175.393890380859400000
-          Size.Height = 55.291908264160160000
+          Size.Width = 119.648437500000000000
+          Size.Height = 32.280090332031250000
           Size.PlatformDefault = False
           TabStop = False
-          Text = 'I think I can make it. I just need to keep going.'
-          Font.Size = 15.100011825561520000
+          Text = #927#965#966', '#964#959#957' '#960#941#961#945#963#945'...'
+          Font.Size = 12.500001907348630000
         end
       end
     end
@@ -6654,16 +6584,17 @@ object StoryRoot22222222: TPanelStoryItem
           '3.81,2.75,1.66,4.6,1.34,6.83-.85C120.07,20.94,126,15.44,132.32,9' +
           '.49Z"/></svg>'
         AutoSize = False
-        object TextStoryItem422: TTextStoryItem
+        object TextStoryItem42: TTextStoryItem
           Align = Scale
           Locked = True
           Position.X = 61.134990692138670000
           Position.Y = 11.851815223693850000
-          Size.Width = 77.248199462890630000
-          Size.Height = 22.703578948974610000
+          Size.Width = 75.246353149414060000
+          Size.Height = 24.600841522216800000
           Size.PlatformDefault = False
           TabStop = False
-          Text = 'You won!'
+          ForegroundColor = xFFA96B13
+          Text = #925#943#954#951#963#949#962'!!!'
           Font.Size = 14.000007629394530000
         end
       end
@@ -6776,7 +6707,7 @@ object StoryRoot22222222: TPanelStoryItem
         '2.56,0,0,0-3.41-.24Z"/></g></g></g></svg>'
       AutoSize = False
     end
-    object turtle11289220172222: TVectorImageStoryItem
+    object turtle1128922017222: TVectorImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 347.391265869140600000
@@ -8149,8 +8080,8 @@ object StoryRoot22222222: TPanelStoryItem
     object hare20755897143: TVectorImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 229.407760620117200000
-      Position.Y = 647.103515625000000000
+      Position.X = 42.676513671875000000
+      Position.Y = 632.794494628906300000
       Size.Width = 145.463500976562500000
       Size.Height = 110.471740722656300000
       Size.PlatformDefault = False
@@ -8460,10 +8391,10 @@ object StoryRoot22222222: TPanelStoryItem
       object BitmapImageStoryItem222: TBitmapImageStoryItem
         Align = Scale
         Locked = True
-        Position.X = 111.272819519043000000
-        Position.Y = -57.357387542724610000
-        Size.Width = 226.651031494140600000
-        Size.Height = 72.830261230468750000
+        Position.X = 111.510292053222700000
+        Position.Y = -53.665569305419920000
+        Size.Width = 158.360046386718800000
+        Size.Height = 74.995597839355470000
         Size.PlatformDefault = False
         TabStop = False
         SVGText = 
@@ -8495,17 +8426,17 @@ object StoryRoot22222222: TPanelStoryItem
           '161.17c3,0,5.31,1.48,5.23,3.32s-2.44,3.18-5.2,3.21-5.34-1.5-5.34' +
           '-3.28S5,161.16,7.92,161.17Z"/></svg>'
         AutoSize = False
-        object TextStoryItem242: TTextStoryItem
+        object TextStoryItem24: TTextStoryItem
           Align = Scale
           Locked = True
-          Position.X = 40.132198333740230000
-          Position.Y = 10.829452514648440000
-          Size.Width = 122.937667846679700000
-          Size.Height = 29.772895812988280000
+          Position.X = 28.040178298950200000
+          Position.Y = 11.151425361633300000
+          Size.Width = 85.896118164062500000
+          Size.Height = 30.658073425292970000
           Size.PlatformDefault = False
           TabStop = False
-          Text = 'Oh no! It'#39's too late...'
-          Font.Size = 12.300001144409180000
+          Text = #932#951#957' '#960#940#964#951#963#945'!'
+          Font.Size = 12.800003051757810000
         end
       end
     end
@@ -8628,21 +8559,6 @@ object StoryRoot22222222: TPanelStoryItem
         '.3,2.55,2.55,0,0,0,3-2,2.54,2.54,0,0,0-1.36-3.29A2.54,2.54,0,0,0' +
         ',31.69,29.28Z"/></g></g></g></g></svg>'
       AutoSize = False
-    end
-    object TextStoryItem6: TTextStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 198.592056274414100000
-      Position.Y = 116.406341552734400000
-      Size.Width = 445.006988525390600000
-      Size.Height = 85.853439331054690000
-      Size.PlatformDefault = False
-      TabStop = False
-      Text = 
-        'When at last the Hare did wake up, the Tortoise was near the goa' +
-        'l. The Hare now ran his swiftest, but he could not overtake the ' +
-        'Tortoise in time.'
-      Font.Size = 20.100030899047850000
     end
   end
 end
