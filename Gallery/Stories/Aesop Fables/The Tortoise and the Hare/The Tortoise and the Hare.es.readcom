@@ -419,8 +419,8 @@ object StoryRoot22222222: TPanelStoryItem
           Size.PlatformDefault = False
           TabStop = False
           ForegroundColor = xFFBF1818
-          Text = #935#945' '#967#945'! '#932#953' '#945#961#947#942' '#960#959#965' '#949#943#963#945#953'.'
-          Font.Size = 28.500062942504880000
+          Text = #161'Ja, ja! '#191'Eres capaz de llegar alguna vez a alg'#250'n sitio?'
+          Font.Size = 19.000026702880860000
         end
       end
     end
@@ -1826,8 +1826,8 @@ object StoryRoot22222222: TPanelStoryItem
           Size.PlatformDefault = False
           TabStop = False
           ForegroundColor = xFF0CA554
-          Text = #920#941#955#949#953#962' '#957#945' '#960#945#961#945#946#947#959#973#956#949';'
-          Font.Size = 33.000061035156250000
+          Text = 'S'#237', por supuesto. '#191'Quieres que hagamos una carrera?'
+          Font.Size = 23.700044631958010000
         end
       end
     end
@@ -1856,8 +1856,8 @@ object StoryRoot22222222: TPanelStoryItem
         Size.Height = 52.215759277343750000
         Size.PlatformDefault = False
         TabStop = False
-        Text = #927' '#923#913#915#927#931' '#922#913#921' '#919' '#935#917#923#937#925#913
-        Font.Size = 32.100074768066410000
+        Text = 'LA LIEBRE Y LA TORTUGA'
+        Font.Size = 31.400074005126950000
       end
     end
     object TextStoryItem4: TTextStoryItem
@@ -1869,7 +1869,7 @@ object StoryRoot22222222: TPanelStoryItem
       Size.Height = 123.268859863281300000
       Size.PlatformDefault = False
       TabStop = False
-      Text = #924#953#945' '#956#941#961#945', '#959' '#923#945#947#972#962' '#13#10#954#959#961#972#953#948#949#965#949' '#964#951' '#935#949#955#974#957#945'.'
+      Text = 'Un d'#237'a una liebre se burlaba de una tortuga por ser tan lenta.'
       Font.Size = 44.799880981445310000
     end
   end
@@ -3792,8 +3792,8 @@ object StoryRoot22222222: TPanelStoryItem
           Size.PlatformDefault = False
           TabStop = False
           ForegroundColor = xFF1414A1
-          Text = #904#964#959#953#956#959#953'; '#928#940#956#949'!'
-          Font.Size = 29.100065231323240000
+          Text = #161'Preparados, listos, ya!'
+          Font.Size = 28.600063323974610000
         end
       end
     end
@@ -3806,8 +3806,10 @@ object StoryRoot22222222: TPanelStoryItem
       Size.Height = 100.299194335937500000
       Size.PlatformDefault = False
       TabStop = False
-      Text = #927' '#923#945#947#972#962' '#947#941#955#945#963#949' '#945#955#955#940' '#948#941#967#964#951#954#949'.'
-      Font.Size = 53.799743652343750000
+      Text = 
+        'A la liebre le hizo gracia la idea de hacer una carrera con la t' +
+        'ortuga, pero por divertirse un poco, acept'#243'.'
+      Font.Size = 32.200073242187500000
     end
     object BitmapImageStoryItem5: TBitmapImageStoryItem
       Align = Scale
@@ -3848,7 +3850,7 @@ object StoryRoot22222222: TPanelStoryItem
         Size.PlatformDefault = False
         TabStop = False
         ForegroundColor = xFFCF1919
-        Text = #932#953' '#946#945#961#949#964#972'! '#913#962' '#961#943#958#969' '#941#957#945#957' '#965#960#957#940#954#959'.'
+        Text = 'Esto es aburrido. Me echar'#233' una siesta.'
         Font.Size = 24.000045776367190000
       end
     end
@@ -5727,10 +5729,10 @@ object StoryRoot22222222: TPanelStoryItem
       object BitmapImageStoryItem523: TBitmapImageStoryItem
         Align = Scale
         Locked = True
-        Position.X = -320.857116699218800000
-        Position.Y = -150.990371704101600000
-        Size.Width = 381.773986816406300000
-        Size.Height = 166.006317138671900000
+        Position.X = -340.398101806640600000
+        Position.Y = -238.116363525390600000
+        Size.Width = 385.033966064453100000
+        Size.Height = 227.077178955078100000
         Size.PlatformDefault = False
         TabStop = False
         SVGText = 
@@ -5756,16 +5758,18 @@ object StoryRoot22222222: TPanelStoryItem
         object TextStoryItem42: TTextStoryItem
           Align = Scale
           Locked = True
-          Position.X = 341.913085937500000000
-          Position.Y = 21.759231567382810000
+          Position.X = 344.832763671875000000
+          Position.Y = 29.764068603515630000
           Scale.X = -1.000000000000000000
-          Size.Width = 289.165466308593800000
-          Size.Height = 100.099494934082000000
+          Size.Width = 291.634826660156300000
+          Size.Height = 136.924331665039100000
           Size.PlatformDefault = False
           TabStop = False
           ForegroundColor = xFF35A252
-          Text = #920#945' '#964#945' '#954#945#964#945#966#941#961#969'. '#933#960#959#956#959#957#942' '#954#945#953' '#949#960#953#956#959#957#942'.'
-          Font.Size = 28.100061416625980000
+          Text = 
+            'Eu vou conseguir. BasPuedo lograrlo. Solo tengo que seguir adela' +
+            'nte.ta continuar at'#233' ao fim!'
+          Font.Size = 22.500040054321290000
         end
       end
     end
@@ -7732,8 +7736,8 @@ object StoryRoot22222222: TPanelStoryItem
           Size.PlatformDefault = False
           TabStop = False
           ForegroundColor = xFFC01D1D
-          Text = #937#967', '#972#967#953'! '#932#974#961#945' '#949#943#957#945#953' '#945#961#947#940'...'
-          Font.Size = 17.300020217895510000
+          Text = #161'Oh no! Es demasiado tarde.'
+          Font.Size = 16.600017547607420000
         end
       end
     end
@@ -7867,17 +7871,18 @@ object StoryRoot22222222: TPanelStoryItem
       Size.PlatformDefault = False
       TabStop = False
       Text = 
-        #908#964#945#957' '#959' '#923#945#947#972#962' '#958#973#960#957#951#963#949', '#951' '#935#949#955#974#957#945' '#949#943#967#949' '#966#964#940#963#949#953' '#963#964#959' '#964#941#961#956#945'. '#908#963#959' '#954#945#953' '#957#945 +
-        ' '#941#964#961#949#967#949' '#948#949#957' '#960#961#959#955#940#946#945#953#957#949' '#957#945' '#964#951#957' '#960#961#959#963#960#949#961#940#963#949#953'.'
-      Font.Size = 26.500055313110350000
+        'Cuando la liebre se despert'#243', la tortuga estaba cerca de la meta' +
+        '. La liebre empez'#243' a correr r'#225'pido, pero no pudo alcanzar a la t' +
+        'ortuga.'
+      Font.Size = 23.000041961669920000
     end
     object BitmapImageStoryItem4: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 619.954345703125000000
-      Position.Y = 658.557983398437500000
-      Size.Width = 177.177124023437500000
-      Size.Height = 116.305847167968800000
+      Position.X = 631.324340820312500000
+      Position.Y = 617.951232910156300000
+      Size.Width = 166.620849609375000000
+      Size.Height = 161.785339355468800000
       Size.PlatformDefault = False
       TabStop = False
       SVGText = 
@@ -8511,14 +8516,15 @@ object StoryRoot22222222: TPanelStoryItem
       object TextStoryItem7: TTextStoryItem
         Align = Scale
         Locked = True
-        Position.X = 25.284168243408200000
-        Position.Y = 16.332910537719730000
-        Size.Width = 139.697235107421900000
-        Size.Height = 85.775337219238280000
+        Position.X = 23.777727127075200000
+        Position.Y = 22.719625473022460000
+        Size.Width = 131.373977661132800000
+        Size.Height = 119.316368103027300000
         Size.PlatformDefault = False
         TabStop = False
-        Text = #932#917#923#927#931
-        Font.Size = 43.199905395507810000
+        Active = True
+        Text = 'FIN'
+        Font.Size = 78.699363708496090000
       end
     end
     object BitmapImageStoryItem322: TBitmapImageStoryItem
@@ -8561,9 +8567,8 @@ object StoryRoot22222222: TPanelStoryItem
         Size.Height = 36.108333587646480000
         Size.PlatformDefault = False
         TabStop = False
-        Active = True
-        Text = #922#941#961#948#953#963#949#962'!'
-        Font.Size = 18.900026321411130000
+        Text = #161'Has ganado!'
+        Font.Size = 13.700006484985350000
       end
     end
     object tiger04011376350691: TBitmapImageStoryItem
