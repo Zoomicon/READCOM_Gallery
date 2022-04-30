@@ -6,7 +6,7 @@ object PanelStoryItem: TPanelStoryItem
   Size.Height = 1082.000000000000000000
   Size.PlatformDefault = False
   TabStop = False
-  object BitmapImageStoryItem: TBitmapImageStoryItem
+  object BitmapImageStoryItem2: TBitmapImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 78.400001525878910000
@@ -18,18 +18,11 @@ object PanelStoryItem: TPanelStoryItem
     Active = True
     Home = True
     StoryPoint = True
-    Image.MultiResBitmap = <
-      item
-      end>
-    Image.Align = Contents
-    Image.HitTest = False
-    Image.Size.Width = 631.221130371093800000
-    Image.Size.Height = 482.374511718750000000
-    Image.Size.PlatformDefault = False
-    Image.WrapMode = Stretch
+    SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
     AutoSize = False
-    object BitmapImageStoryItem: TBitmapImageStoryItem
+    object BitmapImageStoryItem3: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 32.716442108154300000
       Position.Y = 27.958902359008790000
@@ -37,6 +30,9 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.813674926757810000
       Size.PlatformDefault = False
       TabStop = False
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/Activities/Matching/BCF-BeeCowFrog.readcom'
       Image.MultiResBitmap = <
         item
         end
@@ -4882,8 +4878,9 @@ object PanelStoryItem: TPanelStoryItem
       Image.WrapMode = Stretch
       AutoSize = False
     end
-    object BitmapImageStoryItem: TBitmapImageStoryItem
+    object BitmapImageStoryItem4: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 252.709594726562500000
       Position.Y = 27.958904266357420000
@@ -4891,6 +4888,9 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.813613891601560000
       Size.PlatformDefault = False
       TabStop = False
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/Activities/Matching/FarmAnimals-ChickenPigCow.readcom'
       Image.MultiResBitmap = <
         item
         end
@@ -12507,8 +12507,9 @@ object PanelStoryItem: TPanelStoryItem
       Image.WrapMode = Stretch
       AutoSize = False
     end
-    object BitmapImageStoryItem: TBitmapImageStoryItem
+    object BitmapImageStoryItem5: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 32.716468811035160000
       Position.Y = 129.961975097656300000
@@ -12516,6 +12517,9 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.813751220703130000
       Size.PlatformDefault = False
       TabStop = False
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/Activities/FruitNames.el.readcom'
       Image.MultiResBitmap = <
         item
         end
@@ -22461,8 +22465,9 @@ object PanelStoryItem: TPanelStoryItem
       Image.WrapMode = Stretch
       AutoSize = False
     end
-    object BitmapImageStoryItem: TBitmapImageStoryItem
+    object BitmapImageStoryItem6: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 251.212814331054700000
       Position.Y = 129.961990356445300000
@@ -22470,6 +22475,9 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.813705444335940000
       Size.PlatformDefault = False
       TabStop = False
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/Activities/MAO-KidNames.readcom'
       Image.MultiResBitmap = <
         item
         end
@@ -24384,7 +24392,7 @@ object PanelStoryItem: TPanelStoryItem
       Image.WrapMode = Stretch
       AutoSize = False
     end
-    object BitmapImageStoryItem: TBitmapImageStoryItem
+    object BitmapImageStoryItem7: TBitmapImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 33.215324401855470000
@@ -24393,19 +24401,11 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.813735961914060000
       Size.PlatformDefault = False
       TabStop = False
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 190.560852050781300000
-      Image.Size.Height = 83.813735961914060000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
-  object BitmapImageStoryItem: TBitmapImageStoryItem
+  object BitmapImageStoryItem8: TBitmapImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 765.123840332031300000
@@ -24415,18 +24415,11 @@ object PanelStoryItem: TPanelStoryItem
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
-    Image.MultiResBitmap = <
-      item
-      end>
-    Image.Align = Contents
-    Image.HitTest = False
-    Image.Size.Width = 571.426818847656300000
-    Image.Size.Height = 481.463256835937500000
-    Image.Size.PlatformDefault = False
-    Image.WrapMode = Stretch
+    SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
     AutoSize = False
-    object BitmapImageStoryItem2: TBitmapImageStoryItem
+    object BitmapImageStoryItem22: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 29.617279052734380000
       Position.Y = 27.906084060668950000
@@ -24434,6 +24427,9 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.655342102050780000
       Size.PlatformDefault = False
       TabStop = False
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/Activities/Differences/Differences-Jungle.readcom'
       Image.MultiResBitmap = <
         item
         end
@@ -25699,7 +25695,7 @@ object PanelStoryItem: TPanelStoryItem
       Image.WrapMode = Stretch
       AutoSize = False
     end
-    object BitmapImageStoryItem3: TBitmapImageStoryItem
+    object BitmapImageStoryItem32: TBitmapImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 30.068902969360350000
@@ -25708,18 +25704,10 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.655410766601560000
       Size.PlatformDefault = False
       TabStop = False
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 172.509399414062500000
-      Image.Size.Height = 83.655410766601560000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
-    object BitmapImageStoryItem4: TBitmapImageStoryItem
+    object BitmapImageStoryItem42: TBitmapImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 227.415924072265600000
@@ -25728,18 +25716,10 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.655380249023440000
       Size.PlatformDefault = False
       TabStop = False
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 172.509246826171900000
-      Image.Size.Height = 83.655380249023440000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
-    object BitmapImageStoryItem5: TBitmapImageStoryItem
+    object BitmapImageStoryItem52: TBitmapImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 29.617303848266600000
@@ -25748,18 +25728,10 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.655426025390630000
       Size.PlatformDefault = False
       TabStop = False
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 172.509292602539100000
-      Image.Size.Height = 83.655426025390630000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
-    object BitmapImageStoryItem6: TBitmapImageStoryItem
+    object BitmapImageStoryItem62: TBitmapImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 228.770919799804700000
@@ -25768,19 +25740,11 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.655288696289060000
       Size.PlatformDefault = False
       TabStop = False
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 172.509567260742200000
-      Image.Size.Height = 83.655288696289060000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
-  object BitmapImageStoryItem: TBitmapImageStoryItem
+  object BitmapImageStoryItem9: TBitmapImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 1396.609252929688000000
@@ -25790,18 +25754,11 @@ object PanelStoryItem: TPanelStoryItem
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
-    Image.MultiResBitmap = <
-      item
-      end>
-    Image.Align = Contents
-    Image.HitTest = False
-    Image.Size.Width = 571.426818847656300000
-    Image.Size.Height = 481.463256835937500000
-    Image.Size.PlatformDefault = False
-    Image.WrapMode = Stretch
+    SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
     AutoSize = False
-    object BitmapImageStoryItem2: TBitmapImageStoryItem
+    object BitmapImageStoryItem23: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 29.617279052734380000
       Position.Y = 27.906084060668950000
@@ -25809,6 +25766,10 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.655342102050780000
       Size.PlatformDefault = False
       TabStop = False
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/Activities/Crosswords/Acrostic/Acrostic-Poem-Greece.re' +
+        'adcom'
       Image.MultiResBitmap = <
         item
         end
@@ -28557,7 +28518,7 @@ object PanelStoryItem: TPanelStoryItem
       Image.WrapMode = Stretch
       AutoSize = False
     end
-    object BitmapImageStoryItem3: TBitmapImageStoryItem
+    object BitmapImageStoryItem33: TBitmapImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 30.068902969360350000
@@ -28566,18 +28527,10 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.655410766601560000
       Size.PlatformDefault = False
       TabStop = False
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 172.509399414062500000
-      Image.Size.Height = 83.655410766601560000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
-    object BitmapImageStoryItem4: TBitmapImageStoryItem
+    object BitmapImageStoryItem43: TBitmapImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 227.415924072265600000
@@ -28586,18 +28539,10 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.655380249023440000
       Size.PlatformDefault = False
       TabStop = False
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 172.509246826171900000
-      Image.Size.Height = 83.655380249023440000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
-    object BitmapImageStoryItem5: TBitmapImageStoryItem
+    object BitmapImageStoryItem53: TBitmapImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 29.617303848266600000
@@ -28606,18 +28551,10 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.655426025390630000
       Size.PlatformDefault = False
       TabStop = False
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 172.509292602539100000
-      Image.Size.Height = 83.655426025390630000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
-    object BitmapImageStoryItem6: TBitmapImageStoryItem
+    object BitmapImageStoryItem63: TBitmapImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 228.770919799804700000
@@ -28626,15 +28563,7 @@ object PanelStoryItem: TPanelStoryItem
       Size.Height = 83.655288696289060000
       Size.PlatformDefault = False
       TabStop = False
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 172.509567260742200000
-      Image.Size.Height = 83.655288696289060000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
