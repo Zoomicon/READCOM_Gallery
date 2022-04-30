@@ -23,7 +23,7 @@ object speechbubbles01574512496: TBitmapImageStoryItem
   AutoSize = False
   object TextStoryItem2: TTextStoryItem
     Align = Scale
-    Enabled = False
+    Editable = True
     Locked = True
     Position.X = 11.446166992187500000
     Position.Y = 11.446166992187500000

@@ -50,7 +50,7 @@ object ThoughtEditable: TBitmapImageStoryItem
   AutoSize = False
   object TextStoryItem2: TTextStoryItem
     Align = Scale
-    Enabled = False
+    Editable = True
     Locked = True
     Position.X = 55.754802703857420000
     Position.Y = 41.645484924316410000
