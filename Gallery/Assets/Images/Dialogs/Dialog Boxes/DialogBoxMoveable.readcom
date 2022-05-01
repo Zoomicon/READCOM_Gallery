@@ -1,4 +1,4 @@
-object RopeBorder1429106152: TImageStoryItem
+object RopeBorder1429106152: TBitmapImageStoryItem
   Align = Scale
   Position.X = 568.905822753906300000
   Position.Y = 1100.553955078125000000

@@ -6872,7 +6872,7 @@ object PanelStoryItem: TPanelStoryItem
       Image.WrapMode = Stretch
       AutoSize = False
     end
-    object RopeBorder14291061522: TImageStoryItem
+    object RopeBorder14291061522: TBitmapImageStoryItem
       Align = Scale
       Position.X = 462.892395019531300000
       Position.Y = 524.358825683593800000
@@ -8106,7 +8106,7 @@ object PanelStoryItem: TPanelStoryItem
         Font.Size = 16.000000000000000000
       end
     end
-    object RopeBorder14291061523: TImageStoryItem
+    object RopeBorder14291061523: TBitmapImageStoryItem
       Align = Scale
       Position.X = 458.367797851562500000
       Position.Y = 728.615173339843800000
