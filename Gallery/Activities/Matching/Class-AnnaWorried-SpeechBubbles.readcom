@@ -43145,26 +43145,6 @@ object PanelStoryItem222: TPanelStoryItem
     Image.Size.PlatformDefault = False
     Image.WrapMode = Stretch
     AutoSize = False
-    object BitmapImageStoryItem2: TBitmapImageStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 198.181427001953100000
-      Position.Y = 610.102233886718800000
-      Size.Width = 25.840744018554690000
-      Size.Height = 22.105163574218750000
-      Size.PlatformDefault = False
-      TabStop = False
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 25.840744018554690000
-      Image.Size.Height = 22.105163574218750000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
-      AutoSize = False
-    end
     object speechbubbles01574512496: TBitmapImageStoryItem
       Align = Scale
       Position.X = 475.468902587890600000
@@ -43303,7 +43283,7 @@ object PanelStoryItem222: TPanelStoryItem
         Font.Size = 17.000000000000000000
       end
     end
-    object speechbubbles015745124962: TBitmapImageStoryItem
+    object speechbubbles0157451249622: TBitmapImageStoryItem
       Align = Scale
       Position.X = 752.583068847656300000
       Position.Y = 134.722488403320300000
@@ -43326,7 +43306,7 @@ object PanelStoryItem222: TPanelStoryItem
         '4,32.4,0,0,0-12.42,2.68C73.77,143.19,51.4,153.39,29,163.46,27.64' +
         ',164.06,26.27,164.58,23.52,165.71Z"/></svg>'
       AutoSize = False
-      object TextStoryItem22: TTextStoryItem
+      object TextStoryItem222: TTextStoryItem
         Align = Scale
         Locked = True
         Position.X = 5.694493293762207000
