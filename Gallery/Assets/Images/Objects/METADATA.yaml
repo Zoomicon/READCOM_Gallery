@@ -53,3 +53,11 @@ filegroups:
           title: Scissors
           tags: Scissors
           source: https://openmoji.org/library/#emoji=2702
+  - oNlineWebFonts.com:
+    license: CC BY 3.0
+    attribution: oNlineWebFonts.com
+    files: 
+      - Tag.svg:
+          title: Tag
+          tags: Tag
+          source: https://www.onlinewebfonts.com/icon/471281
