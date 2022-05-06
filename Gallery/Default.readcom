@@ -1,23 +1,25 @@
-object PanelStoryItem222: TPanelStoryItem
+object PanelStoryItem222: TBitmapImageStoryItem
   Align = Center
   ClipChildren = True
   Locked = True
-  Size.Width = 1000.000000000000000000
-  Size.Height = 1000.000000000000000000
+  Size.Width = 1200.000000000000000000
+  Size.Height = 1200.000000000000000000
   Size.PlatformDefault = False
   TabStop = False
   TabOrder = 32767
   Home = True
-  StoryPoint = False
+  SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
   object READCOMsquare1314429190: TVectorImageStoryItem
     Align = Scale
+    Cursor = crHandPoint
     Locked = True
-    Position.X = 82.985870361328130000
-    Position.Y = 72.817108154296880000
-    Size.Width = 836.000000000000000000
-    Size.Height = 532.000000000000000000
+    Position.X = 46.610069274902340000
+    Position.Y = 37.650802612304690000
+    Size.Width = 203.843261718750000000
+    Size.Height = 154.964599609375000000
     Size.PlatformDefault = False
     TabStop = False
+    UrlAction = 'https://www.read-com-eu.uma.es/'
     SVGText = 
       '<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.o' +
       'rg/2000/svg" viewBox="0 0 425.2 425.2"><title>Read-com logo-01</' +
@@ -109,10 +111,10 @@ object PanelStoryItem222: TPanelStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 84.490203857421880000
-    Position.Y = 647.504821777343800000
-    Size.Width = 158.415191650390600000
-    Size.Height = 100.809814453125000000
+    Position.X = 64.631553649902340000
+    Position.Y = 971.600402832031300000
+    Size.Width = 190.098205566406300000
+    Size.Height = 120.971801757812500000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
@@ -1061,10 +1063,10 @@ object PanelStoryItem222: TPanelStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 259.196380615234400000
-    Position.Y = 649.096313476562500000
-    Size.Width = 158.415191650390600000
-    Size.Height = 100.809814453125000000
+    Position.X = 56.981567382812500000
+    Position.Y = 237.294067382812500000
+    Size.Width = 190.098236083984400000
+    Size.Height = 120.971801757812500000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
@@ -1085,10 +1087,10 @@ object PanelStoryItem222: TPanelStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 433.759887695312500000
-    Position.Y = 651.091308593750000000
-    Size.Width = 158.415191650390600000
-    Size.Height = 100.809814453125000000
+    Position.X = 58.890449523925780000
+    Position.Y = 415.904113769531300000
+    Size.Width = 190.098205566406300000
+    Size.Height = 120.971801757812500000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
@@ -1102,48 +1104,14 @@ object PanelStoryItem222: TPanelStoryItem
       ' M0,11H27 M0,15H27"/>'#13'</svg>'
     AutoSize = False
   end
-  object FlagGreece16990989204: TBitmapImageStoryItem
-    Align = Scale
-    Locked = True
-    Position.X = 666.752380371093800000
-    Position.Y = 720.368347167968800000
-    Size.Width = 0.000000000000000000
-    Size.Height = 0.000000000000000000
-    Size.PlatformDefault = False
-    TabStop = False
-    SVGText = 
-      '<?xml version="1.0" encoding="UTF-8"?>'#13'<svg xmlns="http://www.w3' +
-      '.org/2000/svg" width="600" height="400" viewBox="0 0 27 18">'#13'<re' +
-      'ct fill="#0D5EAF" width="27" height="18"/>'#13'<path fill="none" str' +
-      'oke-width="2" stroke="#FFF" d="M5,0V11 M0,5H10 M10,3H27 M10,7H27' +
-      ' M0,11H27 M0,15H27"/>'#13'</svg>'
-    AutoSize = False
-  end
-  object FlagGreece16990989205: TBitmapImageStoryItem
-    Align = Scale
-    Locked = True
-    Position.X = 666.752380371093800000
-    Position.Y = 720.368347167968800000
-    Size.Width = 0.000000000000000000
-    Size.Height = 0.000000000000000000
-    Size.PlatformDefault = False
-    TabStop = False
-    SVGText = 
-      '<?xml version="1.0" encoding="UTF-8"?>'#13'<svg xmlns="http://www.w3' +
-      '.org/2000/svg" width="600" height="400" viewBox="0 0 27 18">'#13'<re' +
-      'ct fill="#0D5EAF" width="27" height="18"/>'#13'<path fill="none" str' +
-      'oke-width="2" stroke="#FFF" d="M5,0V11 M0,5H10 M10,3H27 M10,7H27' +
-      ' M0,11H27 M0,15H27"/>'#13'</svg>'
-    AutoSize = False
-  end
   object FlagGreece16990989206: TBitmapImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 607.326049804687500000
-    Position.Y = 651.091369628906300000
-    Size.Width = 158.415191650390600000
-    Size.Height = 100.809814453125000000
+    Position.X = 62.845237731933590000
+    Position.Y = 782.390747070312500000
+    Size.Width = 190.098205566406300000
+    Size.Height = 120.971801757812500000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
@@ -1361,10 +1329,10 @@ object PanelStoryItem222: TPanelStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 778.897216796875000000
-    Position.Y = 654.083801269531300000
-    Size.Width = 158.415191650390600000
-    Size.Height = 100.809814453125000000
+    Position.X = 62.244186401367190000
+    Position.Y = 592.468200683593800000
+    Size.Width = 190.098205566406300000
+    Size.Height = 120.971801757812500000
     Size.PlatformDefault = False
     TabStop = False
     UrlAction = 
@@ -1377,5 +1345,78 @@ object PanelStoryItem222: TPanelStoryItem
       '"2" x="1" fill="#fff"/>'#13'<rect width="1" height="2" x="2" fill="#' +
       'ce2b37"/>'#13'</svg>'
     AutoSize = False
+  end
+  object TextStoryItem2: TTextStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 310.062316894531300000
+    Position.Y = 232.765075683593800000
+    Size.Width = 840.415893554687500000
+    Size.Height = 125.821197509765600000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = xFFFDE2DE
+    Text = 'Click on the flag to discover activities'#13#10'that promote reading!'
+    Font.Size = 45.000000000000000000
+  end
+  object TextStoryItem22: TTextStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 316.008422851562500000
+    Position.Y = 411.683929443359400000
+    Size.Width = 840.415893554687500000
+    Size.Height = 125.821197509765600000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = xFFC2E9FB
+    Text = 
+      #922#940#957#964#949' '#954#955#953#954' '#963#964#951' '#963#951#956#945#943#945' '#947#953#945' '#957#945' '#945#957#945#954#945#955#973#968#949#964#949' '#948#961#945#963#964#951#961#953#972#964#951#964#949#962' '#960#959#965' '#960#961#959#969 +
+      #952#959#973#957' '#964#951#957' '#945#957#940#947#957#969#963#951'!'
+    Font.Size = 38.000000000000000000
+  end
+  object TextStoryItem23: TTextStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 317.089233398437500000
+    Position.Y = 587.900085449218800000
+    Size.Width = 840.415893554687500000
+    Size.Height = 125.821197509765600000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = xFFD4E6AE
+    Text = 
+      'Clicca sulla bandiera per scoprire attivit'#224#13#10'che promuovono la l' +
+      'ettura!'
+    Font.Size = 45.000000000000000000
+  end
+  object TextStoryItem24: TTextStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 316.008270263671900000
+    Position.Y = 779.251586914062500000
+    Size.Width = 840.415893554687500000
+    Size.Height = 125.821197509765600000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = xFF9AD5C5
+    Text = 
+      'Clique na bandeira para descobrir as atividades'#13#10'que promovem a ' +
+      'leitura!'
+    Font.Size = 39.000000000000000000
+  end
+  object TextStoryItem25: TTextStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 318.170410156250000000
+    Position.Y = 966.278686523437500000
+    Size.Width = 840.415893554687500000
+    Size.Height = 125.821197509765600000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = xFFFFD37F
+    Text = 
+      'Haz click en la bandera para descubrir actividades'#13#10'que promueve' +
+      'n la lectura!!'
+    Font.Size = 37.000000000000000000
   end
 end

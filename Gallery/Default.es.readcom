@@ -136,17 +136,17 @@ object PanelStoryItem222: TPanelStoryItem
     TabStop = False
     Active = True
     ForegroundColor = xFF204D69
-    Text = 'Stories and activities suitable for ages:'
-    Font.Size = 46.000000000000000000
+    Text = 'Cuentos y actividades'#13#10'aptas para las edades:'
+    Font.Size = 40.000000000000000000
   end
   object BitmapImageStoryItem3: TBitmapImageStoryItem
     Align = Scale
     Cursor = crHandPoint
     Locked = True
-    Position.X = 344.892639160156300000
-    Position.Y = 197.877029418945300000
-    Size.Width = 145.800415039062500000
-    Size.Height = 102.275466918945300000
+    Position.X = 346.694488525390600000
+    Position.Y = 212.291473388671900000
+    Size.Width = 171.025604248046900000
+    Size.Height = 111.284423828125000000
     Size.PlatformDefault = False
     TabStop = False
     SVGText = 
@@ -158,28 +158,36 @@ object PanelStoryItem222: TPanelStoryItem
     object TextStoryItem3: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 8.526322364807129000
-      Position.Y = 13.235645294189450000
-      Size.Width = 128.747756958007800000
-      Size.Height = 78.210693359375000000
+      Position.X = 10.001478195190430000
+      Position.Y = 14.401509284973140000
+      Size.Width = 151.022659301757800000
+      Size.Height = 85.099906921386720000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF1D5171
       Text = '3-6'
-      Font.Size = 55.000000000000000000
+      Font.Size = 60.000000000000000000
     end
     object BitmapImageStoryItemMask: TBitmapImageStoryItem
       Align = Scale
       Cursor = crHandPoint
       Locked = True
-      Position.X = 8.526322364807129000
-      Position.Y = 13.235645294189450000
-      Size.Width = 128.747756958007800000
-      Size.Height = 78.210693359375000000
+      Position.X = 10.001478195190430000
+      Position.Y = 14.401509284973140000
+      Size.Width = 151.022659301757800000
+      Size.Height = 85.099906921386720000
       Size.PlatformDefault = False
       TabStop = False
       UrlAction = 'Default.en.Ages3-6.readcom'
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
+      Image.MultiResBitmap = <
+        item
+        end>
+      Image.Align = Contents
+      Image.HitTest = False
+      Image.Size.Width = 151.022659301757800000
+      Image.Size.Height = 85.099906921386720000
+      Image.Size.PlatformDefault = False
+      Image.WrapMode = Stretch
       AutoSize = False
     end
   end
@@ -189,8 +197,8 @@ object PanelStoryItem222: TPanelStoryItem
     Locked = True
     Position.X = 348.632629394531300000
     Position.Y = 363.204956054687500000
-    Size.Width = 144.763031005859400000
-    Size.Height = 99.109710693359380000
+    Size.Width = 174.492797851562500000
+    Size.Height = 114.424987792968800000
     Size.PlatformDefault = False
     TabStop = False
     SVGText = 
@@ -202,28 +210,36 @@ object PanelStoryItem222: TPanelStoryItem
     object TextStoryItem23: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 8.465656280517578000
-      Position.Y = 12.825959205627440000
-      Size.Width = 127.831680297851600000
-      Size.Height = 75.789794921875000000
+      Position.X = 10.204236030578610000
+      Position.Y = 14.807934761047360000
+      Size.Width = 154.084228515625000000
+      Size.Height = 87.501487731933590000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF1C5772
       Text = '6-9'
-      Font.Size = 53.000000000000000000
+      Font.Size = 62.000000000000000000
     end
     object BitmapImageStoryItemMask2: TBitmapImageStoryItem
       Align = Scale
       Cursor = crHandPoint
       Locked = True
-      Position.X = 8.465668678283691000
-      Position.Y = 11.659964561462400000
-      Size.Width = 127.831695556640600000
-      Size.Height = 75.789794921875000000
+      Position.X = 10.204252243041990000
+      Position.Y = 13.461758613586430000
+      Size.Width = 154.084259033203100000
+      Size.Height = 87.501480102539060000
       Size.PlatformDefault = False
       TabStop = False
       UrlAction = 'Default.en.Ages6-9.readcom'
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
+      Image.MultiResBitmap = <
+        item
+        end>
+      Image.Align = Contents
+      Image.HitTest = False
+      Image.Size.Width = 154.084259033203100000
+      Image.Size.Height = 87.501480102539060000
+      Image.Size.PlatformDefault = False
+      Image.WrapMode = Stretch
       AutoSize = False
     end
   end
@@ -233,8 +249,8 @@ object PanelStoryItem222: TPanelStoryItem
     Locked = True
     Position.X = 350.748443603515600000
     Position.Y = 533.538635253906300000
-    Size.Width = 143.548034667968800000
-    Size.Height = 96.343566894531250000
+    Size.Width = 179.584228515625000000
+    Size.Height = 100.848022460937500000
     Size.PlatformDefault = False
     TabStop = False
     SVGText = 
@@ -246,28 +262,36 @@ object PanelStoryItem222: TPanelStoryItem
     object TextStoryItem24: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 8.394605636596680000
-      Position.Y = 12.467983245849610000
-      Size.Width = 126.758804321289100000
-      Size.Height = 73.674484252929690000
+      Position.X = 10.501979827880860000
+      Position.Y = 13.050913810729980000
+      Size.Width = 158.580154418945300000
+      Size.Height = 77.119049072265630000
       Size.PlatformDefault = False
       TabStop = False
-      ForegroundColor = xFF267887
+      ForegroundColor = xFF20606B
       Text = '9-12'
-      Font.Size = 52.000000000000000000
+      Font.Size = 54.000000000000000000
     end
     object BitmapImageStoryItemMask3: TBitmapImageStoryItem
       Align = Scale
       Cursor = crHandPoint
       Locked = True
-      Position.X = 8.394618034362793000
-      Position.Y = 11.334532737731930000
-      Size.Width = 126.758796691894500000
-      Size.Height = 73.674499511718750000
+      Position.X = 10.501997947692870000
+      Position.Y = 11.864469528198240000
+      Size.Width = 158.580200195312500000
+      Size.Height = 77.119087219238280000
       Size.PlatformDefault = False
       TabStop = False
       UrlAction = 'Default.en.Ages9-12.readcom'
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
+      Image.MultiResBitmap = <
+        item
+        end>
+      Image.Align = Contents
+      Image.HitTest = False
+      Image.Size.Width = 158.580200195312500000
+      Image.Size.Height = 77.119087219238280000
+      Image.Size.PlatformDefault = False
+      Image.WrapMode = Stretch
       AutoSize = False
     end
   end
@@ -468,7 +492,9 @@ object PanelStoryItem222: TPanelStoryItem
     Size.PlatformDefault = False
     TabStop = False
     ForegroundColor = xFF13415A
-    Text = 'A framework to improve the reading habits at home and at school:'
+    Text = 
+      'Gu'#237'a de recursos para mejorar los h'#225'bitos'#13#10'de lectura en casa y ' +
+      'en la escuela:'
     Font.Size = 33.000000000000000000
   end
   object READCOMToolkitblack1640302650: TBitmapImageStoryItem
@@ -501,8 +527,8 @@ object PanelStoryItem222: TPanelStoryItem
   object F4461F3FB519296809: TBitmapImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 339.937591552734400000
-    Position.Y = 268.315979003906300000
+    Position.X = 343.541107177734400000
+    Position.Y = 290.838562011718800000
     Size.Width = 35.440124511718750000
     Size.Height = 32.737365722656250000
     Size.PlatformDefault = False
@@ -578,10 +604,10 @@ object PanelStoryItem222: TPanelStoryItem
   object F4461F3FB5192968092: TBitmapImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 345.343048095703100000
-    Position.Y = 431.379028320312500000
-    Size.Width = 35.440124511718750000
-    Size.Height = 32.737365722656250000
+    Position.X = 344.128295898437500000
+    Position.Y = 438.880584716796900000
+    Size.Width = 39.357612609863280000
+    Size.Height = 34.244842529296880000
     Size.PlatformDefault = False
     TabStop = False
     SVGText = 
@@ -657,8 +683,8 @@ object PanelStoryItem222: TPanelStoryItem
     Locked = True
     Position.X = 343.541290283203100000
     Position.Y = 596.243896484375000000
-    Size.Width = 35.440124511718750000
-    Size.Height = 32.737365722656250000
+    Size.Width = 38.142700195312500000
+    Size.Height = 37.241882324218750000
     Size.PlatformDefault = False
     TabStop = False
     SVGText = 

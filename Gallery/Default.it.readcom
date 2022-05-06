@@ -134,10 +134,9 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 110.614685058593800000
     Size.PlatformDefault = False
     TabStop = False
-    Active = True
     ForegroundColor = xFF204D69
-    Text = 'Stories and activities suitable for ages:'
-    Font.Size = 46.000000000000000000
+    Text = 'Storie e attivit'#224' adatte all'#39'et'#224':'
+    Font.Size = 60.000000000000000000
   end
   object BitmapImageStoryItem3: TBitmapImageStoryItem
     Align = Scale
@@ -467,8 +466,11 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 92.044250488281250000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     ForegroundColor = xFF13415A
-    Text = 'A framework to improve the reading habits at home and at school:'
+    Text = 
+      'Una guida alle risorse per migliorare le abitudini di lettura a ' +
+      'casa e a scuola:'
     Font.Size = 33.000000000000000000
   end
   object READCOMToolkitblack1640302650: TBitmapImageStoryItem

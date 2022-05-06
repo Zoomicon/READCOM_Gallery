@@ -134,10 +134,9 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 110.614685058593800000
     Size.PlatformDefault = False
     TabStop = False
-    Active = True
     ForegroundColor = xFF204D69
-    Text = 'Stories and activities suitable for ages:'
-    Font.Size = 46.000000000000000000
+    Text = #921#963#964#959#961#943#949#962' '#954#945#953' '#948#961#945#963#964#951#961#953#972#964#951#964#949#962#13#10#954#945#964#940#955#955#951#955#949#962' '#947#953#945' '#951#955#953#954#943#949#962':'
+    Font.Size = 40.000000000000000000
   end
   object BitmapImageStoryItem3: TBitmapImageStoryItem
     Align = Scale
@@ -179,7 +178,15 @@ object PanelStoryItem222: TPanelStoryItem
       Size.PlatformDefault = False
       TabStop = False
       UrlAction = 'Default.en.Ages3-6.readcom'
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
+      Image.MultiResBitmap = <
+        item
+        end>
+      Image.Align = Contents
+      Image.HitTest = False
+      Image.Size.Width = 128.747756958007800000
+      Image.Size.Height = 78.210693359375000000
+      Image.Size.PlatformDefault = False
+      Image.WrapMode = Stretch
       AutoSize = False
     end
   end
@@ -223,7 +230,15 @@ object PanelStoryItem222: TPanelStoryItem
       Size.PlatformDefault = False
       TabStop = False
       UrlAction = 'Default.en.Ages6-9.readcom'
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
+      Image.MultiResBitmap = <
+        item
+        end>
+      Image.Align = Contents
+      Image.HitTest = False
+      Image.Size.Width = 127.831695556640600000
+      Image.Size.Height = 75.789794921875000000
+      Image.Size.PlatformDefault = False
+      Image.WrapMode = Stretch
       AutoSize = False
     end
   end
@@ -267,7 +282,15 @@ object PanelStoryItem222: TPanelStoryItem
       Size.PlatformDefault = False
       TabStop = False
       UrlAction = 'Default.en.Ages9-12.readcom'
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
+      Image.MultiResBitmap = <
+        item
+        end>
+      Image.Align = Contents
+      Image.HitTest = False
+      Image.Size.Width = 126.758796691894500000
+      Image.Size.Height = 73.674499511718750000
+      Image.Size.PlatformDefault = False
+      Image.WrapMode = Stretch
       AutoSize = False
     end
   end
@@ -458,7 +481,7 @@ object PanelStoryItem222: TPanelStoryItem
       '.8194c0,0,0.7576-1.7372-1.1344-3.4702"/>'#13'  </g>'#13'</svg>'
     AutoSize = False
   end
-  object TextStoryItem4: TTextStoryItem
+  object TextStoryItem: TTextStoryItem
     Align = Scale
     Locked = True
     Position.X = 107.657669067382800000
@@ -467,9 +490,12 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 92.044250488281250000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     ForegroundColor = xFF13415A
-    Text = 'A framework to improve the reading habits at home and at school:'
-    Font.Size = 33.000000000000000000
+    Text = 
+      #916#949#943#964#949' '#964#951#957' '#949#961#947#945#955#949#953#959#952#942#954#951' '#947#953#945' '#964#951' '#946#949#955#964#943#969#963#951' '#964#969#957' '#963#965#957#951#952#949#953#974#957' '#945#957#940#947#957#969#963#951#962' '#963 +
+      #964#959' '#963#967#959#955#949#943#959' '#954#945#953' '#963#964#959' '#963#960#943#964#953' '#949#948#974':'
+    Font.Size = 26.000000000000000000
   end
   object READCOMToolkitblack1640302650: TBitmapImageStoryItem
     Align = Scale
@@ -575,7 +601,7 @@ object PanelStoryItem222: TPanelStoryItem
       'nd" stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
     AutoSize = False
   end
-  object F4461F3FB5192968092: TBitmapImageStoryItem
+  object F4461F3FB519296809: TBitmapImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 345.343048095703100000
@@ -652,7 +678,7 @@ object PanelStoryItem222: TPanelStoryItem
       'nd" stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
     AutoSize = False
   end
-  object F4461F3FB5192968093: TBitmapImageStoryItem
+  object F4461F3FB519296809: TBitmapImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 343.541290283203100000
@@ -729,7 +755,7 @@ object PanelStoryItem222: TPanelStoryItem
       'nd" stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
     AutoSize = False
   end
-  object F4461F3FB5192968094: TBitmapImageStoryItem
+  object F4461F3FB519296809: TBitmapImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 792.189880371093800000
