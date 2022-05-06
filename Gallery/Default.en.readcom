@@ -168,7 +168,6 @@ object PanelStoryItem222: TPanelStoryItem
     end
     object BitmapImageStoryItemMask: TBitmapImageStoryItem
       Align = Scale
-      Cursor = crHandPoint
       Locked = True
       Position.X = 8.526322364807129000
       Position.Y = 13.235645294189450000
@@ -468,7 +467,6 @@ object PanelStoryItem222: TPanelStoryItem
   end
   object READCOMToolkitblack1640302650: TBitmapImageStoryItem
     Align = Scale
-    Cursor = crHandPoint
     Locked = True
     Position.X = 798.496337890625000000
     Position.Y = 781.829589843750000000
