@@ -134,14 +134,12 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 110.614685058593800000
     Size.PlatformDefault = False
     TabStop = False
-    Active = True
     ForegroundColor = xFF204D69
     Text = 'Stories and activities suitable for ages:'
     Font.Size = 46.000000000000000000
   end
   object BitmapImageStoryItem3: TBitmapImageStoryItem
     Align = Scale
-    Cursor = crHandPoint
     Locked = True
     Position.X = 344.892639160156300000
     Position.Y = 197.877029418945300000
@@ -178,14 +176,16 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 78.210693359375000000
       Size.PlatformDefault = False
       TabStop = False
-      UrlAction = 'Default.en.Ages3-6.readcom'
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/Stories/Aesop%20Fables/The%20Tortoise%20and%20the%20Ha' +
+        're/The%20Tortoise%20and%20the%20Hare.readcom'
       SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
   object BitmapImageStoryItem4: TBitmapImageStoryItem
     Align = Scale
-    Cursor = crHandPoint
     Locked = True
     Position.X = 348.632629394531300000
     Position.Y = 363.204956054687500000
@@ -195,7 +195,7 @@ object PanelStoryItem222: TPanelStoryItem
     TabStop = False
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#8dd2e5;o' +
+      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
       'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
       '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
     AutoSize = False
@@ -214,7 +214,6 @@ object PanelStoryItem222: TPanelStoryItem
     end
     object BitmapImageStoryItemMask2: TBitmapImageStoryItem
       Align = Scale
-      Cursor = crHandPoint
       Locked = True
       Position.X = 8.465668678283691000
       Position.Y = 11.659964561462400000
@@ -222,14 +221,12 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 75.789794921875000000
       Size.PlatformDefault = False
       TabStop = False
-      UrlAction = 'Default.en.Ages6-9.readcom'
       SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
   object BitmapImageStoryItem5: TBitmapImageStoryItem
     Align = Scale
-    Cursor = crHandPoint
     Locked = True
     Position.X = 350.748443603515600000
     Position.Y = 533.538635253906300000
@@ -239,7 +236,7 @@ object PanelStoryItem222: TPanelStoryItem
     TabStop = False
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#8dd2e5;o' +
+      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
       'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
       '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
     AutoSize = False
@@ -258,7 +255,6 @@ object PanelStoryItem222: TPanelStoryItem
     end
     object BitmapImageStoryItemMask3: TBitmapImageStoryItem
       Align = Scale
-      Cursor = crHandPoint
       Locked = True
       Position.X = 8.394618034362793000
       Position.Y = 11.334532737731930000
@@ -266,7 +262,6 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 73.674499511718750000
       Size.PlatformDefault = False
       TabStop = False
-      UrlAction = 'Default.en.Ages9-12.readcom'
       SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
@@ -473,6 +468,7 @@ object PanelStoryItem222: TPanelStoryItem
   end
   object READCOMToolkitblack1640302650: TBitmapImageStoryItem
     Align = Scale
+    Cursor = crHandPoint
     Locked = True
     Position.X = 798.496337890625000000
     Position.Y = 781.829589843750000000
@@ -480,6 +476,7 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 92.196899414062500000
     Size.PlatformDefault = False
     TabStop = False
+    UrlAction = 'https://sites.google.com/view/toolkits-english/home'
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
       '000/svg" viewBox="0 0 595.3 595.3"><defs><style>.cls-1{fill:#231' +
