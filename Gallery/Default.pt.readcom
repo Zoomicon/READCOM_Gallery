@@ -18,7 +18,6 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 125.530136108398400000
     Size.PlatformDefault = False
     TabStop = False
-    Active = True
     SVGText = 
       '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
       '0/svg">'#13'  <g id="color">'#13'    <path fill="#b1cc33" d="M54.8639,62' +
@@ -170,7 +169,6 @@ object PanelStoryItem222: TPanelStoryItem
     end
     object BitmapImageStoryItemMask: TBitmapImageStoryItem
       Align = Scale
-      Cursor = crHandPoint
       Locked = True
       Position.X = 10.001478195190430000
       Position.Y = 14.401509284973140000
@@ -178,22 +176,16 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 85.099906921386720000
       Size.PlatformDefault = False
       TabStop = False
-      UrlAction = 'Default.en.Ages3-6.readcom'
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 151.022659301757800000
-      Image.Size.Height = 85.099906921386720000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/Stories/Aesop%20Fables/The%20Tortoise%20and%20the%20Ha' +
+        're/The%20Tortoise%20and%20the%20Hare.pt.readcom'
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
   object BitmapImageStoryItem4: TBitmapImageStoryItem
     Align = Scale
-    Cursor = crHandPoint
     Locked = True
     Position.X = 348.632629394531300000
     Position.Y = 363.204956054687500000
@@ -203,7 +195,7 @@ object PanelStoryItem222: TPanelStoryItem
     TabStop = False
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#8dd2e5;o' +
+      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
       'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
       '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
     AutoSize = False
@@ -230,22 +222,12 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 87.501480102539060000
       Size.PlatformDefault = False
       TabStop = False
-      UrlAction = 'Default.en.Ages6-9.readcom'
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 154.084259033203100000
-      Image.Size.Height = 87.501480102539060000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
   object BitmapImageStoryItem5: TBitmapImageStoryItem
     Align = Scale
-    Cursor = crHandPoint
     Locked = True
     Position.X = 350.748443603515600000
     Position.Y = 533.538635253906300000
@@ -255,7 +237,7 @@ object PanelStoryItem222: TPanelStoryItem
     TabStop = False
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#8dd2e5;o' +
+      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
       'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
       '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
     AutoSize = False
@@ -274,7 +256,6 @@ object PanelStoryItem222: TPanelStoryItem
     end
     object BitmapImageStoryItemMask3: TBitmapImageStoryItem
       Align = Scale
-      Cursor = crHandPoint
       Locked = True
       Position.X = 10.501997947692870000
       Position.Y = 11.864469528198240000
@@ -282,16 +263,7 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 77.119087219238280000
       Size.PlatformDefault = False
       TabStop = False
-      UrlAction = 'Default.en.Ages9-12.readcom'
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 158.580200195312500000
-      Image.Size.Height = 77.119087219238280000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
@@ -506,6 +478,7 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 92.196899414062500000
     Size.PlatformDefault = False
     TabStop = False
+    UrlAction = 'https://sites.google.com/view/toolkits-english/home'
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
       '000/svg" viewBox="0 0 595.3 595.3"><defs><style>.cls-1{fill:#231' +
