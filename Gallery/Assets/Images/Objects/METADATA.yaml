@@ -53,6 +53,10 @@ filegroups:
           title: Scissors
           tags: Scissors
           source: https://openmoji.org/library/#emoji=2702
+      - Gear8Teeth.svg:
+          title: 8-Tooth Gear
+          tags: Gear, Tooth
+          source: https://openmoji.org/library/emoji-2699/
   - oNlineWebFonts.com:
     license: CC BY 3.0
     attribution: oNlineWebFonts.com
