@@ -9,6 +9,10 @@ filegroups:
     license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
     attribution: OpenMoji.org
     files:
+      - Trophy.svg:
+          title: Trophy
+          tags: Trophy, Win
+          source: https://openmoji.org/library/emoji-1F3C6/
       - TargetArrow.svg:
           title: Target with Arrow
           tags: Target, Arrow
@@ -17,4 +21,3 @@ filegroups:
           title: Babushka
           tags: Dolls, Nesting, Toys
           source: https://openmoji.org/library/#group=activities%2Fgame
-
