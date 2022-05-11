@@ -17,6 +17,7 @@ object StoryRoot22222222: TPanelStoryItem
     Size.Height = 845.449707031250000000
     Size.PlatformDefault = False
     TabStop = False
+    Active = True
     Home = True
     StoryPoint = True
     SVGText = 
@@ -5766,10 +5767,8 @@ object StoryRoot22222222: TPanelStoryItem
           Size.PlatformDefault = False
           TabStop = False
           ForegroundColor = xFF35A252
-          Text = 
-            'Eu vou conseguir. BasPuedo lograrlo. Solo tengo que seguir adela' +
-            'nte.ta continuar at'#233' ao fim!'
-          Font.Size = 22.500040054321290000
+          Text = 'Puedo lograrlo. Solo tengo que seguir adelante.'
+          Font.Size = 32.500038146972660000
         end
       end
     end
@@ -5901,6 +5900,7 @@ object StoryRoot22222222: TPanelStoryItem
     end
     object Simple_Farm_Animals1198692032: TVectorImageStoryItem
       Align = Scale
+      Cursor = crDrag
       Position.X = 465.206329345703100000
       Position.Y = 419.528503417968800000
       Size.Width = 154.351348876953100000
@@ -7743,6 +7743,7 @@ object StoryRoot22222222: TPanelStoryItem
     end
     object Simple_Farm_Animals1204001792: TVectorImageStoryItem
       Align = Scale
+      Cursor = crDrag
       Position.X = 205.408905029296900000
       Position.Y = 434.585052490234400000
       Scale.X = -1.000000000000000000
@@ -8522,7 +8523,6 @@ object StoryRoot22222222: TPanelStoryItem
         Size.Height = 119.316368103027300000
         Size.PlatformDefault = False
         TabStop = False
-        Active = True
         Text = 'FIN'
         Font.Size = 78.699363708496090000
       end
