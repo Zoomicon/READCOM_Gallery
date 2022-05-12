@@ -57,6 +57,10 @@ filegroups:
           title: 8-Tooth Gear
           tags: Gear, Tooth
           source: https://openmoji.org/library/emoji-2699/
+      - Magnet.svg:
+          title: Magnet
+          tags: Magnet, Snap
+          source: https://openmoji.org/library/emoji-1F9F2/          
   - oNlineWebFonts.com:
     license: CC BY 3.0
     attribution: oNlineWebFonts.com
