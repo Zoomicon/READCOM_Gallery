@@ -1,4 +1,4 @@
-object PanelStoryItem222: TPanelStoryItem
+object PanelStoryItem222: TBitmapImageStoryItem
   Align = Center
   ClipChildren = True
   Locked = True
