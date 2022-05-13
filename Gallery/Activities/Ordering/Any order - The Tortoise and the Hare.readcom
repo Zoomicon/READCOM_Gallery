@@ -3,7 +3,7 @@ object StoryRoot22222222: TPanelStoryItem
   ClipChildren = True
   Locked = True
   Size.Width = 2500.000000000000000000
-  Size.Height = 700.000000000000000000
+  Size.Height = 1250.000000000000000000
   Size.PlatformDefault = False
   TabStop = False
   TabOrder = 32767
@@ -20,8 +20,8 @@ object StoryRoot22222222: TPanelStoryItem
     Size.Height = 76.084548950195310000
     Size.PlatformDefault = False
     TabStop = False
-    Text = 'Reorder the Story Points and try your story'
-    Font.Size = 49.000000000000000000
+    Text = 'Place the Story Points in order and try your story'
+    Font.Size = 43.000000000000000000
   end
   object BitmapImageStoryItem: TBitmapImageStoryItem
     Align = Scale
@@ -134,8 +134,8 @@ object StoryRoot22222222: TPanelStoryItem
   object Background1: TVectorImageStoryItem
     Align = Scale
     Cursor = crDrag
-    Position.X = 1263.758789062500000000
-    Position.Y = 111.062767028808600000
+    Position.X = 1266.688476562500000000
+    Position.Y = 697.000305175781300000
     Size.Width = 548.332946777343800000
     Size.Height = 530.419799804687500000
     Size.PlatformDefault = False
@@ -2000,8 +2000,8 @@ object StoryRoot22222222: TPanelStoryItem
   object Background2: TVectorImageStoryItem
     Align = Scale
     Cursor = crDrag
-    Position.X = 1848.363769531250000000
-    Position.Y = 116.481262207031300000
+    Position.X = 1844.457397460938000000
+    Position.Y = 689.723510742187500000
     Size.Width = 549.724914550781300000
     Size.Height = 526.806457519531300000
     Size.PlatformDefault = False
@@ -3982,8 +3982,8 @@ object StoryRoot22222222: TPanelStoryItem
   object Background3: TVectorImageStoryItem
     Align = Scale
     Cursor = crDrag
-    Position.X = 100.596702575683600000
-    Position.Y = 123.946472167968800000
+    Position.X = 681.651428222656300000
+    Position.Y = 704.024536132812500000
     Size.Width = 544.848327636718800000
     Size.Height = 517.513427734375000000
     Size.PlatformDefault = False
@@ -5899,8 +5899,8 @@ object StoryRoot22222222: TPanelStoryItem
   object Background4: TVectorImageStoryItem
     Align = Scale
     Cursor = crDrag
-    Position.X = 683.670288085937500000
-    Position.Y = 120.735107421875000000
+    Position.X = 94.802894592285160000
+    Position.Y = 702.766357421875000000
     Size.Width = 548.421569824218800000
     Size.Height = 524.146545410156300000
     Size.PlatformDefault = False
