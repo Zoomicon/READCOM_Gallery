@@ -60,7 +60,11 @@ filegroups:
       - Magnet.svg:
           title: Magnet
           tags: Magnet, Snap
-          source: https://openmoji.org/library/emoji-1F9F2/          
+          source: https://openmoji.org/library/emoji-1F9F2/
+      - Obstacle.svg:
+          title: Obstacle
+          tags: Obstacle, Roadworks
+          source: https://openmoji.org/library/emoji-1F6A7/
   - oNlineWebFonts.com:
     license: CC BY 3.0
     attribution: oNlineWebFonts.com
