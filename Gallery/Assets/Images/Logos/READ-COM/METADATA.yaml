@@ -26,3 +26,5 @@ filegroups:
           title: READ-COM app logo (512x512)
       - READ-COM_256x256.png:
           title: READ-COM app logo (256x256)
+      - READ-COM wide_1024x500.png:
+          title: READ-COM app logo (wide 1024x500)

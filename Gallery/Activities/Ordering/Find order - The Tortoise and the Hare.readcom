@@ -20,10 +20,11 @@ object StoryRoot22222222: TPanelStoryItem
     Size.PlatformDefault = False
     TabStop = False
     BackgroundColor = x54CBA7A7
+    Snapping = True
     Tags = '1'
     SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
     AutoSize = False
-    object TextStoryItem: TTextStoryItem
+    object TextStoryItem2: TTextStoryItem
       Align = Scale
       Locked = True
       Position.X = 196.723846435546900000
@@ -46,10 +47,11 @@ object StoryRoot22222222: TPanelStoryItem
     Size.PlatformDefault = False
     TabStop = False
     BackgroundColor = x3578CE6B
+    Snapping = True
     Tags = '2'
     SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
     AutoSize = False
-    object TextStoryItem: TTextStoryItem
+    object TextStoryItem3: TTextStoryItem
       Align = Scale
       Locked = True
       Position.X = 204.192810058593800000
@@ -72,10 +74,11 @@ object StoryRoot22222222: TPanelStoryItem
     Size.PlatformDefault = False
     TabStop = False
     BackgroundColor = x2B256DD4
+    Snapping = True
     Tags = '4'
     SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
     AutoSize = False
-    object TextStoryItem: TTextStoryItem
+    object TextStoryItem4: TTextStoryItem
       Align = Scale
       Locked = True
       Position.X = 204.192810058593800000
@@ -98,10 +101,11 @@ object StoryRoot22222222: TPanelStoryItem
     Size.PlatformDefault = False
     TabStop = False
     BackgroundColor = x2B25D4C8
+    Snapping = True
     Tags = '3'
     SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
     AutoSize = False
-    object TextStoryItem: TTextStoryItem
+    object TextStoryItem5: TTextStoryItem
       Align = Scale
       Locked = True
       Position.X = 204.192810058593800000
@@ -1954,7 +1958,7 @@ object StoryRoot22222222: TPanelStoryItem
         'd="M841.89,595.28H0V0H841.89ZM810.18,29.6H31.71V565.08H810.18Z"/' +
         '></svg>'
       AutoSize = False
-      object TextStoryItem3: TTextStoryItem
+      object TextStoryItem32: TTextStoryItem
         Align = Scale
         Locked = True
         Position.X = 17.945329666137700000
@@ -1967,7 +1971,7 @@ object StoryRoot22222222: TPanelStoryItem
         Font.Size = 16.100053787231450000
       end
     end
-    object TextStoryItem4: TTextStoryItem
+    object TextStoryItem42: TTextStoryItem
       Align = Scale
       Locked = True
       Position.X = 16.617145538330080000
@@ -3893,7 +3897,7 @@ object StoryRoot22222222: TPanelStoryItem
           '22.3a57.76,57.76,0,0,0,22.67,27.72C205.6,165.68,206.13,166.06,20' +
           '7.23,166.81Z"/></svg>'
         AutoSize = False
-        object TextStoryItem32: TTextStoryItem
+        object TextStoryItem322: TTextStoryItem
           Align = Scale
           Locked = True
           Position.X = 35.270248413085940000
@@ -3908,7 +3912,7 @@ object StoryRoot22222222: TPanelStoryItem
         end
       end
     end
-    object TextStoryItem5: TTextStoryItem
+    object TextStoryItem52: TTextStoryItem
       Align = Scale
       Locked = True
       Position.X = 14.954341888427730000
@@ -5868,7 +5872,7 @@ object StoryRoot22222222: TPanelStoryItem
           '5.14,7.84-11,7.93s-11.27-3.72-11.28-8.12S176.63,145.8,182.88,145' +
           '.82Z"/></svg>'
         AutoSize = False
-        object TextStoryItem42: TTextStoryItem
+        object TextStoryItem422: TTextStoryItem
           Align = Scale
           Locked = True
           Position.X = 147.855926513671900000
@@ -8671,7 +8675,7 @@ object StoryRoot22222222: TPanelStoryItem
         '3.81,2.75,1.66,4.6,1.34,6.83-.85C120.07,20.94,126,15.44,132.32,9' +
         '.49Z"/></svg>'
       AutoSize = False
-      object TextStoryItem422: TTextStoryItem
+      object TextStoryItem4222: TTextStoryItem
         Align = Scale
         Locked = True
         Position.X = 44.182292938232420000
@@ -8870,7 +8874,7 @@ object StoryRoot22222222: TPanelStoryItem
       AutoSize = False
     end
   end
-  object TextStoryItem2: TTextStoryItem
+  object TextStoryItem24: TTextStoryItem
     Align = Scale
     Locked = True
     Position.X = 810.095642089843800000
