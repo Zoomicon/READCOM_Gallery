@@ -4,7 +4,7 @@ echo Syntax: READCOM_MakeThumbs [folder]
 
 ::--------------------------------
 
-if not exist %~dp0READCOM_App.exe echo %~dp0READCOM_App.exe not found & pause & exit 1
+if not exist %~dp0READCOM_App.exe echo %~dp0READCOM_App.exe (need at least version 0.5.13) not found & pause & exit 1
 
 SET folder=%1
 if "%folder%"=="" SET folder=.
@@ -17,7 +17,7 @@ exit 0
 ::--------------------------------
 
 :processFolder
-if "%~n1"==".thumbs" exit /B
+if "%~nx1"==".thumbs" exit /B
 echo Processing folder %1
 
 for /D %%d in (%1\*.*) do call :processFolder "%%d"
