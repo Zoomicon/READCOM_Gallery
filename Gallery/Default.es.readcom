@@ -8,7 +8,7 @@ object PanelStoryItem222: TPanelStoryItem
   TabStop = False
   TabOrder = 32767
   Home = True
-  StoryPoint = False
+  SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
   object FlagGreece16990989204: TBitmapImageStoryItem
     Align = Scale
     Locked = True
@@ -168,6 +168,7 @@ object PanelStoryItem222: TPanelStoryItem
     end
     object BitmapImageStoryItemMask: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 10.001478195190430000
       Position.Y = 14.401509284973140000
@@ -177,8 +178,7 @@ object PanelStoryItem222: TPanelStoryItem
       TabStop = False
       UrlAction = 
         'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-        'r/Gallery/Stories/Aesop%20Fables/The%20Tortoise%20and%20the%20Ha' +
-        're/The%20Tortoise%20and%20the%20Hare.es.readcom'
+        'r/Gallery/es/3-6.readcom'
       SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
@@ -194,7 +194,7 @@ object PanelStoryItem222: TPanelStoryItem
     TabStop = False
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
+      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#8dd2e5;o' +
       'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
       '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
     AutoSize = False
@@ -207,12 +207,13 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 87.501487731933590000
       Size.PlatformDefault = False
       TabStop = False
-      ForegroundColor = xFF1C5772
+      ForegroundColor = xFF1D5171
       Text = '6-9'
       Font.Size = 62.000000000000000000
     end
     object BitmapImageStoryItemMask2: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 10.204252243041990000
       Position.Y = 13.461758613586430000
@@ -220,6 +221,9 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 87.501480102539060000
       Size.PlatformDefault = False
       TabStop = False
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/es/6-9.readcom'
       SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
@@ -235,7 +239,7 @@ object PanelStoryItem222: TPanelStoryItem
     TabStop = False
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
+      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#8dd2e5;o' +
       'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
       '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
     AutoSize = False
@@ -248,12 +252,13 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 77.119049072265630000
       Size.PlatformDefault = False
       TabStop = False
-      ForegroundColor = xFF20606B
+      ForegroundColor = xFF1D5171
       Text = '9-12'
       Font.Size = 54.000000000000000000
     end
     object BitmapImageStoryItemMask3: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 10.501997947692870000
       Position.Y = 11.864469528198240000
@@ -261,6 +266,9 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 77.119087219238280000
       Size.PlatformDefault = False
       TabStop = False
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/es/9-12.readcom'
       SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
@@ -469,6 +477,7 @@ object PanelStoryItem222: TPanelStoryItem
   end
   object READCOMToolkitblack1640302650: TBitmapImageStoryItem
     Align = Scale
+    Cursor = crHandPoint
     Locked = True
     Position.X = 798.496337890625000000
     Position.Y = 781.829589843750000000
