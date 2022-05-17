@@ -46,7 +46,7 @@ object ImageStoryItem: TBitmapImageStoryItem
         Size.PlatformDefault = False
         TabStop = False
         Text = 'LA SELVA'
-        Font.Size = 19.000000000000000000
+        Font.Size = 20.000000000000000000
       end
     end
     object jungleforest012137409042: TBitmapImageStoryItem
@@ -1343,13 +1343,13 @@ object ImageStoryItem: TBitmapImageStoryItem
       object TextStoryItem2: TTextStoryItem
         Align = Scale
         Locked = True
-        Position.X = 15.091720581054690000
-        Position.Y = 5.753866672515869000
-        Size.Width = 207.971847534179700000
-        Size.Height = 56.448825836181640000
+        Position.X = 18.362075805664060000
+        Position.Y = 17.776391983032230000
+        Size.Width = 209.251571655273400000
+        Size.Height = 44.452774047851560000
         Size.PlatformDefault = False
         TabStop = False
-        Text = #13#10'LEE DETENIDAMENTE EL NOMBRE DE LOS ANIMALES DE LA SELVA'
+        Text = 'LEE DETENIDAMENTE EL NOMBRE'#13#10'DE LOS ANIMALES DE LA SELVA'
       end
     end
     object elephant14011366495709: TBitmapImageStoryItem
@@ -2134,7 +2134,6 @@ object ImageStoryItem: TBitmapImageStoryItem
     AutoSize = False
     object jungleforest012118884069: TBitmapImageStoryItem
       Align = Scale
-      Enabled = False
       Locked = True
       Position.X = 121.075386047363300000
       Position.Y = 38.646533966064450000
@@ -2258,7 +2257,6 @@ object ImageStoryItem: TBitmapImageStoryItem
     end
     object dialoguebox0022055773821: TBitmapImageStoryItem
       Align = Scale
-      Enabled = False
       Locked = True
       Position.X = 246.897827148437500000
       Position.Y = 34.931503295898440000
@@ -2345,13 +2343,12 @@ object ImageStoryItem: TBitmapImageStoryItem
         Size.Height = 53.863861083984380000
         Size.PlatformDefault = False
         TabStop = False
-        Text = 'LLEVA CADA NOMBRE AL ANIMAL CORRECTO'
+        Text = 'LLEVA CADA NOMBRE'#13#10'AL ANIMAL CORRECTO'
         Font.Size = 16.000000000000000000
       end
     end
     object elephant14011045975672: TBitmapImageStoryItem
       Align = Scale
-      Enabled = False
       Locked = True
       Position.X = 441.188873291015600000
       Position.Y = 158.392349243164100000
@@ -2408,7 +2405,6 @@ object ImageStoryItem: TBitmapImageStoryItem
     end
     object monkey1403625227731: TBitmapImageStoryItem
       Align = Scale
-      Enabled = False
       Locked = True
       Position.X = 121.075378417968800000
       Position.Y = 38.646533966064450000
@@ -2690,7 +2686,6 @@ object ImageStoryItem: TBitmapImageStoryItem
     end
     object Frog1728763318: TBitmapImageStoryItem
       Align = Scale
-      Enabled = False
       Locked = True
       Position.X = 183.188369750976600000
       Position.Y = 300.807647705078100000
@@ -3014,7 +3009,6 @@ object ImageStoryItem: TBitmapImageStoryItem
     end
     object turtle1581613793: TBitmapImageStoryItem
       Align = Scale
-      Enabled = False
       Locked = True
       Position.X = 317.836669921875000000
       Position.Y = 264.435394287109400000
@@ -4107,7 +4101,6 @@ object ImageStoryItem: TBitmapImageStoryItem
     object dialogebox152132838546: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Enabled = False
       Position.X = 153.227569580078100000
       Position.Y = 248.230545043945300000
       Size.Width = 134.992065429687500000
@@ -4125,10 +4118,10 @@ object ImageStoryItem: TBitmapImageStoryItem
       object TextStoryItem42: TTextStoryItem
         Align = Scale
         Locked = True
-        Position.X = 35.243442535400390000
-        Position.Y = 13.715881347656250000
-        Size.Width = 59.083057403564450000
-        Size.Height = 20.912620544433590000
+        Position.X = 37.417667388916020000
+        Position.Y = 14.026467323303220000
+        Size.Width = 56.710857391357420000
+        Size.Height = 22.703084945678710000
         Size.PlatformDefault = False
         TabStop = False
         Text = 'elefante'
@@ -4137,7 +4130,6 @@ object ImageStoryItem: TBitmapImageStoryItem
     object dialogebox15196748394: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Enabled = False
       Position.X = 319.291503906250000000
       Position.Y = 212.622772216796900000
       Size.Width = 110.356216430664100000
@@ -4158,21 +4150,19 @@ object ImageStoryItem: TBitmapImageStoryItem
         Cursor = crDrag
         Position.X = 25.066501617431640000
         Position.Y = 15.039224624633790000
-        Size.Width = 54.564609527587890000
-        Size.Height = 18.869253158569340000
+        Size.Width = 58.302310943603520000
+        Size.Height = 20.646350860595700000
         Size.PlatformDefault = False
         TabStop = False
         Snapping = True
         Anchored = False
         Tags = 'm'
         Text = 'mono'
-        Font.Size = 11.000000000000000000
       end
     end
     object dialogebox15750624788: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Enabled = False
       Position.X = 433.955932617187500000
       Position.Y = 103.633491516113300000
       Size.Width = 133.364898681640600000
@@ -4193,18 +4183,16 @@ object ImageStoryItem: TBitmapImageStoryItem
         Locked = True
         Position.X = 32.810043334960940000
         Position.Y = 12.393564224243160000
-        Size.Width = 64.679351806640630000
-        Size.Height = 19.879575729370120000
+        Size.Width = 67.902908325195310000
+        Size.Height = 20.462238311767580000
         Size.PlatformDefault = False
         TabStop = False
         Text = 'tortuga'
-        Font.Size = 11.000000000000000000
       end
     end
     object dialogebox151170106147: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Enabled = False
       Position.X = 152.767562866210900000
       Position.Y = 160.317886352539100000
       Size.Width = 95.246734619140630000
@@ -4223,10 +4211,10 @@ object ImageStoryItem: TBitmapImageStoryItem
       object TextStoryItem32: TTextStoryItem
         Align = Scale
         Locked = True
-        Position.X = 14.927295684814450000
-        Position.Y = 14.938667297363280000
-        Size.Width = 62.038867950439450000
-        Size.Height = 20.133749008178710000
+        Position.X = 16.790908813476560000
+        Position.Y = 15.559910774230960000
+        Size.Width = 61.024734497070310000
+        Size.Height = 20.558994293212890000
         Size.PlatformDefault = False
         TabStop = False
         Text = 'rana'
@@ -4243,15 +4231,7 @@ object ImageStoryItem: TBitmapImageStoryItem
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
-    Image.MultiResBitmap = <
-      item
-      end>
-    Image.Align = Contents
-    Image.HitTest = False
-    Image.Size.Width = 387.413391113281300000
-    Image.Size.Height = 463.710510253906300000
-    Image.Size.PlatformDefault = False
-    Image.WrapMode = Stretch
+    SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
     AutoSize = False
     object Boy601323758696: TBitmapImageStoryItem
       Align = Scale
