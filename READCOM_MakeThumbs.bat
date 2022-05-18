@@ -18,6 +18,7 @@ exit 0
 
 :processFolder
 if "%~nx1"==".thumbs" exit /B
+if "%~nx1"==".git" exit /B
 echo Processing folder %1
 
 for /D %%d in (%1\*.*) do call :processFolder "%%d"
