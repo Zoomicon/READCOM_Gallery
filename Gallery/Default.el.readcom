@@ -8,7 +8,7 @@ object PanelStoryItem222: TPanelStoryItem
   TabStop = False
   TabOrder = 32767
   Home = True
-  StoryPoint = False
+  SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
   object FlagGreece16990989204: TBitmapImageStoryItem
     Align = Scale
     Locked = True
@@ -168,6 +168,7 @@ object PanelStoryItem222: TPanelStoryItem
     end
     object BitmapImageStoryItemMask: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 8.526322364807129000
       Position.Y = 13.235645294189450000
@@ -177,8 +178,7 @@ object PanelStoryItem222: TPanelStoryItem
       TabStop = False
       UrlAction = 
         'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-        'r/Gallery/Stories/Aesop%20Fables/The%20Tortoise%20and%20the%20Ha' +
-        're/The%20Tortoise%20and%20the%20Hare.el.readcom'
+        'r/Gallery/el/3-6.readcom'
       SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
@@ -469,6 +469,7 @@ object PanelStoryItem222: TPanelStoryItem
   end
   object READCOMToolkitblack1640302650: TBitmapImageStoryItem
     Align = Scale
+    Cursor = crHandPoint
     Locked = True
     Position.X = 798.496337890625000000
     Position.Y = 781.829589843750000000
