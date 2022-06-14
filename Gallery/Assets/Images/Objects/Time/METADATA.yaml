@@ -1,0 +1,35 @@
+---
+title: Images for Time-related Objects
+tags: Object, Image, Time
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - OpenMoji.org:
+    license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+    attribution: OpenMoji.org
+    files:
+      - Hourglass.svg:
+          title: Hourglass
+          tags: Hourglass, Progress
+          source: https://openmoji.org/library/emoji-23F3/
+      - HourglassDone.svg:
+          title: Hourglass (Done)
+          tags: Hourglass, Progress, Completion
+          source: https://openmoji.org/library/emoji-231B/
+      - ClockDesk.svg:
+          title: Desk Clock
+          tags: Clock, Desk
+          source: https://openmoji.org/library/emoji-23F2/
+      - ClockMantelpiece0015.svg:
+          title: Mantelpiece Clock
+          tags: Clock, Mantelpiece
+          source: https://openmoji.org/library/emoji-1F570/
+      - ClockAlarm0700.svg:
+          title: Alarm Clock
+          tags: Clock, Alarm
+          source: https://openmoji.org/library/emoji-23F0/
+      - Watch0300.svg:
+          title: Watch
+          tags: Watch, Wrist
+          source: https://openmoji.org/library/emoji-231A/ 

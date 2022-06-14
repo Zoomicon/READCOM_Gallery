@@ -1,0 +1,79 @@
+---
+title: Images for Time-related Symbols
+tags: Time, Symbol, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - OpenMoji:
+        license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+        attribution: OpenMoji.org
+        files:
+          - Timer.svg:
+              title: Timer symbol
+              tag: Timer
+              source: https://openmoji.org/library/#search=timer&emoji=E0AB
+          - ClockAnalog0100.svg.svg:
+              title: Analog Clock (01:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0130.svg:
+              title: Analog Clock (01:30)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0200.svg:
+              title: Analog Clock (02:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0230.svg:
+              title: Analog Clock (02:30)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0300.svg:
+              title: Analog Clock (03:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0330.svg:
+              title: Analog Clock (03:30)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0400.svg:
+              title: Analog Clock (04:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0430.svg:
+              title: Analog Clock (04:30)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0500.svg:
+              title: Analog Clock (05:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0600.svg:
+              title: Analog Clock (06:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0700.svg:
+              title: Analog Clock (07:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0800.svg:
+              title: Analog Clock (08:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog0900.svg:
+              title: Analog Clock (09:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog1000.svg:
+              title: Analog Clock (10:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog1100.svg:
+              title: Analog Clock (11:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time
+          - ClockAnalog1200.svg:
+              title: Analog Clock (12:00)
+              tag: Hour, Clock, Analog
+              source: https://openmoji.org/library/#search=time

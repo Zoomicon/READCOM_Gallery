@@ -65,14 +65,6 @@ filegroups:
           title: Obstacle
           tags: Obstacle, Roadworks
           source: https://openmoji.org/library/emoji-1F6A7/
-      - Hourglass.svg:
-          title: Hourglass
-          tags: Hourglass, Time, Progress
-          source: https://openmoji.org/library/emoji-23F3/
-      - HourglassDone.svg:
-          title: Hourglass (Done)
-          tags: Hourglass, Time, Progress, Completion
-          source: https://openmoji.org/library/emoji-231B/
   - oNlineWebFonts.com:
     license: CC BY 3.0
     attribution: oNlineWebFonts.com
