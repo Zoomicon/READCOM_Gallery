@@ -6,10 +6,14 @@ echo Syntax: READCOM_MakeThumbs [folder]
 
 if not exist %~dp0READCOM_App.exe echo %~dp0READCOM_App.exe (need at least version 0.5.13) not found & pause & exit 1
 
-SET folder=%1
-if "%folder%"=="" SET folder=.
+SET param=%1
+if "%param%"=="" SET param=.
 
-call :processFolder "%folder%"
+if exist test\nul (
+  call :processFolder "%param%"
+) else (
+  call :processFile "%param%"
+)
 
 pause
 exit 0

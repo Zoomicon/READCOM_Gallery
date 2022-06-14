@@ -1,0 +1,605 @@
+object ImageStoryItem: TBitmapImageStoryItem
+  Align = Center
+  Locked = True
+  Size.Width = 2048.000000000000000000
+  Size.Height = 1082.000000000000000000
+  Size.PlatformDefault = False
+  TabStop = False
+  SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
+  object BitmapImageStoryItem: TBitmapImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = -0.455550312995910600
+    Position.Y = 3.143749713897705000
+    Size.Width = 1513.785644531250000000
+    Size.Height = 544.231933593750000000
+    Size.PlatformDefault = False
+    TabStop = False
+    Active = True
+    Home = True
+    StoryPoint = True
+    SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
+    AutoSize = False
+    object Watch03001685659264: TBitmapImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 56.199542999267580000
+      Position.Y = 23.318761825561520000
+      Size.Width = 301.716094970703100000
+      Size.Height = 213.554367065429700000
+      Size.PlatformDefault = False
+      TabStop = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <path fill="#9b9b9a" stroke="#9b9b9' +
+        'a" stroke-miterlimit="10" stroke-width="2" d="M53.9958,40.5232h0' +
+        '.6992c1.1,0,2-0.9,2-2 v-5.1541c0-1.1-0.9-2-2-2h-0.6991H50v9.1648' +
+        'L53.9958,40.5232z"/>'#13'    <path fill="#9b9b9a" stroke="none" stro' +
+        'ke-miterlimit="10" stroke-width="2" d="M25,21V9c0-0.5523,0.4477-' +
+        '1,1-1h20 c0.5523,0,1,0.4477,1,1v12"/>'#13'    <path fill="#9b9b9a" s' +
+        'troke="#9b9b9a" stroke-miterlimit="10" stroke-width="2" d="M47,5' +
+        '1v12c0,0.5523-0.4477,1-1,1H26 c-0.5523,0-1-0.4477-1-1V51"/>'#13'    ' +
+        '<path fill="#d0cfce" stroke="#d0cfce" stroke-miterlimit="10" str' +
+        'oke-width="2" d="M48,51H24c-1.1,0-2-0.9-2-2V23c0-1.1,0.9-2,2-2 h' +
+        '24c1.1,0,2,0.9,2,2v26C50,50.1,49.1,51,48,51z"/>'#13'  </g>'#13'  <g id="' +
+        'hair"/>'#13'  <g id="skin"/>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">' +
+        #13'    <path fill="none" stroke="#000000" stroke-miterlimit="10" s' +
+        'troke-width="2" d="M25,21V9c0-0.5523,0.4477-1,1-1h20 c0.5523,0,1' +
+        ',0.4477,1,1v12"/>'#13'    <path fill="none" stroke="#000000" stroke-' +
+        'linecap="round" stroke-linejoin="round" stroke-miterlimit="10" s' +
+        'troke-width="2" d="M25,16.0003"/>'#13'    <path fill="none" stroke="' +
+        '#000000" stroke-linecap="round" stroke-linejoin="round" stroke-m' +
+        'iterlimit="10" stroke-width="2" d="M47,55.9997"/>'#13'    <path fill' +
+        '="none" stroke="#000000" stroke-linecap="round" stroke-linejoin=' +
+        '"round" stroke-miterlimit="10" stroke-width="2" d="M47,16.0003"/' +
+        '>'#13'    <polyline fill="none" stroke="#000000" stroke-linecap="rou' +
+        'nd" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=' +
+        '"2" points="35.8442,26.1875 35.8442,36.1875 44.1558,36.1875"/>'#13' ' +
+        '   <path fill="none" stroke="#000000" stroke-linecap="round" str' +
+        'oke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="' +
+        'M25,16.0003"/>'#13'    <polyline fill="none" stroke="#000000" stroke' +
+        '-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" ' +
+        'stroke-width="2" points="47,54.9997 47,64 25,64 25,54.9997"/>'#13'  ' +
+        '  <path fill="none" stroke="#000000" stroke-linecap="round" stro' +
+        'ke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M' +
+        '47,55.9997"/>'#13'    <path fill="none" stroke="#000000" stroke-line' +
+        'cap="round" stroke-linejoin="round" stroke-miterlimit="10" strok' +
+        'e-width="2" d="M47,16.0003"/>'#13'    <polyline fill="none" stroke="' +
+        '#000000" stroke-linecap="round" stroke-linejoin="round" stroke-m' +
+        'iterlimit="10" stroke-width="2" points="25,17.0003 25,8 47,8 47,' +
+        '17.0003"/>'#13'    <path fill="none" stroke="#000000" stroke-linecap' +
+        '="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-w' +
+        'idth="2" d="M53.9959,31.3691h0.6991c1.1,0,2,0.9,2,2v5.1541c0,1.1' +
+        '-0.9,2-2,2h-0.6992"/>'#13'    <path fill="none" stroke="#000000" str' +
+        'oke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1' +
+        '0" stroke-width="2" d="M48,51H24c-1.1,0-2-0.9-2-2V23c0-1.1,0.9-2' +
+        ',2-2h24c1.1,0,2,0.9,2,2v26C50,50.1,49.1,51,48,51z"/>'#13'    <polyli' +
+        'ne fill="none" stroke="#000000" stroke-linecap="round" stroke-li' +
+        'nejoin="round" stroke-miterlimit="10" stroke-width="2" points="3' +
+        '5.8442,26.1875 35.8442,36.1875 44.1558,36.1875"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+      object TextStoryItem2: TTextStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = 106.390533447265600000
+        Position.Y = 73.129020690917970000
+        Size.Width = 93.312576293945310000
+        Size.Height = 65.356071472167970000
+        Size.PlatformDefault = False
+        TabStop = False
+        BackgroundColor = xFFCDCDCD
+        Text = 'What time is it?'
+        Font.Size = 23.000000000000000000
+      end
+    end
+    object TextStoryItem3: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 58.458114624023440000
+      Position.Y = 368.254913330078100000
+      Size.Width = 181.976440429687500000
+      Size.Height = 137.323059082031300000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x39CE8989
+      Snapping = True
+      Tags = '#12:00'
+      Text = #13#10#13#10#13#10#13#10'12:00'
+      Font.Size = 20.000000000000000000
+    end
+    object TextStoryItem4: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 881.526306152343800000
+      Position.Y = 366.234344482421900000
+      Size.Width = 181.976440429687500000
+      Size.Height = 137.323059082031300000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x39CE8989
+      Snapping = True
+      Tags = '#05:00'
+      Text = #13#10#13#10#13#10#13#10'5:00'
+      Font.Size = 20.000000000000000000
+    end
+    object TextStoryItem5: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 679.463867187500000000
+      Position.Y = 365.560760498046900000
+      Size.Width = 181.976440429687500000
+      Size.Height = 137.323059082031300000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x39CE8989
+      Snapping = True
+      Tags = '#07:00'
+      Text = #13#10#13#10#13#10#13#10'7:00'
+      Font.Size = 20.000000000000000000
+    end
+    object TextStoryItem6: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 476.054168701171900000
+      Position.Y = 368.254943847656300000
+      Size.Width = 181.976440429687500000
+      Size.Height = 137.323059082031300000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x39CE8989
+      Snapping = True
+      Tags = '#03:00'
+      Text = #13#10#13#10#13#10#13#10'3:00'
+      Font.Size = 20.000000000000000000
+    end
+    object TextStoryItem7: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 267.256072998046900000
+      Position.Y = 367.581359863281300000
+      Size.Width = 181.976440429687500000
+      Size.Height = 137.323059082031300000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x39CE8989
+      Snapping = True
+      Tags = '#01:00'
+      Text = #13#10#13#10#13#10#13#10'1:00'
+      Font.Size = 20.000000000000000000
+    end
+    object TextStoryItem8: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 1090.235961914063000000
+      Position.Y = 364.430969238281300000
+      Size.Width = 181.976440429687500000
+      Size.Height = 137.323059082031300000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x39CE8989
+      Snapping = True
+      Tags = '#08:00'
+      Text = #13#10#13#10#13#10#13#10'8:00'
+      Font.Size = 20.000000000000000000
+    end
+    object TextStoryItem9: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 1295.666137695313000000
+      Position.Y = 363.757385253906300000
+      Size.Width = 181.976440429687500000
+      Size.Height = 137.323059082031300000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x39CE8989
+      Snapping = True
+      Tags = '#09:00'
+      Text = #13#10#13#10#13#10#13#10'9:00'
+      Font.Size = 20.000000000000000000
+    end
+    object ClockAnalog12001568525296: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 389.890258789062500000
+      Position.Y = 28.956069946289060000
+      Size.Width = 171.100769042968800000
+      Size.Height = 127.560760498046900000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#12:00'
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36.0041" x2="36.0041" y1="36.0034" y2="25.0034" fill="#' +
+        'FFFFFF" stroke="none" stroke-linecap="round" stroke-linejoin="ro' +
+        'und" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line x1="36"' +
+        ' x2="36" y1="18.9893" y2="21.2043" fill="#FFFFFF" stroke="none" ' +
+        'stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit' +
+        '="10" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/' +
+        '>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958' +
+        '" cy="35.9901" r="23" fill="none" stroke="#000000" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-' +
+        'width="2"/>'#13'    <line x1="36.0041" x2="36.0041" y1="36.0034" y2=' +
+        '"25.0034" fill="none" stroke="#000000" stroke-linecap="round" st' +
+        'roke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13 +
+        '    <line x1="36" x2="36" y1="18.9893" y2="21.2043" fill="none" ' +
+        'stroke="#000000" stroke-linecap="round" stroke-linejoin="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog0100273613085: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 575.120483398437500000
+      Position.Y = 28.334249496459960000
+      Size.Width = 171.100585937500000000
+      Size.Height = 127.560844421386700000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#01:00'
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.99" r="2' +
+        '3" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-li' +
+        'nejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <li' +
+        'ne x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" stro' +
+        'ke="none" stroke-linecap="round" stroke-linejoin="round" stroke-' +
+        'miterlimit="10" stroke-width="2"/>'#13'    <line x1="41.8435" x2="36' +
+        '.07" y1="25.7929" y2="35.7929" fill="#FFFFFF" stroke="none" stro' +
+        'ke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10' +
+        '" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/>'#13'  ' +
+        '<g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958" cy' +
+        '="35.99" r="23" fill="none" stroke="#000000" stroke-linecap="rou' +
+        'nd" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=' +
+        '"2"/>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="' +
+        'none" stroke="#000000" stroke-linecap="round" stroke-linejoin="r' +
+        'ound" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line x1="41' +
+        '.8435" x2="36.07" y1="25.7929" y2="35.7929" fill="none" stroke="' +
+        '#000000" stroke-linecap="round" stroke-linejoin="round" stroke-m' +
+        'iterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog02001384872419: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 758.707885742187500000
+      Position.Y = 29.779752731323240000
+      Size.Width = 171.100708007812500000
+      Size.Height = 127.560867309570300000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" st' +
+        'roke="none" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="46.0568" x2="' +
+        '36.0568" y1="30.2062" y2="35.9797" fill="#FFFFFF" stroke="none" ' +
+        'stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit' +
+        '="10" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/' +
+        '>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958' +
+        '" cy="35.9901" r="23" fill="none" stroke="#000000" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-' +
+        'width="2"/>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" ' +
+        'fill="none" stroke="#000000" stroke-linecap="round" stroke-linej' +
+        'oin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line ' +
+        'x1="46.0568" x2="36.0568" y1="30.2062" y2="35.9797" fill="none" ' +
+        'stroke="#000000" stroke-linecap="round" stroke-linejoin="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog0300802512211: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 943.099487304687500000
+      Position.Y = 29.057058334350590000
+      Size.Width = 171.100952148437500000
+      Size.Height = 127.560813903808600000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#03:00'
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" st' +
+        'roke="none" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="47.6303" x2="' +
+        '36.0833" y1="35.9929" y2="35.9929" fill="#FFFFFF" stroke="none" ' +
+        'stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit' +
+        '="10" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/' +
+        '>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958' +
+        '" cy="35.9901" r="23" fill="none" stroke="#000000" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-' +
+        'width="2"/>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" ' +
+        'fill="none" stroke="#000000" stroke-linecap="round" stroke-linej' +
+        'oin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line ' +
+        'x1="47.6303" x2="36.0833" y1="35.9929" y2="35.9929" fill="none" ' +
+        'stroke="#000000" stroke-linecap="round" stroke-linejoin="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog04002120280873: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 1129.907592773438000000
+      Position.Y = 30.502511978149410000
+      Size.Width = 171.100708007812500000
+      Size.Height = 127.560859680175800000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" st' +
+        'roke="none" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="46.0568" x2="' +
+        '36.0568" y1="41.7797" y2="36.0062" fill="#FFFFFF" stroke="none" ' +
+        'stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit' +
+        '="10" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/' +
+        '>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958' +
+        '" cy="35.9901" r="23" fill="none" stroke="#000000" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-' +
+        'width="2"/>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" ' +
+        'fill="none" stroke="#000000" stroke-linecap="round" stroke-linej' +
+        'oin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line ' +
+        'x1="46.0568" x2="36.0568" y1="41.7797" y2="36.0062" fill="none" ' +
+        'stroke="#000000" stroke-linecap="round" stroke-linejoin="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog05002046713128: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 1312.689086914063000000
+      Position.Y = 29.779714584350590000
+      Size.Width = 171.100830078125000000
+      Size.Height = 127.560813903808600000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#05:00'
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" st' +
+        'roke="none" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="41.7824" x2="' +
+        '36.0089" y1="46.0493" y2="36.0493" fill="#FFFFFF" stroke="none" ' +
+        'stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit' +
+        '="10" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/' +
+        '>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958' +
+        '" cy="35.9901" r="23" fill="none" stroke="#000000" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-' +
+        'width="2"/>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" ' +
+        'fill="none" stroke="#000000" stroke-linecap="round" stroke-linej' +
+        'oin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line ' +
+        'x1="41.7824" x2="36.0089" y1="46.0493" y2="36.0493" fill="none" ' +
+        'stroke="#000000" stroke-linecap="round" stroke-linejoin="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog06001062025167: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 389.923583984375000000
+      Position.Y = 175.052841186523400000
+      Size.Width = 171.100769042968800000
+      Size.Height = 127.560867309570300000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" st' +
+        'roke="none" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="36" x2="36" y' +
+        '1="35.9528" y2="47.4998" fill="#FFFFFF" stroke="none" stroke-lin' +
+        'ecap="round" stroke-linejoin="round" stroke-miterlimit="10" stro' +
+        'ke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/>'#13'  <g id=' +
+        '"skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958" cy="35.9' +
+        '901" r="23" fill="none" stroke="#000000" stroke-linecap="round" ' +
+        'stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/' +
+        '>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="none' +
+        '" stroke="#000000" stroke-linecap="round" stroke-linejoin="round' +
+        '" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line x1="36" x2' +
+        '="36" y1="35.9528" y2="47.4998" fill="none" stroke="#000000" str' +
+        'oke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1' +
+        '0" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog07001271486223: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 575.925537109375000000
+      Position.Y = 173.607360839843800000
+      Size.Width = 171.100830078125000000
+      Size.Height = 127.560852050781300000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#07:00'
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" st' +
+        'roke="none" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="35.9885" x2="' +
+        '30.215" y1="35.9891" y2="45.9891" fill="#FFFFFF" stroke="none" s' +
+        'troke-linecap="round" stroke-linejoin="round" stroke-miterlimit=' +
+        '"10" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/>' +
+        #13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958"' +
+        ' cy="35.9901" r="23" fill="none" stroke="#000000" stroke-linecap' +
+        '="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-w' +
+        'idth="2"/>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" f' +
+        'ill="none" stroke="#000000" stroke-linecap="round" stroke-linejo' +
+        'in="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line x' +
+        '1="35.9885" x2="30.215" y1="35.9891" y2="45.9891" fill="none" st' +
+        'roke="#000000" stroke-linecap="round" stroke-linejoin="round" st' +
+        'roke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog0800139933010: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 757.902282714843800000
+      Position.Y = 172.161727905273400000
+      Size.Width = 171.100524902343800000
+      Size.Height = 127.560867309570300000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#08:00'
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" st' +
+        'roke="none" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="35.9846" x2="' +
+        '25.9846" y1="36.0369" y2="41.8104" fill="#FFFFFF" stroke="none" ' +
+        'stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit' +
+        '="10" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/' +
+        '>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958' +
+        '" cy="35.9901" r="23" fill="none" stroke="#000000" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-' +
+        'width="2"/>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" ' +
+        'fill="none" stroke="#000000" stroke-linecap="round" stroke-linej' +
+        'oin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line ' +
+        'x1="35.9846" x2="25.9846" y1="36.0369" y2="41.8104" fill="none" ' +
+        'stroke="#000000" stroke-linecap="round" stroke-linejoin="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog09001674237598: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 942.294311523437500000
+      Position.Y = 174.329986572265600000
+      Size.Width = 171.101196289062500000
+      Size.Height = 127.560882568359400000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#09:00'
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" st' +
+        'roke="none" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="35.6172" x2="' +
+        '24.6172" y1="36.0212" y2="36.0212" fill="#FFFFFF" stroke="none" ' +
+        'stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit' +
+        '="10" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/' +
+        '>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958' +
+        '" cy="35.9901" r="23" fill="none" stroke="#000000" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-' +
+        'width="2"/>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" ' +
+        'fill="none" stroke="#000000" stroke-linecap="round" stroke-linej' +
+        'oin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line ' +
+        'x1="35.6172" x2="24.6172" y1="36.0212" y2="36.0212" fill="none" ' +
+        'stroke="#000000" stroke-linecap="round" stroke-linejoin="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog1000983330589: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 1125.075439453125000000
+      Position.Y = 175.775665283203100000
+      Size.Width = 171.100952148437500000
+      Size.Height = 127.560821533203100000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" st' +
+        'roke="none" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="35.9353" x2="' +
+        '26.4091" y1="36.0305" y2="30.5305" fill="#FFFFFF" stroke="none" ' +
+        'stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit' +
+        '="10" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/' +
+        '>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958' +
+        '" cy="35.9901" r="23" fill="none" stroke="#000000" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-' +
+        'width="2"/>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" ' +
+        'fill="none" stroke="#000000" stroke-linecap="round" stroke-linej' +
+        'oin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line ' +
+        'x1="35.9353" x2="26.4091" y1="36.0305" y2="30.5305" fill="none" ' +
+        'stroke="#000000" stroke-linecap="round" stroke-linejoin="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object ClockAnalog1100927572886: TBitmapImageStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 1311.883666992188000000
+      Position.Y = 172.884368896484400000
+      Size.Width = 171.100708007812500000
+      Size.Height = 127.561004638671900000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <circle cx="35.958" cy="35.9901" r=' +
+        '"23" fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-' +
+        'linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <' +
+        'line x1="36" x2="36" y1="18.9893" y2="35.9893" fill="#FFFFFF" st' +
+        'roke="none" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="35.8994" x2="' +
+        '30.3994" y1="35.9665" y2="26.4402" fill="#FFFFFF" stroke="none" ' +
+        'stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit' +
+        '="10" stroke-width="2"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/' +
+        '>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <circle cx="35.958' +
+        '" cy="35.9901" r="23" fill="none" stroke="#000000" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-' +
+        'width="2"/>'#13'    <line x1="36" x2="36" y1="18.9893" y2="35.9893" ' +
+        'fill="none" stroke="#000000" stroke-linecap="round" stroke-linej' +
+        'oin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line ' +
+        'x1="35.8994" x2="30.3994" y1="35.9665" y2="26.4402" fill="none" ' +
+        'stroke="#000000" stroke-linecap="round" stroke-linejoin="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+  end
+  object TextStoryItem22: TTextStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 1538.619750976563000000
+    Position.Y = 752.178710937500000000
+    Size.Width = 473.842041015625000000
+    Size.Height = 295.240051269531300000
+    Size.PlatformDefault = False
+    TabStop = False
+    StoryPoint = True
+    Text = #55356#57225
+    Font.Size = 218.000000000000000000
+  end
+end
