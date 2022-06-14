@@ -5,15 +5,7 @@ object ImageStoryItem: TBitmapImageStoryItem
   Size.Height = 1262.333496093750000000
   Size.PlatformDefault = False
   TabStop = False
-  Image.MultiResBitmap = <
-    item
-    end>
-  Image.Align = Contents
-  Image.HitTest = False
-  Image.Size.Width = 2389.333251953125000000
-  Image.Size.Height = 1262.333496093750000000
-  Image.Size.PlatformDefault = False
-  Image.WrapMode = Stretch
+  SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
   object BitmapImageStoryItem2: TBitmapImageStoryItem
     Align = Scale
     Locked = True
@@ -26,15 +18,7 @@ object ImageStoryItem: TBitmapImageStoryItem
     Active = True
     Home = True
     StoryPoint = True
-    Image.MultiResBitmap = <
-      item
-      end>
-    Image.Align = Contents
-    Image.HitTest = False
-    Image.Size.Width = 779.635009765625000000
-    Image.Size.Height = 457.829162597656300000
-    Image.Size.PlatformDefault = False
-    Image.WrapMode = Stretch
+    SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
     AutoSize = False
     object ClockMantelpiece00152081570367: TBitmapImageStoryItem
       Align = Scale
@@ -117,15 +101,7 @@ object ImageStoryItem: TBitmapImageStoryItem
       BackgroundColor = x502DC9D3
       Snapping = True
       Tags = '#12:00'
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 56.321105957031250000
-      Image.Size.Height = 21.441192626953130000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
     object BitmapImageStoryItem3: TBitmapImageStoryItem
@@ -140,15 +116,7 @@ object ImageStoryItem: TBitmapImageStoryItem
       BackgroundColor = x502DC9D3
       Snapping = True
       Tags = '#3:00'
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 51.176879882812500000
-      Image.Size.Height = 22.970932006835940000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
     object BitmapImageStoryItem4: TBitmapImageStoryItem
@@ -163,15 +131,7 @@ object ImageStoryItem: TBitmapImageStoryItem
       BackgroundColor = x502DC9D3
       Snapping = True
       Tags = '#6:00'
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 59.058074951171880000
-      Image.Size.Height = 23.392517089843750000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
     object BitmapImageStoryItem5: TBitmapImageStoryItem
@@ -186,58 +146,8 @@ object ImageStoryItem: TBitmapImageStoryItem
       BackgroundColor = x502DC9D3
       Snapping = True
       Tags = '#9:00'
-      Image.MultiResBitmap = <
-        item
-        end>
-      Image.Align = Contents
-      Image.HitTest = False
-      Image.Size.Width = 51.655731201171880000
-      Image.Size.Height = 23.629684448242190000
-      Image.Size.PlatformDefault = False
-      Image.WrapMode = Stretch
+      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
-    end
-    object TextStoryItem2: TTextStoryItem
-      Align = Scale
-      Cursor = crDrag
-      Position.X = 242.522155761718800000
-      Position.Y = 26.210704803466800000
-      Size.Width = 47.234436035156250000
-      Size.Height = 27.989620208740230000
-      Size.PlatformDefault = False
-      TabStop = False
-      Anchored = False
-      Tags = '#12:00'
-      Text = '12:00'
-      Font.Size = 14.000000000000000000
-    end
-    object TextStoryItem4: TTextStoryItem
-      Align = Scale
-      Cursor = crDrag
-      Position.X = 475.804626464843800000
-      Position.Y = 29.653692245483400000
-      Size.Width = 42.998352050781250000
-      Size.Height = 26.519491195678710000
-      Size.PlatformDefault = False
-      TabStop = False
-      Anchored = False
-      Tags = '#9:00'
-      Text = '9:00'
-      Font.Size = 16.000000000000000000
-    end
-    object TextStoryItem5: TTextStoryItem
-      Align = Scale
-      Cursor = crDrag
-      Position.X = 397.020355224609400000
-      Position.Y = 28.418025970458980000
-      Size.Width = 42.998474121093750000
-      Size.Height = 26.519481658935550000
-      Size.PlatformDefault = False
-      TabStop = False
-      Anchored = False
-      Tags = '#6:00'
-      Text = '6:00'
-      Font.Size = 16.000000000000000000
     end
     object Watch03001685659264: TBitmapImageStoryItem
       Align = Scale
@@ -325,6 +235,48 @@ object ImageStoryItem: TBitmapImageStoryItem
       Text = '3:00'
       Font.Size = 16.000000000000000000
     end
+    object TextStoryItem4: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 475.804626464843800000
+      Position.Y = 29.653692245483400000
+      Size.Width = 42.998352050781250000
+      Size.Height = 26.519491195678710000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#9:00'
+      Text = '9:00'
+      Font.Size = 16.000000000000000000
+    end
+    object TextStoryItem5: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 397.020355224609400000
+      Position.Y = 28.418025970458980000
+      Size.Width = 42.998474121093750000
+      Size.Height = 26.519481658935550000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#6:00'
+      Text = '6:00'
+      Font.Size = 16.000000000000000000
+    end
+    object TextStoryItem2: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 242.522155761718800000
+      Position.Y = 26.210704803466800000
+      Size.Width = 47.234436035156250000
+      Size.Height = 27.989620208740230000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#12:00'
+      Text = '12:00'
+      Font.Size = 14.000000000000000000
+    end
   end
   object BitmapImageStoryItem6: TBitmapImageStoryItem
     Align = Scale
@@ -336,17 +288,9 @@ object ImageStoryItem: TBitmapImageStoryItem
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
-    Image.MultiResBitmap = <
-      item
-      end>
-    Image.Align = Contents
-    Image.HitTest = False
-    Image.Size.Width = 1397.749267578125000000
-    Image.Size.Height = 475.632202148437500000
-    Image.Size.PlatformDefault = False
-    Image.WrapMode = Stretch
+    SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
     AutoSize = False
-    object Watch03001685659264: TBitmapImageStoryItem
+    object Watch030016856592642: TBitmapImageStoryItem
       Align = Scale
       Locked = True
       Position.X = 30.561313629150390000
@@ -404,7 +348,7 @@ object ImageStoryItem: TBitmapImageStoryItem
         'nejoin="round" stroke-miterlimit="10" stroke-width="2" points="3' +
         '5.8442,26.1875 35.8442,36.1875 44.1558,36.1875"/>'#13'  </g>'#13'</svg>'
       AutoSize = False
-      object TextStoryItem22: TTextStoryItem
+      object TextStoryItem222: TTextStoryItem
         Align = Scale
         Locked = True
         Position.X = 89.407928466796880000
@@ -915,7 +859,7 @@ object ImageStoryItem: TBitmapImageStoryItem
       AutoSize = False
     end
   end
-  object TextStoryItem222: TTextStoryItem
+  object TextStoryItem2222: TTextStoryItem
     Align = Scale
     Locked = True
     Position.X = 1795.056640625000000000
