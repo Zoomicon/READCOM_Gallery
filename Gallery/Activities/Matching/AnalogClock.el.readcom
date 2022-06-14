@@ -1,32 +1,251 @@
 object ImageStoryItem: TBitmapImageStoryItem
   Align = Center
   Locked = True
-  Size.Width = 2048.000000000000000000
-  Size.Height = 1082.000000000000000000
+  Size.Width = 2389.333251953125000000
+  Size.Height = 1262.333496093750000000
   Size.PlatformDefault = False
   TabStop = False
-  SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
-  object BitmapImageStoryItem: TBitmapImageStoryItem
+  Image.MultiResBitmap = <
+    item
+    end>
+  Image.Align = Contents
+  Image.HitTest = False
+  Image.Size.Width = 2389.333251953125000000
+  Image.Size.Height = 1262.333496093750000000
+  Image.Size.PlatformDefault = False
+  Image.WrapMode = Stretch
+  object BitmapImageStoryItem2: TBitmapImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = -0.455550312995910600
-    Position.Y = 3.143749713897705000
-    Size.Width = 1513.785644531250000000
-    Size.Height = 544.231933593750000000
+    Position.X = 103.537773132324200000
+    Position.Y = 62.770805358886720000
+    Size.Width = 779.635009765625000000
+    Size.Height = 457.829162597656300000
     Size.PlatformDefault = False
     TabStop = False
     Active = True
     Home = True
     StoryPoint = True
-    SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
+    Image.MultiResBitmap = <
+      item
+      end>
+    Image.Align = Contents
+    Image.HitTest = False
+    Image.Size.Width = 779.635009765625000000
+    Image.Size.Height = 457.829162597656300000
+    Image.Size.PlatformDefault = False
+    Image.WrapMode = Stretch
     AutoSize = False
+    object ClockMantelpiece00152081570367: TBitmapImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 242.818756103515600000
+      Position.Y = 65.536514282226560000
+      Size.Width = 275.628326416015600000
+      Size.Height = 282.611877441406300000
+      Size.PlatformDefault = False
+      TabStop = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <line x1="50.258" x2="53.1419" y1="' +
+        '55.036" y2="59.8645" fill="#FFFFFF" stroke="none" stroke-linecap' +
+        '="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-w' +
+        'idth="2"/>'#13'    <line x1="21.7419" x2="18.858" y1="55.036" y2="59' +
+        '.8645" fill="#FFFFFF" stroke="none" stroke-linecap="round" strok' +
+        'e-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13'   ' +
+        ' <path fill="#d0cfce" stroke="#d0cfce" stroke-miterlimit="10" st' +
+        'roke-width="2" d="M36,19"/>'#13'    <path fill="#d0cfce" stroke="#d0' +
+        'cfce" stroke-miterlimit="10" stroke-width="2" d="M36,19"/>'#13'    <' +
+        'path fill="#d0cfce" stroke="none" d="M46.1859,14.7917c2.2534-4.6' +
+        '476,4.2653-4.0842,6.1673-4.3168c1.2869-0.1573,6.4609,3.1641,6.46' +
+        '09,6.5799 s-2.2433,4.739-3.5597,5.4867"/>'#13'    <path fill="#d0cfc' +
+        'e" stroke="none" d="M25.8141,14.7917c-2.2533-4.6476-4.2652-4.084' +
+        '2-6.1672-4.3168c-1.287-0.1573-6.461,3.1641-6.461,6.5799 s2.2433,' +
+        '4.739,3.5597,5.4867"/>'#13'    <circle cx="36" cy="36.2941" r="23" f' +
+        'ill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-linejo' +
+        'in="round" stroke-miterlimit="10" stroke-width="2"/>'#13'    <line x' +
+        '1="36.0257" x2="36.0257" y1="18.9893" y2="35.9893" fill="#FFFFFF' +
+        '" stroke="none" stroke-linecap="round" stroke-linejoin="round" s' +
+        'troke-miterlimit="10" stroke-width="2"/>'#13'    <line x1="35.9742" ' +
+        'x2="29.9742" y1="35.9349" y2="46.3272" fill="#FFFFFF" stroke="no' +
+        'ne" stroke-linecap="round" stroke-linejoin="round" stroke-miterl' +
+        'imit="10" stroke-width="2.0785"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g i' +
+        'd="skin"/>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">'#13'    <path fil' +
+        'l="none" stroke="#000000" stroke-linecap="round" stroke-linejoin' +
+        '="round" stroke-miterlimit="10" stroke-width="2" d="M36,12.6326"' +
+        '/>'#13'    <path fill="none" stroke="#000000" stroke-linecap="round"' +
+        ' stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"' +
+        ' d="M36,19.0725"/>'#13'    <path fill="none" stroke="#000000" stroke' +
+        '-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" ' +
+        'stroke-width="2" d="M36,19.2478"/>'#13'    <path fill="none" stroke=' +
+        '"#000000" stroke-linecap="round" stroke-linejoin="round" stroke-' +
+        'miterlimit="10" stroke-width="2" d="M36,12.7539"/>'#13'    <line x1=' +
+        '"50.258" x2="53.1419" y1="55.036" y2="59.8645" fill="none" strok' +
+        'e="#000000" stroke-linecap="round" stroke-linejoin="round" strok' +
+        'e-miterlimit="10" stroke-width="2"/>'#13'    <line x1="21.7419" x2="' +
+        '18.858" y1="55.036" y2="59.8645" fill="none" stroke="#000000" st' +
+        'roke-linecap="round" stroke-linejoin="round" stroke-miterlimit="' +
+        '10" stroke-width="2"/>'#13'    <path fill="none" stroke="#000000" st' +
+        'roke-linecap="round" stroke-linejoin="round" stroke-miterlimit="' +
+        '10" stroke-width="2" d="M48.8497,12.5761c0.9692-0.8502,2.2395-1.' +
+        '3655,3.6301-1.3655c3.0417,0,5.5076,2.4657,5.5076,5.5075 c0,1.108' +
+        '8-0.3277,2.1411-0.8914,3.0052"/>'#13'    <path fill="none" stroke="#' +
+        '000000" stroke-linecap="round" stroke-linejoin="round" stroke-mi' +
+        'terlimit="10" stroke-width="2" d="M23.1504,12.5761c-0.9693-0.850' +
+        '2-2.2396-1.3655-3.6302-1.3655c-3.0417,0-5.5075,2.4657-5.5075,5.5' +
+        '075 c0,1.1088,0.3276,2.1411,0.8914,3.0052"/>'#13'    <circle cx="36"' +
+        ' cy="36.2941" r="23" fill="none" stroke="#000000" stroke-linecap' +
+        '="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-w' +
+        'idth="2"/>'#13'    <line x1="36.0257" x2="36.0257" y1="18.9893" y2="' +
+        '35.9893" fill="none" stroke="#000000" stroke-linecap="round" str' +
+        'oke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>'#13' ' +
+        '   <line x1="35.9742" x2="29.9742" y1="35.9349" y2="46.3272" fil' +
+        'l="none" stroke="#000000" stroke-linecap="round" stroke-linejoin' +
+        '="round" stroke-miterlimit="10" stroke-width="2.0785"/>'#13'  </g>'#13'<' +
+        '/svg>'
+      AutoSize = False
+    end
+    object BitmapImageStoryItem: TBitmapImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 349.615295410156300000
+      Position.Y = 83.307365417480470000
+      Size.Width = 56.321105957031250000
+      Size.Height = 21.441192626953130000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x502DC9D3
+      Snapping = True
+      Tags = '#12:00'
+      Image.MultiResBitmap = <
+        item
+        end>
+      Image.Align = Contents
+      Image.HitTest = False
+      Image.Size.Width = 56.321105957031250000
+      Image.Size.Height = 21.441192626953130000
+      Image.Size.PlatformDefault = False
+      Image.WrapMode = Stretch
+      AutoSize = False
+    end
+    object BitmapImageStoryItem3: TBitmapImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 478.541137695312500000
+      Position.Y = 198.979248046875000000
+      Size.Width = 51.176879882812500000
+      Size.Height = 22.970932006835940000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x502DC9D3
+      Snapping = True
+      Tags = '#3:00'
+      Image.MultiResBitmap = <
+        item
+        end>
+      Image.Align = Contents
+      Image.HitTest = False
+      Image.Size.Width = 51.176879882812500000
+      Image.Size.Height = 22.970932006835940000
+      Image.Size.PlatformDefault = False
+      Image.WrapMode = Stretch
+      AutoSize = False
+    end
+    object BitmapImageStoryItem4: TBitmapImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 348.156005859375000000
+      Position.Y = 312.295318603515600000
+      Size.Width = 59.058074951171880000
+      Size.Height = 23.392517089843750000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x502DC9D3
+      Snapping = True
+      Tags = '#6:00'
+      Image.MultiResBitmap = <
+        item
+        end>
+      Image.Align = Contents
+      Image.HitTest = False
+      Image.Size.Width = 59.058074951171880000
+      Image.Size.Height = 23.392517089843750000
+      Image.Size.PlatformDefault = False
+      Image.WrapMode = Stretch
+      AutoSize = False
+    end
+    object BitmapImageStoryItem5: TBitmapImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 231.737670898437500000
+      Position.Y = 196.966369628906300000
+      Size.Width = 51.655731201171880000
+      Size.Height = 23.629684448242190000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x502DC9D3
+      Snapping = True
+      Tags = '#9:00'
+      Image.MultiResBitmap = <
+        item
+        end>
+      Image.Align = Contents
+      Image.HitTest = False
+      Image.Size.Width = 51.655731201171880000
+      Image.Size.Height = 23.629684448242190000
+      Image.Size.PlatformDefault = False
+      Image.WrapMode = Stretch
+      AutoSize = False
+    end
+    object TextStoryItem2: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 242.522155761718800000
+      Position.Y = 26.210704803466800000
+      Size.Width = 47.234436035156250000
+      Size.Height = 27.989620208740230000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#12:00'
+      Text = '12:00'
+      Font.Size = 14.000000000000000000
+    end
+    object TextStoryItem4: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 475.804626464843800000
+      Position.Y = 29.653692245483400000
+      Size.Width = 42.998352050781250000
+      Size.Height = 26.519491195678710000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#9:00'
+      Text = '9:00'
+      Font.Size = 16.000000000000000000
+    end
+    object TextStoryItem5: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 397.020355224609400000
+      Position.Y = 28.418025970458980000
+      Size.Width = 42.998474121093750000
+      Size.Height = 26.519481658935550000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#6:00'
+      Text = '6:00'
+      Font.Size = 16.000000000000000000
+    end
     object Watch03001685659264: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 56.199542999267580000
-      Position.Y = 23.318761825561520000
-      Size.Width = 301.716094970703100000
-      Size.Height = 213.554367065429700000
+      Position.X = 14.062764167785640000
+      Position.Y = 12.311523437500000000
+      Size.Width = 164.268020629882800000
+      Size.Height = 165.294326782226600000
       Size.PlatformDefault = False
       TabStop = False
       SVGText = 
@@ -78,132 +297,239 @@ object ImageStoryItem: TBitmapImageStoryItem
         'nejoin="round" stroke-miterlimit="10" stroke-width="2" points="3' +
         '5.8442,26.1875 35.8442,36.1875 44.1558,36.1875"/>'#13'  </g>'#13'</svg>'
       AutoSize = False
-      object TextStoryItem2: TTextStoryItem
+      object TextStoryItem22: TTextStoryItem
         Align = Scale
         Locked = True
-        Position.X = 106.390533447265600000
-        Position.Y = 73.129020690917970000
-        Size.Width = 93.312576293945310000
-        Size.Height = 65.356071472167970000
+        Position.X = 57.923862457275390000
+        Position.Y = 56.603023529052730000
+        Size.Width = 50.803684234619140000
+        Size.Height = 50.586589813232420000
         Size.PlatformDefault = False
         TabStop = False
         BackgroundColor = xFFCDCDCD
-        Text = #932#953' '#974#961#945' '#949#943#957#945#953';'
-        Font.Size = 23.000000000000000000
+        Text = #934#964#953#940#958#949' '#964#959' '#961#959#955#972#953
+        Font.Size = 11.000000000000000000
       end
     end
     object TextStoryItem3: TTextStoryItem
       Align = Scale
+      Cursor = crDrag
+      Position.X = 322.914428710937500000
+      Position.Y = 28.629009246826170000
+      Size.Width = 42.998504638671880000
+      Size.Height = 26.519504547119140000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '#3:00'
+      Text = '3:00'
+      Font.Size = 16.000000000000000000
+    end
+  end
+  object BitmapImageStoryItem6: TBitmapImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 59.998287200927730000
+    Position.Y = 717.281860351562500000
+    Size.Width = 1397.749267578125000000
+    Size.Height = 475.632202148437500000
+    Size.PlatformDefault = False
+    TabStop = False
+    StoryPoint = True
+    Image.MultiResBitmap = <
+      item
+      end>
+    Image.Align = Contents
+    Image.HitTest = False
+    Image.Size.Width = 1397.749267578125000000
+    Image.Size.Height = 475.632202148437500000
+    Image.Size.PlatformDefault = False
+    Image.WrapMode = Stretch
+    AutoSize = False
+    object Watch03001685659264: TBitmapImageStoryItem
+      Align = Scale
       Locked = True
-      Position.X = 58.458114624023440000
-      Position.Y = 368.254913330078100000
-      Size.Width = 181.976440429687500000
-      Size.Height = 137.323059082031300000
+      Position.X = 30.561313629150390000
+      Position.Y = 17.652137756347660000
+      Size.Width = 253.554626464843800000
+      Size.Height = 229.901977539062500000
+      Size.PlatformDefault = False
+      TabStop = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <path fill="#9b9b9a" stroke="#9b9b9' +
+        'a" stroke-miterlimit="10" stroke-width="2" d="M53.9958,40.5232h0' +
+        '.6992c1.1,0,2-0.9,2-2 v-5.1541c0-1.1-0.9-2-2-2h-0.6991H50v9.1648' +
+        'L53.9958,40.5232z"/>'#13'    <path fill="#9b9b9a" stroke="none" stro' +
+        'ke-miterlimit="10" stroke-width="2" d="M25,21V9c0-0.5523,0.4477-' +
+        '1,1-1h20 c0.5523,0,1,0.4477,1,1v12"/>'#13'    <path fill="#9b9b9a" s' +
+        'troke="#9b9b9a" stroke-miterlimit="10" stroke-width="2" d="M47,5' +
+        '1v12c0,0.5523-0.4477,1-1,1H26 c-0.5523,0-1-0.4477-1-1V51"/>'#13'    ' +
+        '<path fill="#d0cfce" stroke="#d0cfce" stroke-miterlimit="10" str' +
+        'oke-width="2" d="M48,51H24c-1.1,0-2-0.9-2-2V23c0-1.1,0.9-2,2-2 h' +
+        '24c1.1,0,2,0.9,2,2v26C50,50.1,49.1,51,48,51z"/>'#13'  </g>'#13'  <g id="' +
+        'hair"/>'#13'  <g id="skin"/>'#13'  <g id="skin-shadow"/>'#13'  <g id="line">' +
+        #13'    <path fill="none" stroke="#000000" stroke-miterlimit="10" s' +
+        'troke-width="2" d="M25,21V9c0-0.5523,0.4477-1,1-1h20 c0.5523,0,1' +
+        ',0.4477,1,1v12"/>'#13'    <path fill="none" stroke="#000000" stroke-' +
+        'linecap="round" stroke-linejoin="round" stroke-miterlimit="10" s' +
+        'troke-width="2" d="M25,16.0003"/>'#13'    <path fill="none" stroke="' +
+        '#000000" stroke-linecap="round" stroke-linejoin="round" stroke-m' +
+        'iterlimit="10" stroke-width="2" d="M47,55.9997"/>'#13'    <path fill' +
+        '="none" stroke="#000000" stroke-linecap="round" stroke-linejoin=' +
+        '"round" stroke-miterlimit="10" stroke-width="2" d="M47,16.0003"/' +
+        '>'#13'    <polyline fill="none" stroke="#000000" stroke-linecap="rou' +
+        'nd" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=' +
+        '"2" points="35.8442,26.1875 35.8442,36.1875 44.1558,36.1875"/>'#13' ' +
+        '   <path fill="none" stroke="#000000" stroke-linecap="round" str' +
+        'oke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="' +
+        'M25,16.0003"/>'#13'    <polyline fill="none" stroke="#000000" stroke' +
+        '-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" ' +
+        'stroke-width="2" points="47,54.9997 47,64 25,64 25,54.9997"/>'#13'  ' +
+        '  <path fill="none" stroke="#000000" stroke-linecap="round" stro' +
+        'ke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M' +
+        '47,55.9997"/>'#13'    <path fill="none" stroke="#000000" stroke-line' +
+        'cap="round" stroke-linejoin="round" stroke-miterlimit="10" strok' +
+        'e-width="2" d="M47,16.0003"/>'#13'    <polyline fill="none" stroke="' +
+        '#000000" stroke-linecap="round" stroke-linejoin="round" stroke-m' +
+        'iterlimit="10" stroke-width="2" points="25,17.0003 25,8 47,8 47,' +
+        '17.0003"/>'#13'    <path fill="none" stroke="#000000" stroke-linecap' +
+        '="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-w' +
+        'idth="2" d="M53.9959,31.3691h0.6991c1.1,0,2,0.9,2,2v5.1541c0,1.1' +
+        '-0.9,2-2,2h-0.6992"/>'#13'    <path fill="none" stroke="#000000" str' +
+        'oke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1' +
+        '0" stroke-width="2" d="M48,51H24c-1.1,0-2-0.9-2-2V23c0-1.1,0.9-2' +
+        ',2-2h24c1.1,0,2,0.9,2,2v26C50,50.1,49.1,51,48,51z"/>'#13'    <polyli' +
+        'ne fill="none" stroke="#000000" stroke-linecap="round" stroke-li' +
+        'nejoin="round" stroke-miterlimit="10" stroke-width="2" points="3' +
+        '5.8442,26.1875 35.8442,36.1875 44.1558,36.1875"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+      object TextStoryItem22: TTextStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = 89.407928466796880000
+        Position.Y = 78.727119445800780000
+        Size.Width = 78.417633056640630000
+        Size.Height = 70.359184265136720000
+        Size.PlatformDefault = False
+        TabStop = False
+        BackgroundColor = xFFCDCDCD
+        Text = #932#953' '#974#961#945' '#949#943#957#945#953';'
+        Font.Size = 21.000000000000000000
+      end
+    end
+    object TextStoryItem32: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 53.977123260498050000
+      Position.Y = 321.836883544921900000
+      Size.Width = 168.027511596679700000
+      Size.Height = 120.013671875000000000
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = x39CE8989
       Snapping = True
       Tags = '#12:00'
       Text = #13#10#13#10#13#10#13#10'12:00'
-      Font.Size = 20.000000000000000000
+      Font.Size = 17.000000000000000000
     end
-    object TextStoryItem4: TTextStoryItem
+    object TextStoryItem42: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 881.526306152343800000
-      Position.Y = 366.234344482421900000
-      Size.Width = 181.976440429687500000
-      Size.Height = 137.323059082031300000
+      Position.X = 813.954833984375000000
+      Position.Y = 320.070922851562500000
+      Size.Width = 168.027404785156300000
+      Size.Height = 120.013732910156300000
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = x39CE8989
       Snapping = True
       Tags = '#05:00'
       Text = #13#10#13#10#13#10#13#10'5:00'
-      Font.Size = 20.000000000000000000
+      Font.Size = 17.000000000000000000
     end
-    object TextStoryItem5: TTextStoryItem
+    object TextStoryItem52: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 679.463867187500000000
-      Position.Y = 365.560760498046900000
-      Size.Width = 181.976440429687500000
-      Size.Height = 137.323059082031300000
+      Position.X = 627.381042480468800000
+      Position.Y = 319.482421875000000000
+      Size.Width = 168.027099609375000000
+      Size.Height = 120.013732910156300000
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = x39CE8989
       Snapping = True
       Tags = '#07:00'
       Text = #13#10#13#10#13#10#13#10'7:00'
-      Font.Size = 20.000000000000000000
+      Font.Size = 17.000000000000000000
     end
     object TextStoryItem6: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 476.054168701171900000
-      Position.Y = 368.254943847656300000
-      Size.Width = 181.976440429687500000
-      Size.Height = 137.323059082031300000
+      Position.X = 439.563415527343800000
+      Position.Y = 321.836883544921900000
+      Size.Width = 168.027343750000000000
+      Size.Height = 120.013671875000000000
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = x39CE8989
       Snapping = True
       Tags = '#03:00'
       Text = #13#10#13#10#13#10#13#10'3:00'
-      Font.Size = 20.000000000000000000
+      Font.Size = 17.000000000000000000
     end
     object TextStoryItem7: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 267.256072998046900000
-      Position.Y = 367.581359863281300000
-      Size.Width = 181.976440429687500000
-      Size.Height = 137.323059082031300000
+      Position.X = 246.770263671875000000
+      Position.Y = 321.248229980468800000
+      Size.Width = 168.027465820312500000
+      Size.Height = 120.013549804687500000
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = x39CE8989
       Snapping = True
       Tags = '#01:00'
       Text = #13#10#13#10#13#10#13#10'1:00'
-      Font.Size = 20.000000000000000000
+      Font.Size = 17.000000000000000000
     end
     object TextStoryItem8: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 1090.235961914063000000
-      Position.Y = 364.430969238281300000
-      Size.Width = 181.976440429687500000
-      Size.Height = 137.323059082031300000
+      Position.X = 1006.666198730469000000
+      Position.Y = 318.494873046875000000
+      Size.Width = 168.028137207031300000
+      Size.Height = 120.013702392578100000
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = x39CE8989
       Snapping = True
       Tags = '#08:00'
       Text = #13#10#13#10#13#10#13#10'8:00'
-      Font.Size = 20.000000000000000000
+      Font.Size = 17.000000000000000000
     end
     object TextStoryItem9: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 1295.666137695313000000
-      Position.Y = 363.757385253906300000
-      Size.Width = 181.976440429687500000
-      Size.Height = 137.323059082031300000
+      Position.X = 1196.349243164063000000
+      Position.Y = 317.906219482421900000
+      Size.Width = 168.026977539062500000
+      Size.Height = 120.013641357421900000
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = x39CE8989
       Snapping = True
       Tags = '#09:00'
       Text = #13#10#13#10#13#10#13#10'9:00'
-      Font.Size = 20.000000000000000000
+      Font.Size = 17.000000000000000000
     end
     object ClockAnalog12001568525296: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 389.890258789062500000
-      Position.Y = 28.956069946289060000
-      Size.Width = 171.100769042968800000
-      Size.Height = 127.560760498046900000
+      Position.X = 322.396301269531300000
+      Position.Y = 26.673551559448240000
+      Size.Width = 157.985534667968800000
+      Size.Height = 111.481948852539100000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -233,10 +559,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog0100273613085: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 575.120483398437500000
-      Position.Y = 28.334249496459960000
-      Size.Width = 171.100585937500000000
-      Size.Height = 127.560844421386700000
+      Position.X = 507.113800048828100000
+      Position.Y = 29.190984725952150000
+      Size.Width = 157.985198974609400000
+      Size.Height = 111.481986999511700000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -266,10 +592,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog02001384872419: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 758.707885742187500000
-      Position.Y = 29.779752731323240000
-      Size.Width = 171.100708007812500000
-      Size.Height = 127.560867309570300000
+      Position.X = 686.261962890625000000
+      Position.Y = 30.374605178833010000
+      Size.Width = 157.985351562500000000
+      Size.Height = 111.482009887695300000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -298,10 +624,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog0300802512211: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 943.099487304687500000
-      Position.Y = 29.057058334350590000
-      Size.Width = 171.100952148437500000
-      Size.Height = 127.560813903808600000
+      Position.X = 863.288024902343800000
+      Position.Y = 31.022174835205080000
+      Size.Width = 157.985839843750000000
+      Size.Height = 111.482009887695300000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -331,10 +657,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog04002120280873: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 1129.907592773438000000
-      Position.Y = 30.502511978149410000
-      Size.Width = 171.100708007812500000
-      Size.Height = 127.560859680175800000
+      Position.X = 1039.569824218750000000
+      Position.Y = 29.763793945312500000
+      Size.Width = 157.985229492187500000
+      Size.Height = 111.481964111328100000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -363,10 +689,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog05002046713128: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 1312.689086914063000000
-      Position.Y = 29.779714584350590000
-      Size.Width = 171.100830078125000000
-      Size.Height = 127.560813903808600000
+      Position.X = 1212.209350585938000000
+      Position.Y = 28.635013580322270000
+      Size.Width = 157.984741210937500000
+      Size.Height = 111.481933593750000000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -396,10 +722,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog06001062025167: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 389.923583984375000000
-      Position.Y = 175.052841186523400000
-      Size.Width = 171.100769042968800000
-      Size.Height = 127.560867309570300000
+      Position.X = 322.761627197265600000
+      Position.Y = 152.987747192382800000
+      Size.Width = 157.985198974609400000
+      Size.Height = 111.482162475585900000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -428,10 +754,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog07001271486223: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 575.925537109375000000
-      Position.Y = 173.607360839843800000
-      Size.Width = 171.100830078125000000
-      Size.Height = 127.560852050781300000
+      Position.X = 505.672729492187500000
+      Position.Y = 154.154739379882800000
+      Size.Width = 157.985229492187500000
+      Size.Height = 111.481887817382800000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -461,10 +787,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog0800139933010: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 757.902282714843800000
-      Position.Y = 172.161727905273400000
-      Size.Width = 171.100524902343800000
-      Size.Height = 127.560867309570300000
+      Position.X = 686.167175292968800000
+      Position.Y = 156.273239135742200000
+      Size.Width = 157.985168457031300000
+      Size.Height = 111.481948852539100000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -494,10 +820,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog09001674237598: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 942.294311523437500000
-      Position.Y = 174.329986572265600000
-      Size.Width = 171.101196289062500000
-      Size.Height = 127.560882568359400000
+      Position.X = 862.803405761718800000
+      Position.Y = 154.442123413085900000
+      Size.Width = 157.985961914062500000
+      Size.Height = 111.481857299804700000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -527,10 +853,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog1000983330589: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 1125.075439453125000000
-      Position.Y = 175.775665283203100000
-      Size.Width = 171.100952148437500000
-      Size.Height = 127.560821533203100000
+      Position.X = 1039.456420898438000000
+      Position.Y = 152.301116943359400000
+      Size.Width = 157.985229492187500000
+      Size.Height = 111.481903076171900000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -559,10 +885,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object ClockAnalog1100927572886: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 1311.883666992188000000
-      Position.Y = 172.884368896484400000
-      Size.Width = 171.100708007812500000
-      Size.Height = 127.561004638671900000
+      Position.X = 1211.323730468750000000
+      Position.Y = 152.334915161132800000
+      Size.Width = 157.984741210937500000
+      Size.Height = 111.482284545898400000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -589,17 +915,17 @@ object ImageStoryItem: TBitmapImageStoryItem
       AutoSize = False
     end
   end
-  object TextStoryItem22: TTextStoryItem
+  object TextStoryItem222: TTextStoryItem
     Align = Scale
     Locked = True
-    Position.X = 1538.619750976563000000
-    Position.Y = 752.178710937500000000
-    Size.Width = 473.842041015625000000
-    Size.Height = 295.240051269531300000
+    Position.X = 1795.056640625000000000
+    Position.Y = 877.541931152343800000
+    Size.Width = 552.815429687500000000
+    Size.Height = 344.446838378906300000
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
-    Text = #55356#57225
-    Font.Size = 218.000000000000000000
+    Text = #964#945' '#954#945#964#940#966#949#961#949#962'!!!'#13#10#55356#57225
+    Font.Size = 85.000000000000000000
   end
 end
