@@ -1,0 +1,19 @@
+---
+title: Images for Music Symbols
+tags: Music, Symbol, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - OpenMoji:
+    license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+    attribution: OpenMoji.org
+    files:
+      - BeamedNotes.svg:
+          title: Beamed Notes
+          tags: Note, Beam
+          source: https://openmoji.org/library/emoji-1F3B5/
+      - G-clef.svg:
+          title: G-clef
+          tags: Clef, G, Treble
+          source: https://openmoji.org/library/emoji-1F3BC/
