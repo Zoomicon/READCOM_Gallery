@@ -1,15 +1,16 @@
 @echo off
 
-echo Syntax: READCOM_MakeThumbs [folder]
+echo Syntax: READCOM_MakeThumbs [file|folder]
+echo Processes Gallery subfolder by default
 
 ::--------------------------------
 
 if not exist %~dp0READCOM_App.exe echo %~dp0READCOM_App.exe (need at least version 0.5.13) not found & pause & exit 1
 
 SET param=%1
-if "%param%"=="" SET param=.
+if "%param%"=="" SET param=Gallery
 
-if exist test\nul (
+if exist %param%\nul (
   call :processFolder "%param%"
 ) else (
   call :processFile "%param%"

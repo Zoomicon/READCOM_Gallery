@@ -155,19 +155,6 @@ object PanelStoryItem222: TPanelStoryItem
     AutoSize = False
     object TextStoryItem3: TTextStoryItem
       Align = Scale
-      Locked = True
-      Position.X = 8.526322364807129000
-      Position.Y = 13.235645294189450000
-      Size.Width = 128.747756958007800000
-      Size.Height = 78.210693359375000000
-      Size.PlatformDefault = False
-      TabStop = False
-      ForegroundColor = xFF1D5171
-      Text = '3-6'
-      Font.Size = 55.000000000000000000
-    end
-    object BitmapImageStoryItemMask: TBitmapImageStoryItem
-      Align = Scale
       Cursor = crHandPoint
       Locked = True
       Position.X = 8.526322364807129000
@@ -176,11 +163,12 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 78.210693359375000000
       Size.PlatformDefault = False
       TabStop = False
+      ForegroundColor = xFF1D5171
       UrlAction = 
         'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
         'r/Gallery/el/3-6.readcom'
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
-      AutoSize = False
+      Text = '3-6'
+      Font.Size = 55.000000000000000000
     end
   end
   object BitmapImageStoryItem5: TBitmapImageStoryItem
@@ -194,12 +182,13 @@ object PanelStoryItem222: TPanelStoryItem
     TabStop = False
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
+      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#8dd2e5;o' +
       'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
       '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
     AutoSize = False
     object TextStoryItem24: TTextStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 8.394605636596680000
       Position.Y = 12.467983245849610000
@@ -208,20 +197,11 @@ object PanelStoryItem222: TPanelStoryItem
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF267887
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/el/9-12.readcom'
       Text = '9-12'
       Font.Size = 52.000000000000000000
-    end
-    object BitmapImageStoryItemMask3: TBitmapImageStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 8.394618034362793000
-      Position.Y = 11.334532737731930000
-      Size.Width = 126.758796691894500000
-      Size.Height = 73.674499511718750000
-      Size.PlatformDefault = False
-      TabStop = False
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
-      AutoSize = False
     end
   end
   object F9DA1F3FB1800437380: TBitmapImageStoryItem
@@ -455,7 +435,7 @@ object PanelStoryItem222: TPanelStoryItem
       '14.5,360.8,227,296.5,226.8Z"/></svg>'
     AutoSize = False
   end
-  object BitmapImageStoryItem3: TBitmapImageStoryItem
+  object BitmapImageStoryItem32: TBitmapImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 345.029602050781300000
@@ -470,8 +450,9 @@ object PanelStoryItem222: TPanelStoryItem
       'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
       '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
     AutoSize = False
-    object TextStoryItem3: TTextStoryItem
+    object TextStoryItem32: TTextStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 8.526322364807129000
       Position.Y = 13.235645294189450000
@@ -480,24 +461,11 @@ object PanelStoryItem222: TPanelStoryItem
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF1D5171
-      Text = '6-9'
-      Font.Size = 55.000000000000000000
-    end
-    object BitmapImageStoryItemMask: TBitmapImageStoryItem
-      Align = Scale
-      Cursor = crHandPoint
-      Locked = True
-      Position.X = 8.526374816894531000
-      Position.Y = 13.975090026855470000
-      Size.Width = 128.747756958007800000
-      Size.Height = 78.210693359375000000
-      Size.PlatformDefault = False
-      TabStop = False
       UrlAction = 
         'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
         'r/Gallery/el/6-9.readcom'
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
-      AutoSize = False
+      Text = '6-9'
+      Font.Size = 55.000000000000000000
     end
   end
   object F4461F3FB5192968094: TBitmapImageStoryItem
