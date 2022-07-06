@@ -20,11 +20,13 @@ filegroups:
           title: READ-COM app logo (square)
       - READ-COM square black.svg:
           title: READ-COM app logo (square black)
-      - READ-COM_1024x1024.png:
-          title: READ-COM app logo (1024x1024)
-      - READ-COM_512x512.png:
-          title: READ-COM app logo (512x512)
-      - READ-COM_256x256.png:
-          title: READ-COM app logo (256x256)
       - READ-COM wide_1024x500.png:
           title: READ-COM app logo (wide 1024x500)
+      - READ-COM square rounded.svg:
+          title: READ-COM app logo rounded
+      - READ-COM square black rounded.svg:
+          title: READ-COM app logo rounded (inverted)
+      - READ-COM square rounded border.svg:
+          title: READ-COM app logo rounded bordered
+      - READ-COM square rounded border_512x512.png:
+          title: READ-COM app logo rounded bordered (square 512x512)
