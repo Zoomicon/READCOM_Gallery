@@ -4,4 +4,13 @@ tags: Door, Object, Image
 source: #if same one for all files in folder, set url here
 license: #if same one for all files in folder (those that don't override it below), can mention license here
 attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
-files:
+filegroups:
+  - OpenMoji.org:
+    license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+    attribution: OpenMoji.org
+    files:
+      - DoorWooder.svg:
+          title: Wooden Door
+          tags: Door, Wood
+          source: https://openmoji.org/library/emoji-1F6AA/
+ 

@@ -45,6 +45,10 @@ filegroups:
               title: Plus sign
               tag: Plus, Sign, Math
               source: https://openmoji.org/library/#group=symbols%2Fmath
+          - RotateCounterClockwise.svg:
+              title: Rotate counter-clockwise
+              tag: Rotation, Counter-clockwise
+              source: https://openmoji.org/library/emoji-1F504/
   - SVGrepo:
         license: CC0
         attribution: SVGRepo.com

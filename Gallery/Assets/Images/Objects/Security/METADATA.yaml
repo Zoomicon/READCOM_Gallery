@@ -1,0 +1,31 @@
+---
+title: Images for Security-related Objects
+tags: Security, Object, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - OpenMoji.org:
+    license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+    attribution: OpenMoji.org
+    files:
+      - Key.svg:
+          title: Key
+          tags: Key
+          source: https://openmoji.org/library/emoji-1F511/
+      - KeyOld.svg:
+          title: Old Key
+          tags: Key, Old
+          source: https://openmoji.org/library/emoji-1F5DD/
+      - LockClosed.svg:
+          title: Closed Lock
+          tags: Lock, Closed
+          source: https://openmoji.org/library/emoji-1F512/
+      - LockClosedKey.svg:
+          title: Closed Lock with Key
+          tags: Lock, Closed, Key
+          source: https://openmoji.org/library/emoji-1F510/
+      - LockOpen.svg:
+          title: Open Lock
+          tags: Lock, Open
+          source: https://openmoji.org/library/emoji-1F513/
