@@ -49,6 +49,10 @@ filegroups:
               title: Rotate counter-clockwise
               tag: Rotation, Counter-clockwise
               source: https://openmoji.org/library/emoji-1F504/
+          - Close.svg:
+              title: Close
+              tag: Close, Exit
+              source: https://openmoji.org/library/emoji-E24E/
   - SVGrepo:
         license: CC0
         attribution: SVGRepo.com
