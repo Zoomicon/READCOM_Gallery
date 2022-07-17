@@ -1,0 +1,19 @@
+---
+title: Images for Celebration Objects
+tags: Celebration, Object, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+filegroups:
+  - OpenMoji.org:
+    license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
+    attribution: OpenMoji.org
+    files:
+      - Firework.svg:
+          title: Firework
+          tags: Firework
+          source: https://openmoji.org/library/emoji-1F386/
+      - Sparkler.svg:
+          title: Sparkler
+          tags: Sparkler
+          source: https://openmoji.org/library/emoji-1F387/
