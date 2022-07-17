@@ -31,7 +31,7 @@ object PanelStoryItem: TPanelStoryItem
       Active = True
       UrlAction = 
         'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-        'r/Gallery/el/3-6/The Tortoise and the Hare.readcom'
+        'r/Gallery/en/3-6/The Tortoise and the Hare.readcom'
       Image.MultiResBitmap = <
         item
           Width = 199

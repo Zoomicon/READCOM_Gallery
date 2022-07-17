@@ -31,7 +31,7 @@ object PanelStoryItem: TPanelStoryItem
       TabStop = False
       UrlAction = 
         'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-        'r/Gallery/el/6-9/AnalogClock.readcom'
+        'r/Gallery/en/6-9/AnalogClock.readcom'
       Image.MultiResBitmap = <
         item
           Width = 200
