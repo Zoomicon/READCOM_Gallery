@@ -1,1 +1,0 @@
-# [READ-COM Gallery](../../..) > [Images](../..) > [Backgrounds](..) > Little Red Riding Hood
