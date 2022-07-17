@@ -8,7 +8,6 @@ object PanelStoryItem222: TPanelStoryItem
   TabStop = False
   TabOrder = 32767
   Home = True
-  StoryPoint = False
   object FlagGreece16990989204: TBitmapImageStoryItem
     Align = Scale
     Locked = True
@@ -165,10 +164,11 @@ object PanelStoryItem222: TPanelStoryItem
       TabStop = False
       ForegroundColor = xFF1D5171
       Text = '3-6'
-      Font.Size = 60.000000000000000000
+      Font.Size = 56.000000000000000000
     end
     object BitmapImageStoryItemMask: TBitmapImageStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 10.001478195190430000
       Position.Y = 14.401509284973140000
@@ -180,7 +180,6 @@ object PanelStoryItem222: TPanelStoryItem
         'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
         'r/Gallery/Stories/Aesop%20Fables/The%20Tortoise%20and%20the%20Ha' +
         're/The%20Tortoise%20and%20the%20Hare.pt.readcom'
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
@@ -210,7 +209,7 @@ object PanelStoryItem222: TPanelStoryItem
       TabStop = False
       ForegroundColor = xFF1C5772
       Text = '6-9'
-      Font.Size = 62.000000000000000000
+      Font.Size = 58.000000000000000000
     end
     object BitmapImageStoryItemMask2: TBitmapImageStoryItem
       Align = Scale
@@ -222,7 +221,6 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 87.501480102539060000
       Size.PlatformDefault = False
       TabStop = False
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
@@ -252,7 +250,7 @@ object PanelStoryItem222: TPanelStoryItem
       TabStop = False
       ForegroundColor = xFF20606B
       Text = '9-12'
-      Font.Size = 54.000000000000000000
+      Font.Size = 50.000000000000000000
     end
     object BitmapImageStoryItemMask3: TBitmapImageStoryItem
       Align = Scale
@@ -263,7 +261,6 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 77.119087219238280000
       Size.PlatformDefault = False
       TabStop = False
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
       AutoSize = False
     end
   end
@@ -467,10 +464,11 @@ object PanelStoryItem222: TPanelStoryItem
     Text = 
       'Guia de recursos para melhorar os h'#225'bitos'#13#10'de leitura em casa e ' +
       'na escola:'
-    Font.Size = 33.000000000000000000
+    Font.Size = 30.000000000000000000
   end
   object READCOMToolkitblack1640302650: TBitmapImageStoryItem
     Align = Scale
+    Cursor = crHandPoint
     Locked = True
     Position.X = 798.496337890625000000
     Position.Y = 781.829589843750000000
@@ -478,7 +476,9 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 92.196899414062500000
     Size.PlatformDefault = False
     TabStop = False
-    UrlAction = 'https://sites.google.com/view/toolkits-english/home'
+    UrlAction = 
+      'https://sites.google.com/view/reading-toolkits-portugues-pt/inic' +
+      'io'
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
       '000/svg" viewBox="0 0 595.3 595.3"><defs><style>.cls-1{fill:#231' +
