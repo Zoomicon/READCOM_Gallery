@@ -164,7 +164,7 @@ object PanelStoryItem: TPanelStoryItem
       TabStop = False
       UrlAction = 
         'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-        'r/Gallery/el/3-6/Cat-Rooster.el.readcom'
+        'r/Gallery/el/3-6/Letters_Reorder_Animals.el.readcom'
       Image.MultiResBitmap = <
         item
         end

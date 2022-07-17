@@ -65,11 +65,11 @@ filegroups:
           title: Hare6
           tags: Hare
           source: https://publicdomainvectors.org/en/free-clipart/Rabbit-in-black-and-white/75632.html
-      - Simple_Farm_Animals*.svg:
+      - Farm/Simple_Farm_Animals*.svg:
           title: Simple farm animals
           tags: Farm
           source: https://publicdomainvectors.org/en/free-clipart/Simple-Farm-Animals-Vector/1308.html
-      - Donkey.svg:
+      - Donkey/Donkey.svg:
           title: Donkey
           tags: Donkey
           source: https://publicdomainvectors.org/en/free-clipart/Brown-spotty-donkey-line-art-vector-image/24572.html
@@ -77,7 +77,7 @@ filegroups:
           title: Snake
           tags: Snake
           source: https://publicdomainvectors.org/en/free-clipart/Green-and-brown-color-snake-line-art-vector-illustration/24570.html
-      - BirdTweet.svg:
+      - Birds/BirdTweet.svg:
           title: Bird tweeting
           tags: Bird, Tweet
           source: https://publicdomainvectors.org/en/free-clipart/Tweet-vector-clip-art/6784.html
@@ -97,7 +97,7 @@ filegroups:
       license: CC0
       attribution: openmoji.org
       files:
-        - Owl.svg:
+        - Birds/Owl/Owl.svg:
           title: Owl
           tags: Bird, Owl
           source: https://openmoji.org/library/#group=animals-nature%2Fanimal-bird&emoji=1F989
