@@ -17,3 +17,7 @@ filegroups:
           title: Sparkler
           tags: Sparkler
           source: https://openmoji.org/library/emoji-1F387/
+      - Trophy.svg:
+          title: Trophy
+          tags: Trophy, Win
+          source: https://openmoji.org/library/emoji-1F3C6/
