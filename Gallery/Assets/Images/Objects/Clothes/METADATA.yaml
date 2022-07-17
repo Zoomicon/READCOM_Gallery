@@ -1,0 +1,7 @@
+---
+  files:
+    - Ribbon*.svg:
+        title: Red Ribbon
+        tags: Ribbon
+        source: publicdomainvectors.org
+        license: Public Domain

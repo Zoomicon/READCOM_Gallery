@@ -1,0 +1,7 @@
+---
+  files:
+    - coin*.svg:
+      title: coin
+      tags: objects, coin, money
+      source: publicdomainvectors.org
+      license: Public Domain

@@ -69,7 +69,7 @@ filegroups:
           title: Simple farm animals
           tags: Farm
           source: https://publicdomainvectors.org/en/free-clipart/Simple-Farm-Animals-Vector/1308.html
-      - Donkey/Donkey.svg:
+      - Farm/Donkey/Donkey.svg:
           title: Donkey
           tags: Donkey
           source: https://publicdomainvectors.org/en/free-clipart/Brown-spotty-donkey-line-art-vector-image/24572.html
@@ -89,7 +89,7 @@ filegroups:
           title: Chipmunk
           tags: Chipmunk
           source: https://publicdomainvectors.org/en/free-clipart/Chipmunk-vector-image/1930.html
-      - HenAndChicks.svg:
+      - Farm/Chicken/HenAndChicks.svg:
           title: Hen and chicks
           tags: Hen, Chicks
           source: https://publicdomainvectors.org/en/free-clipart/Hen-and-Chicks-cartoon-style/1947.html
@@ -101,3 +101,39 @@ filegroups:
           title: Owl
           tags: Bird, Owl
           source: https://openmoji.org/library/#group=animals-nature%2Fanimal-bird&emoji=1F989
+
+
+  #- Donkey.svg: from 01 to 15
+  #    title: Donkey
+  #    tags: animals, donkey
+  #    source: publicdomainvectors.org
+  #    license: PD
+  #    attribution: 
+ 
+  #- Rooster.svg: from 01 to 14
+  #    title: Rooster
+  #    tags: Animals, Rooster
+  #    source: publicdomainvectors.org
+  #    license: PD
+  #    attribution: 
+ 
+  #- rat.svg: from 01 to 25
+  #    title: mouse
+  #    tags: mouse, ratita
+  #    source: publicdomainvectors.org
+  #    license: PD
+  #    attribution: 
+ 
+  #- dog.svg: from 01 to 12
+  #    title: dog
+  #    tags: animals, dog
+  #    source: publicdomainvectors.org
+  #    license: PD
+  #    attribution: 
+ 
+   #- cat.svg: from 01 to 09
+  #    title: cat
+  #    tags: Animals, cat
+  #    source: publicdomainvectors.org
+  #    license: PD
+  #    attribution: 
