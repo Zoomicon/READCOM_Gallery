@@ -11,7 +11,7 @@ files:
       source: https://publicdomainvectors.org/en/free-clipart/Tree-house-vector-clip-art/84435.html
       license: CC0 Public Domain 
       attribution:
-  - House-02.svg:
+  - House2.svg:
       title: House 
       tags: house, grandma
       source: https://publicdomainvectors.org/en/free-clipart/House-cottage/83990.html
@@ -35,6 +35,27 @@ files:
       attribution: OpenMoji.org
       
       
+
+title: house
+tags: buildings, house, 
+source: www.publicdomainvector.org
+license: CC0
+attribution: 
+filegroups: from house 01.svg to house 10.svg
+
+
+title: Stairs/stairs
+tags: buildings, house, stairs 
+source: www.publicdomainvector.org
+license: CC0
+attribution: 
+filegroups: from stairs 01.svg to stairs 05.svg
+
+title: Stairs/treehouse stairs -01.svg
+tags: objects, interior, stairs
+source: www.publicdomainvector.org
+license: Public domain
+attribution: 
       
       
         #- brick house.svg:
