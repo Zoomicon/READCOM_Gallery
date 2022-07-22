@@ -1,0 +1,110 @@
+object ImageStoryItem: TImageStoryItem
+  Align = Scale
+  Locked = True
+  Position.X = 1085.529785156250000000
+  Position.Y = 356.659240722656300000
+  Size.Width = 661.478576660156300000
+  Size.Height = 746.496337890625000000
+  Size.PlatformDefault = False
+  TabStop = False
+  StoryPoint = True
+  BackgroundColor = xFFD1EFF3
+  AutoSize = False
+  object TImage
+    MultiResBitmap = <
+      item
+      end>
+    Enabled = False
+  end
+  object Clipboard1264329968: TTextStoryItem
+    Align = Scale
+    Enabled = False
+    Locked = True
+    Position.X = 132.620269775390600000
+    Position.Y = 233.431396484375000000
+    Size.Width = 581.124145507812500000
+    Size.Height = 169.124877929687500000
+    Size.PlatformDefault = False
+    TabStop = False
+    Text = #55356#57096
+    Font.Size = 119.000000000000000000
+  end
+  object Clipboard1771359163: TTextStoryItem
+    Align = Scale
+    Enabled = False
+    Locked = True
+    Position.X = 299.097442626953100000
+    Position.Y = 116.901649475097700000
+    Size.Width = 488.874359130859400000
+    Size.Height = 301.790344238281300000
+    Size.PlatformDefault = False
+    TabStop = False
+    Text = #9729#65039
+    Font.Size = 219.000000000000000000
+  end
+  object Clipboard80523293: TTextStoryItem
+    Align = Scale
+    Enabled = False
+    Locked = True
+    Position.X = -92.648612976074220000
+    Position.Y = 85.068489074707030000
+    Size.Width = 764.939147949218800000
+    Size.Height = 686.471679687500000000
+    Size.PlatformDefault = False
+    TabStop = False
+    Text = #9968#65039
+    Font.Size = 508.000000000000000000
+  end
+  object Clipboard331278486: TTextStoryItem
+    Align = Scale
+    Enabled = False
+    Locked = True
+    Position.X = 20.896396636962890000
+    Position.Y = 230.250396728515600000
+    Size.Width = 836.000000000000000000
+    Size.Height = 532.000000000000000000
+    Size.PlatformDefault = False
+    TabStop = False
+    Text = #9968#65039
+    Font.Size = 392.000000000000000000
+  end
+  object Clipboard18265225072: TTextStoryItem
+    Align = Scale
+    Enabled = False
+    Locked = True
+    Position.X = 358.006164550781300000
+    Position.Y = 526.179870605468800000
+    Size.Width = 176.541381835937500000
+    Size.Height = 107.299804687500000000
+    Size.PlatformDefault = False
+    TabStop = False
+    Text = #55357#56650#65039
+    Font.Size = 73.000000000000000000
+  end
+  object Clipboard727776437: TTextStoryItem
+    Align = Scale
+    Enabled = False
+    Locked = True
+    Position.X = 187.287567138671900000
+    Position.Y = 571.775695800781300000
+    Size.Width = 563.572021484375000000
+    Size.Height = 171.125488281250000000
+    Size.PlatformDefault = False
+    TabStop = False
+    Text = #55356#57139' '#55356#57139
+    Font.Size = 121.000000000000000000
+  end
+  object Clipboard1826522507: TTextStoryItem
+    Align = Scale
+    Enabled = False
+    Locked = True
+    Position.X = 94.850227355957030000
+    Position.Y = 653.062011718750000000
+    Size.Width = 168.058868408203100000
+    Size.Height = 92.912384033203130000
+    Size.PlatformDefault = False
+    TabStop = False
+    Text = #55356#57148#55356#57148#55356#57148
+    Font.Size = 44.000000000000000000
+  end
+end
