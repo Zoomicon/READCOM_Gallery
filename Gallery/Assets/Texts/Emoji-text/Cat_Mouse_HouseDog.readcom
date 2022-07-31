@@ -1,0 +1,15 @@
+object Clipboard1980241125: TTextStoryItem
+  Align = Scale
+  Locked = True
+  Position.X = 79.703460693359380000
+  Position.Y = 371.428161621093800000
+  Size.Width = 836.000000000000000000
+  Size.Height = 532.000000000000000000
+  Size.PlatformDefault = False
+  TabStop = False
+  Text = 
+    'Once upon a time,'#13#10'a '#55357#56369', Froufrou,'#13#10'met a '#55357#56365', Pipis,'#13#10'but instea' +
+    'd of eating it,'#13#10'they became friends'#13#10'and played all day'#13#10'togeth' +
+    'er with'#13#10'the '#55357#56374' of the '#55356#57312', Azor.'
+  Font.Size = 49.000000000000000000
+end
