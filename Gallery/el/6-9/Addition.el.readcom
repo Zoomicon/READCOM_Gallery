@@ -1,0 +1,698 @@
+object ImageStoryItem: TImageStoryItem
+  Align = Center
+  Locked = True
+  Size.Width = 1928.448242187500000000
+  Size.Height = 1216.512084960938000000
+  Size.PlatformDefault = False
+  TabStop = False
+  object ImageStoryItem2: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 160.969848632812500000
+    Position.Y = 53.833862304687500000
+    Size.Width = 581.597656250000000000
+    Size.Height = 359.113311767578100000
+    Size.PlatformDefault = False
+    TabStop = False
+    Active = True
+    Home = True
+    StoryPoint = True
+    BackgroundColor = x00050602
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+    object TextStoryItem2: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 350.406982421875000000
+      Position.Y = 68.481391906738280000
+      Size.Width = 93.362518310546880000
+      Size.Height = 108.014198303222700000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFFA3930F
+      Text = '='
+      Font.Size = 73.000000000000000000
+    end
+    object TextStoryItem3: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 152.850204467773400000
+      Position.Y = 67.971298217773440000
+      Size.Width = 93.361984252929690000
+      Size.Height = 108.015029907226600000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF26B61E
+      Text = '+'
+      Font.Size = 73.000000000000000000
+    end
+    object ImageStoryItem22: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 51.452327728271480000
+      Position.Y = 66.872665405273440000
+      Size.Width = 98.602416992187500000
+      Size.Height = 114.292587280273400000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = xFFF8D5D5
+      Snapping = True
+      Tags = '*'
+      AutoSize = False
+    end
+    object ImageStoryItem222: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 249.925308227539100000
+      Position.Y = 66.313568115234380000
+      Size.Width = 98.778793334960940000
+      Size.Height = 113.753387451171900000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x153D1E06
+      Snapping = True
+      Tags = '*'
+      AutoSize = False
+    end
+    object TextStoryItem62: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 81.747184753417970000
+      Position.Y = 12.752611160278320000
+      Size.Width = 397.240600585937500000
+      Size.Height = 34.177001953125000000
+      Size.PlatformDefault = False
+      TabStop = False
+      Text = #934#932#921#913#926#917' '#932#927' '#913#920#929#927#921#931#924#913': '#928#917#925#932#917' (5)'
+      Font.Size = 18.000000000000000000
+    end
+    object TextStoryItem5: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 153.576324462890600000
+      Position.Y = 218.562637329101600000
+      Size.Width = 70.972473144531250000
+      Size.Height = 105.944381713867200000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '*'
+      Text = #932#929#921#913#13#10'(3)'
+      Font.Size = 33.000000000000000000
+    end
+    object TextStoryItem4: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 445.513092041015600000
+      Position.Y = 75.262771606445310000
+      Size.Width = 98.866241455078130000
+      Size.Height = 92.592071533203130000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF127766
+      Text = #928#917#925#932#917#13#10'(5)'
+      Font.Size = 31.000000000000000000
+    end
+    object TextStoryItem6: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 51.599460601806640000
+      Position.Y = 218.455505371093800000
+      Size.Width = 71.173492431640630000
+      Size.Height = 98.769378662109380000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '*'
+      Text = #916#933#927#13#10'(2)'
+      Font.Size = 33.000000000000000000
+    end
+    object TextStoryItem52: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 245.065185546875000000
+      Position.Y = 221.424346923828100000
+      Size.Width = 121.082702636718800000
+      Size.Height = 102.273406982421900000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = #932#917#931#931#917#929#913#13#10'(4)'
+      Font.Size = 30.000000000000000000
+    end
+    object TextStoryItem53: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 375.684722900390600000
+      Position.Y = 220.923171997070300000
+      Size.Width = 87.916931152343750000
+      Size.Height = 104.852462768554700000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = #928#917#925#932#917#13#10'(5)'
+      Font.Size = 27.000000000000000000
+    end
+    object TextStoryItem54: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 484.157897949218800000
+      Position.Y = 218.751724243164100000
+      Size.Width = 43.478515625000000000
+      Size.Height = 102.982101440429700000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = #917#926#921#13#10'(6)'
+      Font.Size = 30.000000000000000000
+    end
+  end
+  object ImageStoryItem3: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 826.250000000000000000
+    Position.Y = 60.745841979980470000
+    Size.Width = 583.671630859375000000
+    Size.Height = 360.413635253906300000
+    Size.PlatformDefault = False
+    TabStop = False
+    StoryPoint = True
+    BackgroundColor = x00050602
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+    object TextStoryItem22: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 351.656250000000000000
+      Position.Y = 68.729339599609380000
+      Size.Width = 93.695617675781250000
+      Size.Height = 108.405273437500000000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFFA3930F
+      Text = '='
+      Font.Size = 73.000000000000000000
+    end
+    object TextStoryItem32: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 153.395324707031300000
+      Position.Y = 68.217422485351560000
+      Size.Width = 93.694869995117190000
+      Size.Height = 108.406021118164100000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF26B61E
+      Text = '+'
+      Font.Size = 73.000000000000000000
+    end
+    object ImageStoryItem23: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 51.635818481445310000
+      Position.Y = 67.114776611328130000
+      Size.Width = 98.953933715820310000
+      Size.Height = 114.706390380859400000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = xFFF8D5D5
+      Snapping = True
+      Tags = '*'
+      AutoSize = False
+    end
+    object ImageStoryItem223: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 250.816711425781300000
+      Position.Y = 66.553680419921880000
+      Size.Width = 99.130950927734380000
+      Size.Height = 114.165283203125000000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x153D1E06
+      Snapping = True
+      Tags = '*'
+      AutoSize = False
+    end
+    object TextStoryItem622: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 82.038688659667970000
+      Position.Y = 12.798790931701660000
+      Size.Width = 398.657104492187500000
+      Size.Height = 34.300724029541020000
+      Size.PlatformDefault = False
+      TabStop = False
+      Text = #934#932#921#913#926#917' '#932#927' '#913#920#929#927#921#931#924#913': 5 ('#928#917#925#932#917')'
+      Font.Size = 18.000000000000000000
+    end
+    object TextStoryItem42: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 446.578704833984400000
+      Position.Y = 67.193611145019530000
+      Size.Width = 73.547515869140630000
+      Size.Height = 108.838737487793000000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF127766
+      Text = '5'
+      Font.Size = 74.000000000000000000
+    end
+    object TextStoryItem55: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 155.170150756835900000
+      Position.Y = 210.490890502929700000
+      Size.Width = 71.225433349609380000
+      Size.Height = 106.328201293945300000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '*'
+      Text = '3'
+      Font.Size = 72.000000000000000000
+    end
+    object TextStoryItem63: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 62.766468048095700000
+      Position.Y = 209.459518432617200000
+      Size.Width = 74.281982421875000000
+      Size.Height = 104.742874145507800000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '*'
+      Text = '2'
+      Font.Size = 71.000000000000000000
+    end
+    object TextStoryItem522: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 249.600021362304700000
+      Position.Y = 210.234909057617200000
+      Size.Width = 68.660537719726560000
+      Size.Height = 108.120193481445300000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = '4'
+      Font.Size = 73.000000000000000000
+    end
+    object TextStoryItem532: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 346.167541503906300000
+      Position.Y = 209.731735229492200000
+      Size.Width = 69.942932128906250000
+      Size.Height = 107.608871459960900000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = '5'
+      Font.Size = 73.000000000000000000
+    end
+    object TextStoryItem542: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 443.587341308593800000
+      Position.Y = 211.305328369140600000
+      Size.Width = 72.933532714843750000
+      Size.Height = 105.559783935546900000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = '6'
+      Font.Size = 71.000000000000000000
+    end
+  end
+  object TImage
+    MultiResBitmap = <
+      item
+      end>
+  end
+  object ImageStoryItem24: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 159.241821289062500000
+    Position.Y = 544.585998535156300000
+    Size.Width = 583.671447753906300000
+    Size.Height = 360.413452148437500000
+    Size.PlatformDefault = False
+    TabStop = False
+    StoryPoint = True
+    BackgroundColor = x00050602
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+    object TextStoryItem23: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 364.162200927734400000
+      Position.Y = 68.206367492675780000
+      Size.Width = 76.482971191406250000
+      Size.Height = 109.074142456054700000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFFA3930F
+      Text = '='
+      Font.Size = 74.000000000000000000
+    end
+    object TextStoryItem33: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 172.742980957031300000
+      Position.Y = 68.217651367187500000
+      Size.Width = 55.160232543945310000
+      Size.Height = 111.677886962890600000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF26B61E
+      Text = '+'
+      Font.Size = 76.000000000000000000
+    end
+    object ImageStoryItem224: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 51.635761260986330000
+      Position.Y = 67.114730834960940000
+      Size.Width = 116.644592285156300000
+      Size.Height = 114.872795104980500000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = xFFF8D5D5
+      Snapping = True
+      Tags = '*'
+      AutoSize = False
+    end
+    object ImageStoryItem2222: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 241.256408691406300000
+      Position.Y = 66.553794860839840000
+      Size.Width = 116.351348876953100000
+      Size.Height = 115.433753967285200000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x153D1E06
+      Snapping = True
+      Tags = '*'
+      AutoSize = False
+    end
+    object TextStoryItem623: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 82.038612365722660000
+      Position.Y = 12.798787117004390000
+      Size.Width = 398.657104492187500000
+      Size.Height = 34.300724029541020000
+      Size.PlatformDefault = False
+      TabStop = False
+      Text = #934#932#921#913#926#917' '#932#927' '#913#920#929#927#921#931#924#913': '#916#917#922#913' (10)'
+      Font.Size = 18.000000000000000000
+    end
+    object TextStoryItem56: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 154.123992919921900000
+      Position.Y = 219.353836059570300000
+      Size.Width = 71.225463867187500000
+      Size.Height = 106.328109741210900000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = #932#929#921#913#13#10'(3)'
+      Font.Size = 33.000000000000000000
+    end
+    object TextStoryItem43: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 447.101684570312500000
+      Position.Y = 75.535255432128910000
+      Size.Width = 99.218627929687500000
+      Size.Height = 92.927238464355470000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF127766
+      Text = #916#917#922#913#13#10'(10)'
+      Font.Size = 31.000000000000000000
+    end
+    object TextStoryItem64: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 51.783603668212890000
+      Position.Y = 221.079757690429700000
+      Size.Width = 71.102142333984380000
+      Size.Height = 97.293228149414060000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = #916#933#927#13#10'(2)'
+      Font.Size = 32.000000000000000000
+    end
+    object TextStoryItem523: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 249.077056884765600000
+      Position.Y = 220.140579223632800000
+      Size.Width = 121.514495849609400000
+      Size.Height = 102.643692016601600000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '*'
+      Text = #932#917#931#931#917#929#913#13#10'(4)'
+      Font.Size = 30.000000000000000000
+    end
+    object TextStoryItem533: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 383.300537109375000000
+      Position.Y = 215.466690063476600000
+      Size.Width = 88.230163574218750000
+      Size.Height = 105.232162475585900000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = #928#917#925#932#917#13#10'(5)'
+      Font.Size = 27.000000000000000000
+    end
+    object TextStoryItem543: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 482.289459228515600000
+      Position.Y = 213.912200927734400000
+      Size.Width = 43.633514404296880000
+      Size.Height = 103.354949951171900000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '*'
+      Text = #917#926#921#13#10'(6)'
+      Font.Size = 30.000000000000000000
+    end
+  end
+  object ImageStoryItem32: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 843.530090332031300000
+    Position.Y = 546.314025878906300000
+    Size.Width = 572.646179199218800000
+    Size.Height = 353.501403808593800000
+    Size.PlatformDefault = False
+    TabStop = False
+    StoryPoint = True
+    BackgroundColor = x00050602
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+    object TextStoryItem222: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 345.013366699218800000
+      Position.Y = 67.411201477050780000
+      Size.Width = 91.925781250000000000
+      Size.Height = 106.326164245605500000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFFA3930F
+      Text = '='
+      Font.Size = 72.000000000000000000
+    end
+    object TextStoryItem322: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 150.497650146484400000
+      Position.Y = 66.909088134765630000
+      Size.Width = 91.924957275390630000
+      Size.Height = 106.326934814453100000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF26B61E
+      Text = '+'
+      Font.Size = 72.000000000000000000
+    end
+    object ImageStoryItem232: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 50.660400390625000000
+      Position.Y = 65.827590942382810000
+      Size.Width = 97.084716796875000000
+      Size.Height = 112.506515502929700000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = xFFF8D5D5
+      Snapping = True
+      Tags = '*'
+      AutoSize = False
+    end
+    object ImageStoryItem2232: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 246.078750610351600000
+      Position.Y = 65.277252197265630000
+      Size.Width = 97.258499145507810000
+      Size.Height = 111.975738525390600000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = x153D1E06
+      Snapping = True
+      Tags = '*'
+      AutoSize = False
+    end
+    object TextStoryItem6222: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 80.488967895507810000
+      Position.Y = 12.553325653076170000
+      Size.Width = 391.126708984375000000
+      Size.Height = 33.642898559570310000
+      Size.PlatformDefault = False
+      TabStop = False
+      Text = #934#932#921#913#926#917' '#932#927' '#913#920#929#927#921#931#924#913': 10 ('#916#917#922#913')'
+      Font.Size = 17.000000000000000000
+    end
+    object TextStoryItem422: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 438.142761230468800000
+      Position.Y = 65.904884338378910000
+      Size.Width = 72.158233642578130000
+      Size.Height = 106.751243591308600000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF127766
+      Text = '10'
+      Font.Size = 62.000000000000000000
+    end
+    object TextStoryItem552: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 152.238967895507800000
+      Position.Y = 206.453933715820300000
+      Size.Width = 69.879974365234380000
+      Size.Height = 104.289016723632800000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = '3'
+      Font.Size = 70.000000000000000000
+    end
+    object TextStoryItem632: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 61.580787658691410000
+      Position.Y = 205.442214965820300000
+      Size.Width = 72.878807067871090000
+      Size.Height = 102.734146118164100000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = '2'
+      Font.Size = 69.000000000000000000
+    end
+    object TextStoryItem5222: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 244.885040283203100000
+      Position.Y = 206.202743530273400000
+      Size.Width = 67.363494873046880000
+      Size.Height = 106.046463012695300000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '*'
+      Text = '4'
+      Font.Size = 72.000000000000000000
+    end
+    object TextStoryItem5322: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 339.628356933593800000
+      Position.Y = 205.709396362304700000
+      Size.Width = 68.621765136718750000
+      Size.Height = 105.545120239257800000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Text = '5'
+      Font.Size = 71.000000000000000000
+    end
+    object TextStoryItem5422: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 435.207885742187500000
+      Position.Y = 207.252761840820300000
+      Size.Width = 71.555969238281250000
+      Size.Height = 103.535202026367200000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = '*'
+      Text = '6'
+      Font.Size = 70.000000000000000000
+    end
+  end
+  object ImageStoryItem4: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 1453.248168945313000000
+    Position.Y = 940.032104492187500000
+    Size.Width = 297.216064453125000000
+    Size.Height = 224.640014648437500000
+    Size.PlatformDefault = False
+    TabStop = False
+    StoryPoint = True
+    AutoSize = False
+    object TextStoryItem7: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 46.233573913574220000
+      Position.Y = 53.126018524169920000
+      Size.Width = 206.999130249023400000
+      Size.Height = 121.163619995117200000
+      Size.PlatformDefault = False
+      TabStop = False
+      Text = 
+        #55356#57225#55356#57225#55356#57225#55356#57225#55356#57225#55356#57225#55356#57225#13#10#55356#57225'                          '#55356#57225#13#10#55356#57225'          '#932#913'  ' +
+        '          '#55356#57225#13#10#55356#57225'   '#922#913#932#913#934#917#929#917#931'!   '#55356#57225#13#10#55356#57225'                          ' +
+        #55356#57225#13#10#55356#57225#55356#57225#55356#57225#55356#57225#55356#57225#55356#57225#55356#57225
+      Font.Size = 13.000000000000000000
+    end
+  end
+end
