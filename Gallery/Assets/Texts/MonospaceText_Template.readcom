@@ -1,0 +1,14 @@
+object TextStoryItem: TTextStoryItem
+  Align = Scale
+  Cursor = crDrag
+  Position.X = 592.153869628906300000
+  Position.Y = 170.153839111328100000
+  Size.Width = 408.692260742187500000
+  Size.Height = 88.692321777343750000
+  Size.PlatformDefault = False
+  TabStop = False
+  Anchored = False
+  Text = '0123456789'
+  Font.Family = 'Courier New'
+  Font.Size = 67.000000000000000000
+end
