@@ -229,8 +229,8 @@ object ImageStoryItem: TImageStoryItem
     object TextStoryItem22: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 818.394836425781300000
-      Position.Y = 19.701150894165040000
+      Position.X = 360.570251464843800000
+      Position.Y = 13.085189819335940000
       Size.Width = 283.621765136718800000
       Size.Height = 116.691246032714800000
       Size.PlatformDefault = False
@@ -243,8 +243,8 @@ object ImageStoryItem: TImageStoryItem
     object TextStoryItem23: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 819.718078613281300000
-      Position.Y = 21.014553070068360000
+      Position.X = 359.247131347656300000
+      Position.Y = 10.429012298583980000
       Size.Width = 283.620300292968800000
       Size.Height = 116.691238403320300000
       Size.PlatformDefault = False
@@ -258,6 +258,20 @@ object ImageStoryItem: TImageStoryItem
       MultiResBitmap = <
         item
         end>
+    end
+    object TextStoryItem23: TTextStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 1106.548706054688000000
+      Position.Y = 13.632373809814450000
+      Size.Width = 280.117736816406300000
+      Size.Height = 98.525634765625000000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF7B7440
+      BackgroundColor = x00FFFFFF
+      Text = #931#933#929#917' '#932#913' '#927#925#927#924#913#932#913' '#931#932#919' '#931#937#931#932#919' '#920#917#931#919
+      Font.Size = 31.000000000000000000
     end
   end
   object ImageStoryItem22: TImageStoryItem
