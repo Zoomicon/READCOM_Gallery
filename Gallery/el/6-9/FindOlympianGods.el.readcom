@@ -21,14 +21,13 @@ object ImageStoryItem: TImageStoryItem
     AutoSize = False
     object TextStoryItem2: TTextStoryItem
       Align = Scale
-      Cursor = crDrag
+      Locked = True
       Position.X = 132.620071411132800000
       Position.Y = 127.247253417968800000
       Size.Width = 736.832092285156300000
       Size.Height = 664.277587890625000000
       Size.PlatformDefault = False
       TabStop = False
-      Anchored = False
       Text = 
         #922#927#929#916#921#913#931#919#932#919#13#10#924#913#929#932#917#924#919#937#931#917#13#10#913#925#913#920#919#925#913#924#917#926#13#10#932#919#934#913#921#931#932#927#931#924#13#10#924#921#922#919#929#913#932#929#921#913#13#10#931#932#917#928 +
         #913#929#919#931#927#923
