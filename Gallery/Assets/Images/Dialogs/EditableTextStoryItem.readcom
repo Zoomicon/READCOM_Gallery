@@ -1,0 +1,14 @@
+object TextStoryItem2: TTextStoryItem
+  Align = Scale
+  Locked = True
+  Position.X = 962.454467773437500000
+  Position.Y = 537.361206054687500000
+  Size.Width = 332.139038085937500000
+  Size.Height = 144.424621582031300000
+  Size.PlatformDefault = False
+  TabStop = False
+  BackgroundColor = x00FFFFFF
+  Text = '...'
+  Editable = True
+  Font.Size = 101.000000000000000000
+end
