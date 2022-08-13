@@ -1,0 +1,13 @@
+object TextStoryItem2: TTextStoryItem
+  Align = Scale
+  Locked = True
+  Position.X = 244.038558959960900000
+  Position.Y = 61.391757965087890000
+  Size.Width = 92.762969970703130000
+  Size.Height = 48.491626739501950000
+  Size.PlatformDefault = False
+  TabStop = False
+  Text = '...'
+  Font.Size = 28.000000000000000000
+  Font.Style = [fsStrikeOut]
+end
