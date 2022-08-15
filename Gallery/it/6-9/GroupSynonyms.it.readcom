@@ -1,0 +1,675 @@
+object ImageStoryItem: TImageStoryItem
+  Align = Center
+  Locked = True
+  Size.Width = 2663.095458984375000000
+  Size.Height = 1598.153564453125000000
+  Size.PlatformDefault = False
+  TabStop = False
+  object TImage
+    MultiResBitmap = <
+      item
+      end>
+  end
+  object ImageStoryItem2: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 228.819000244140600000
+    Position.Y = 141.744354248046900000
+    Size.Width = 754.331970214843800000
+    Size.Height = 441.514648437500000000
+    Size.PlatformDefault = False
+    TabStop = False
+    Active = True
+    Home = True
+    StoryPoint = True
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+    object ImageStoryItem22: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 555.572387695312500000
+      Position.Y = 25.587432861328130000
+      Size.Width = 160.160644531250000000
+      Size.Height = 101.833915710449200000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = xE6F0F70C
+      Tags = 'spensierato'
+      AutoSize = False
+      object Clipboard1369908175: TTextStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = 16.214065551757810000
+        Position.Y = -21.325420379638670000
+        Size.Width = 125.436614990234400000
+        Size.Height = 26.418437957763670000
+        Size.PlatformDefault = False
+        TabStop = False
+        Text = 'spensierato'
+      end
+    end
+    object ImageStoryItem223: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 554.945190429687500000
+      Position.Y = 312.195678710937500000
+      Size.Width = 162.673034667968800000
+      Size.Height = 110.662139892578100000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = xE6107BF0
+      Tags = 'eroico'
+      AutoSize = False
+      object Clipboard13699081753: TTextStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = 16.468420028686520000
+        Position.Y = -23.174142837524410000
+        Size.Width = 127.404335021972700000
+        Size.Height = 28.708703994750980000
+        Size.PlatformDefault = False
+        TabStop = False
+        Text = 'eroico'
+        Font.Size = 14.000000000000000000
+      end
+    end
+    object ImageStoryItem222: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 556.199523925781300000
+      Position.Y = 160.425003051757800000
+      Size.Width = 160.160827636718800000
+      Size.Height = 115.451919555664100000
+      Size.PlatformDefault = False
+      TabStop = False
+      BackgroundColor = xE617F38B
+      Tags = 'benigno'
+      AutoSize = False
+      object Clipboard13699081752: TTextStoryItem
+        Align = Scale
+        Locked = True
+        Position.X = 16.214092254638670000
+        Position.Y = -24.177213668823240000
+        Size.Width = 125.436782836914100000
+        Size.Height = 29.951307296752930000
+        Size.PlatformDefault = False
+        TabStop = False
+        Text = 'benigno'
+        Font.Size = 15.000000000000000000
+      end
+    end
+    object Clipboard1080524693: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 271.048950195312500000
+      Position.Y = 125.511047363281300000
+      Size.Width = 91.819114685058590000
+      Size.Height = 31.798263549804690000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = 'spensierato'
+      Text = 'allegro'
+      Font.Size = 16.000000000000000000
+    end
+    object Clipboard1350768624: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 84.872550964355470000
+      Position.Y = 228.135665893554700000
+      Size.Width = 73.766540527343750000
+      Size.Height = 32.731872558593750000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = 'spensierato'
+      Text = 'sereno'
+      Font.Size = 17.000000000000000000
+    end
+    object Clipboard2080325970: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 175.213485717773400000
+      Position.Y = 165.191650390625000000
+      Size.Width = 99.376892089843750000
+      Size.Height = 35.270912170410160000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF1A2019
+      Anchored = False
+      Tags = 'spensierato'
+      Text = 'gaio'
+      Font.Size = 18.000000000000000000
+    end
+    object Clipboard1494237776: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 291.097961425781300000
+      Position.Y = 188.196670532226600000
+      Size.Width = 91.942443847656250000
+      Size.Height = 31.027038574218750000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = 'eroico'
+      Text = 'intrepido'
+      Font.Size = 15.000000000000000000
+    end
+    object Clipboard973803413: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 165.186965942382800000
+      Position.Y = 220.468704223632800000
+      Size.Width = 108.041290283203100000
+      Size.Height = 31.153900146484380000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = 'eroico'
+      Text = 'prode'
+      Font.Size = 15.000000000000000000
+    end
+    object Clipboard1654931595: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 173.868682861328100000
+      Position.Y = 98.403686523437500000
+      Size.Width = 96.989883422851560000
+      Size.Height = 34.430282592773440000
+      Size.PlatformDefault = False
+      TabStop = False
+      ForegroundColor = xFF14161C
+      Anchored = False
+      Tags = 'benigno'
+      Text = 'affabile'
+      Font.Size = 18.000000000000000000
+    end
+    object Clipboard820080246: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 66.747734069824220000
+      Position.Y = 157.594711303710900000
+      Size.Width = 137.700729370117200000
+      Size.Height = 32.392013549804690000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = 'benigno'
+      Text = 'propizio'
+      Font.Size = 16.000000000000000000
+    end
+    object Clipboard958031562: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 172.330383300781300000
+      Position.Y = 287.930328369140600000
+      Size.Width = 110.936614990234400000
+      Size.Height = 33.239204406738280000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = 'benigno'
+      Text = 'favorevole'
+      Font.Size = 17.000000000000000000
+    end
+    object Clipboard48067260: TTextStoryItem
+      Align = Scale
+      Cursor = crDrag
+      Position.X = 281.807891845703100000
+      Position.Y = 254.520721435546900000
+      Size.Width = 90.507789611816410000
+      Size.Height = 33.035339355468750000
+      Size.PlatformDefault = False
+      TabStop = False
+      Anchored = False
+      Tags = 'eroico'
+      Text = 'coraggioso'
+      Font.Size = 17.000000000000000000
+    end
+  end
+  object ImageStoryItem232: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 1374.728637695313000000
+    Position.Y = 848.034240722656300000
+    Size.Width = 919.038452148437500000
+    Size.Height = 529.200866699218800000
+    Size.PlatformDefault = False
+    TabStop = False
+    StoryPoint = True
+    AutoSize = False
+    object ImageStoryItem2242: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 516.731567382812500000
+      Position.Y = 87.949562072753910000
+      Size.Width = 94.864196777343750000
+      Size.Height = 84.191062927246090000
+      Size.PlatformDefault = False
+      TabStop = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="line-supplement">'#13'    <g>'#13'      <line x1="27.61' +
+        '2" x2="27.612" y1="16.1095" y2="16.1095" fill="none" stroke="#00' +
+        '0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2' +
+        '"/>'#13'      <line x1="55.8981" x2="55.8981" y1="44.3824" y2="44.38' +
+        '24" fill="none" stroke="#000" stroke-linecap="round" stroke-mite' +
+        'rlimit="10" stroke-width="2"/>'#13'      <line x1="55.8815" x2="55.8' +
+        '815" y1="16.0996" y2="16.0996" fill="none" stroke="#000" stroke-' +
+        'linecap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      ' +
+        '<line x1="27.5931" x2="27.5931" y1="16.1284" y2="16.1284" fill="' +
+        'none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10' +
+        '" stroke-width="2"/>'#13'      <line x1="41.75" x2="41.75" y1="10.25' +
+        '" y2="24.25" fill="none" stroke="#000" stroke-linecap="round" st' +
+        'roke-linejoin="round" stroke-width="2"/>'#13'      <line x1="47.75" ' +
+        'x2="61.75" y1="30.25" y2="30.25" fill="none" stroke="#000" strok' +
+        'e-linecap="round" stroke-linejoin="round" stroke-width="2"/>'#13'   ' +
+        '   <line x1="41.75" x2="41.75" y1="50.25" y2="36.25" fill="none"' +
+        ' stroke="#000" stroke-linecap="round" stroke-linejoin="round" st' +
+        'roke-width="2"/>'#13'      <line x1="35.75" x2="21.75" y1="30.25" y2' +
+        '="30.25" fill="none" stroke="#000" stroke-linecap="round" stroke' +
+        '-linejoin="round" stroke-width="2"/>'#13'      <line x1="37.5074" x2' +
+        '="31.1434" y1="26.0074" y2="19.6434" fill="none" stroke="#000" s' +
+        'troke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>'#13 +
+        '      <line x1="52.3566" x2="45.9927" y1="19.6434" y2="26.0073" ' +
+        'fill="none" stroke="#000" stroke-linecap="round" stroke-miterlim' +
+        'it="10" stroke-width="2"/>'#13'      <line x1="52.3566" x2="45.9926"' +
+        ' y1="40.8566" y2="34.4926" fill="none" stroke="#000" stroke-line' +
+        'cap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      <lin' +
+        'e x1="32.2619" x2="34.9775" y1="7.347" y2="13.9031" fill="none" ' +
+        'stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stro' +
+        'ke-width="2"/>'#13'      <line x1="18.8402" x2="25.3966" y1="20.7701' +
+        '" y2="23.4851" fill="none" stroke="#000" stroke-linecap="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="18.843' +
+        '4" x2="25.399" y1="39.7527" y2="37.0355" fill="none" stroke="#00' +
+        '0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2' +
+        '"/>'#13'      <line x1="32.2693" x2="34.9829" y1="53.1711" y2="46.61' +
+        '4" fill="none" stroke="#000" stroke-linecap="round" stroke-miter' +
+        'limit="10" stroke-width="2"/>'#13'      <line x1="51.2523" x2="48.53' +
+        '36" y1="53.1636" y2="46.6086" fill="none" stroke="#000" stroke-l' +
+        'inecap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      <' +
+        'line x1="64.6674" x2="58.1097" y1="39.7349" y2="37.0228" fill="n' +
+        'one" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"' +
+        ' stroke-width="2"/>'#13'      <line x1="64.6556" x2="58.1013" y1="20' +
+        '.7516" y2="23.4718" fill="none" stroke="#000" stroke-linecap="ro' +
+        'und" stroke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="5' +
+        '1.218" x2="48.5105" y1="7.348" y2="13.9076" fill="none" stroke="' +
+        '#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width' +
+        '="2"/>'#13'      <line x1="32.2357" x2="34.9513" y1="7.3578" y2="13.' +
+        '914" fill="none" stroke="#000" stroke-linecap="round" stroke-mit' +
+        'erlimit="10" stroke-width="2"/>'#13'    </g>'#13'    <path fill="none" s' +
+        'troke="#000" stroke-linecap="round" stroke-miterlimit="10" strok' +
+        'e-width="2" d="M13,57,40.6378,29.2409a1.5,1.5,0,0,1,2.1214,0h0a1' +
+        '.5,1.5,0,0,1,0,2.1213L19,55"/>'#13'  </g>'#13'  <g id="color">'#13'    <g>'#13' ' +
+        '     <path fill="#9b9b9a" d="M11.2929,57.1716,39.9307,28.5338a2.' +
+        '5,2.5,0,0,1,3.5356,0h0a2.5,2.5,0,0,1,0,3.5355L14.8284,60.7071a1,' +
+        '1,0,0,1-1.4142,0l-2.1213-2.1213A1,1,0,0,1,11.2929,57.1716Z"/>'#13'  ' +
+        '    <g>'#13'        <line x1="27.612" x2="27.612" y1="16.1095" y2="1' +
+        '6.1095" fill="none" stroke="#f1b31c" stroke-linecap="round" stro' +
+        'ke-miterlimit="10" stroke-width="2"/>'#13'        <line x1="55.8981"' +
+        ' x2="55.8981" y1="44.3824" y2="44.3824" fill="none" stroke="#f1b' +
+        '31c" stroke-linecap="round" stroke-miterlimit="10" stroke-width=' +
+        '"2"/>'#13'        <line x1="55.8815" x2="55.8815" y1="16.0996" y2="1' +
+        '6.0996" fill="none" stroke="#f1b31c" stroke-linecap="round" stro' +
+        'ke-miterlimit="10" stroke-width="2"/>'#13'        <line x1="27.5931"' +
+        ' x2="27.5931" y1="16.1284" y2="16.1284" fill="none" stroke="#f1b' +
+        '31c" stroke-linecap="round" stroke-miterlimit="10" stroke-width=' +
+        '"2"/>'#13'        <line x1="41.75" x2="41.75" y1="10.25" y2="24.25" ' +
+        'fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-linej' +
+        'oin="round" stroke-width="2"/>'#13'        <line x1="47.75" x2="61.7' +
+        '5" y1="30.25" y2="30.25" fill="none" stroke="#f1b31c" stroke-lin' +
+        'ecap="round" stroke-linejoin="round" stroke-width="2"/>'#13'        ' +
+        '<line x1="41.75" x2="41.75" y1="50.25" y2="36.25" fill="none" st' +
+        'roke="#f1b31c" stroke-linecap="round" stroke-linejoin="round" st' +
+        'roke-width="2"/>'#13'        <line x1="35.75" x2="21.75" y1="30.25" ' +
+        'y2="30.25" fill="none" stroke="#f1b31c" stroke-linecap="round" s' +
+        'troke-linejoin="round" stroke-width="2"/>'#13'        <line x1="37.5' +
+        '074" x2="31.1434" y1="26.0074" y2="19.6434" fill="none" stroke="' +
+        '#f1b31c" stroke-linecap="round" stroke-miterlimit="10" stroke-wi' +
+        'dth="2"/>'#13'        <line x1="52.3566" x2="45.9927" y1="19.6434" y' +
+        '2="26.0073" fill="none" stroke="#f1b31c" stroke-linecap="round" ' +
+        'stroke-miterlimit="10" stroke-width="2"/>'#13'        <line x1="52.3' +
+        '566" x2="45.9926" y1="40.8566" y2="34.4926" fill="none" stroke="' +
+        '#f1b31c" stroke-linecap="round" stroke-miterlimit="10" stroke-wi' +
+        'dth="2"/>'#13'        <line x1="32.2619" x2="34.9775" y1="7.347" y2=' +
+        '"13.9031" fill="none" stroke="#f1b31c" stroke-linecap="round" st' +
+        'roke-miterlimit="10" stroke-width="2"/>'#13'        <line x1="18.840' +
+        '2" x2="25.3966" y1="20.7701" y2="23.4851" fill="none" stroke="#f' +
+        '1b31c" stroke-linecap="round" stroke-miterlimit="10" stroke-widt' +
+        'h="2"/>'#13'        <line x1="18.8434" x2="25.399" y1="39.7527" y2="' +
+        '37.0355" fill="none" stroke="#f1b31c" stroke-linecap="round" str' +
+        'oke-miterlimit="10" stroke-width="2"/>'#13'        <line x1="32.2693' +
+        '" x2="34.9829" y1="53.1711" y2="46.614" fill="none" stroke="#f1b' +
+        '31c" stroke-linecap="round" stroke-miterlimit="10" stroke-width=' +
+        '"2"/>'#13'        <line x1="51.2523" x2="48.5336" y1="53.1636" y2="4' +
+        '6.6086" fill="none" stroke="#f1b31c" stroke-linecap="round" stro' +
+        'ke-miterlimit="10" stroke-width="2"/>'#13'        <line x1="64.6674"' +
+        ' x2="58.1097" y1="39.7349" y2="37.0228" fill="none" stroke="#f1b' +
+        '31c" stroke-linecap="round" stroke-miterlimit="10" stroke-width=' +
+        '"2"/>'#13'        <line x1="64.6556" x2="58.1013" y1="20.7516" y2="2' +
+        '3.4718" fill="none" stroke="#f1b31c" stroke-linecap="round" stro' +
+        'ke-miterlimit="10" stroke-width="2"/>'#13'        <line x1="51.218" ' +
+        'x2="48.5105" y1="7.348" y2="13.9076" fill="none" stroke="#f1b31c' +
+        '" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"' +
+        '/>'#13'        <line x1="32.2357" x2="34.9513" y1="7.3578" y2="13.91' +
+        '4" fill="none" stroke="#f1b31c" stroke-linecap="round" stroke-mi' +
+        'terlimit="10" stroke-width="2"/>'#13'      </g>'#13'    </g>'#13'  </g>'#13'  <g' +
+        ' id="line">'#13'    <path fill="none" stroke="#000" stroke-linecap="' +
+        'round" stroke-miterlimit="10" stroke-width="2" d="M17,52.8787,40' +
+        '.6378,29.2409a1.5,1.5,0,0,1,2.1214,0h0a1.5,1.5,0,0,1,0,2.1213L31' +
+        '.92,42.201"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+      object TImage
+        MultiResBitmap = <
+          item
+          end>
+      end
+    end
+    object Firework67660319: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 84.099411010742190000
+      Position.Y = 195.443527221679700000
+      Size.Width = 91.396636962890630000
+      Size.Height = 84.827102661132810000
+      Size.PlatformDefault = False
+      TabStop = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="line-supplement">'#13'    <rect x="35" y="38.915" w' +
+        'idth="2" height="25" fill="none" stroke="#000" stroke-linecap="r' +
+        'ound" stroke-linejoin="round" stroke-width="2"/>'#13'    <g>'#13'      <' +
+        'line x1="15.9954" x2="15.9954" y1="32.9114" y2="32.9114" fill="n' +
+        'one" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"' +
+        ' stroke-width="2"/>'#13'      <line x1="55.9886" x2="55.9886" y1="32' +
+        '.902" y2="32.902" fill="none" stroke="#000" stroke-linecap="roun' +
+        'd" stroke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="35.' +
+        '978" x2="35.978" y1="12.9148" y2="12.9148" fill="none" stroke="#' +
+        '000" stroke-linecap="round" stroke-miterlimit="10" stroke-width=' +
+        '"2"/>'#13'      <line x1="21.8491" x2="31.7486" y1="18.771" y2="28.6' +
+        '705" fill="none" stroke="#000" stroke-linecap="round" stroke-lin' +
+        'ejoin="round" stroke-width="2"/>'#13'      <line x1="40.2339" x2="50' +
+        '.1334" y1="28.6704" y2="18.771" fill="none" stroke="#000" stroke' +
+        '-linecap="round" stroke-linejoin="round" stroke-width="2"/>'#13'    ' +
+        '  <line x1="50.1334" x2="40.2339" y1="47.0552" y2="37.1557" fill' +
+        '="none" stroke="#000" stroke-linecap="round" stroke-linejoin="ro' +
+        'und" stroke-width="2"/>'#13'      <line x1="31.7486" x2="21.8491" y1' +
+        '="37.1557" y2="47.0552" fill="none" stroke="#000" stroke-linecap' +
+        '="round" stroke-linejoin="round" stroke-width="2"/>'#13'      <line ' +
+        'x1="29.9913" x2="20.9913" y1="32.9131" y2="32.9131" fill="none" ' +
+        'stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stro' +
+        'ke-width="2"/>'#13'      <line x1="35.9913" x2="35.9913" y1="17.913"' +
+        ' y2="26.913" fill="none" stroke="#000" stroke-linecap="round" st' +
+        'roke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="50.9912"' +
+        ' x2="41.9912" y1="32.9131" y2="32.9131" fill="none" stroke="#000' +
+        '" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"' +
+        '/>'#13'      <line x1="13.0873" x2="19.6434" y1="23.4273" y2="26.143' +
+        '" fill="none" stroke="#000" stroke-linecap="round" stroke-miterl' +
+        'imit="10" stroke-width="2"/>'#13'      <line x1="13.0883" x2="19.644' +
+        '2" y1="42.4095" y2="39.6931" fill="none" stroke="#000" stroke-li' +
+        'necap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      <l' +
+        'ine x1="26.5133" x2="29.2274" y1="55.8299" y2="49.2731" fill="no' +
+        'ne" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" ' +
+        'stroke-width="2"/>'#13'      <line x1="45.4951" x2="42.7773" y1="55.' +
+        '8246" y2="49.2693" fill="none" stroke="#000" stroke-linecap="rou' +
+        'nd" stroke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="58' +
+        '.9127" x2="52.3553" y1="42.3963" y2="39.6837" fill="none" stroke' +
+        '="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-wid' +
+        'th="2"/>'#13'      <line x1="58.9032" x2="52.3485" y1="23.4149" y2="' +
+        '26.1341" fill="none" stroke="#000" stroke-linecap="round" stroke' +
+        '-miterlimit="10" stroke-width="2"/>'#13'      <line x1="45.4716" x2=' +
+        '"42.7605" y1="10" y2="16.5581" fill="none" stroke="#000" stroke-' +
+        'linecap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      ' +
+        '<line x1="26.492" x2="29.2159" y1="10.0241" y2="16.5769" fill="n' +
+        'one" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"' +
+        ' stroke-width="2"/>'#13'      <polygon stroke="#000" stroke-linejoin' +
+        '="round" stroke-width="2" points="36 34.315 37.7 35.53 37.069 33' +
+        '.538 38.75 32.298 36.661 32.282 36 30.3 35.339 32.282 33.25 32.2' +
+        '98 34.931 33.538 34.3 35.53 36 34.315"/>'#13'    </g>'#13'  </g>'#13'  <g id' +
+        '="color">'#13'    <rect x="35" y="38.915" width="2" height="25" fill' +
+        '="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin=' +
+        '"round" stroke-width="2"/>'#13'    <g>'#13'      <line x1="15.9954" x2="' +
+        '15.9954" y1="32.9114" y2="32.9114" fill="none" stroke="#fcea2b" ' +
+        'stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>' +
+        #13'      <line x1="55.9886" x2="55.9886" y1="32.902" y2="32.902" f' +
+        'ill="none" stroke="#f1b31c" stroke-linecap="round" stroke-miterl' +
+        'imit="10" stroke-width="2"/>'#13'      <line x1="35.978" x2="35.978"' +
+        ' y1="12.9148" y2="12.9148" fill="none" stroke="#f1b31c" stroke-l' +
+        'inecap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      <' +
+        'line x1="21.8491" x2="31.7486" y1="18.771" y2="28.6705" fill="no' +
+        'ne" stroke="#e27022" stroke-linecap="round" stroke-linejoin="rou' +
+        'nd" stroke-width="2"/>'#13'      <line x1="40.2339" x2="50.1334" y1=' +
+        '"28.6704" y2="18.771" fill="none" stroke="#61b2e4" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-width="2"/>'#13'      <line' +
+        ' x1="50.1334" x2="40.2339" y1="47.0552" y2="37.1557" fill="none"' +
+        ' stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round"' +
+        ' stroke-width="2"/>'#13'      <line x1="31.7486" x2="21.8491" y1="37' +
+        '.1557" y2="47.0552" fill="none" stroke="#e67a94" stroke-linecap=' +
+        '"round" stroke-linejoin="round" stroke-width="2"/>'#13'      <line x' +
+        '1="29.9913" x2="20.9913" y1="32.9131" y2="32.9131" fill="none" s' +
+        'troke="#d0cfce" stroke-linecap="round" stroke-miterlimit="10" st' +
+        'roke-width="2"/>'#13'      <line x1="35.9913" x2="35.9913" y1="17.91' +
+        '3" y2="26.913" fill="none" stroke="#8967aa" stroke-linecap="roun' +
+        'd" stroke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="50.' +
+        '9912" x2="41.9912" y1="32.9131" y2="32.9131" fill="none" stroke=' +
+        '"#ea5a47" stroke-linecap="round" stroke-miterlimit="10" stroke-w' +
+        'idth="2"/>'#13'      <line x1="13.0873" x2="19.6434" y1="23.4273" y2' +
+        '="26.143" fill="none" stroke="#b399c8" stroke-linecap="round" st' +
+        'roke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="13.0883"' +
+        ' x2="19.6442" y1="42.4095" y2="39.6931" fill="none" stroke="#92d' +
+        '3f5" stroke-linecap="round" stroke-miterlimit="10" stroke-width=' +
+        '"2"/>'#13'      <line x1="26.5133" x2="29.2274" y1="55.8299" y2="49.' +
+        '2731" fill="none" stroke="#b1cc33" stroke-linecap="round" stroke' +
+        '-miterlimit="10" stroke-width="2"/>'#13'      <line x1="45.4951" x2=' +
+        '"42.7773" y1="55.8246" y2="49.2693" fill="none" stroke="#ffa7c0"' +
+        ' stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/' +
+        '>'#13'      <line x1="58.9127" x2="52.3553" y1="42.3963" y2="39.6837' +
+        '" fill="none" stroke="#b399c8" stroke-linecap="round" stroke-mit' +
+        'erlimit="10" stroke-width="2"/>'#13'      <line x1="58.9032" x2="52.' +
+        '3485" y1="23.4149" y2="26.1341" fill="none" stroke="#b1cc33" str' +
+        'oke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'  ' +
+        '    <line x1="45.4716" x2="42.7605" y1="10" y2="16.5581" fill="n' +
+        'one" stroke="#a57939" stroke-linecap="round" stroke-miterlimit="' +
+        '10" stroke-width="2"/>'#13'      <line x1="26.492" x2="29.2159" y1="' +
+        '10.0241" y2="16.5769" fill="none" stroke="#fcea2b" stroke-lineca' +
+        'p="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      <polyg' +
+        'on fill="#d22f27" stroke="#d22f27" stroke-linejoin="round" strok' +
+        'e-width="2" points="36 34.315 37.7 35.53 37.069 33.538 38.75 32.' +
+        '298 36.661 32.282 36 30.3 35.339 32.282 33.25 32.298 34.931 33.5' +
+        '38 34.3 35.53 36 34.315"/>'#13'    </g>'#13'  </g>'#13'  <g id="line">'#13'    <' +
+        'polyline fill="none" stroke="#000" stroke-linecap="round" stroke' +
+        '-linejoin="round" stroke-width="2" points="35 58.915 35 38.915 3' +
+        '7 38.915"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+    end
+    object Firework676603192: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 744.163330078125000000
+      Position.Y = 201.890792846679700000
+      Size.Width = 91.396667480468750000
+      Size.Height = 84.827072143554690000
+      Size.PlatformDefault = False
+      TabStop = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="line-supplement">'#13'    <rect x="35" y="38.915" w' +
+        'idth="2" height="25" fill="none" stroke="#000" stroke-linecap="r' +
+        'ound" stroke-linejoin="round" stroke-width="2"/>'#13'    <g>'#13'      <' +
+        'line x1="15.9954" x2="15.9954" y1="32.9114" y2="32.9114" fill="n' +
+        'one" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"' +
+        ' stroke-width="2"/>'#13'      <line x1="55.9886" x2="55.9886" y1="32' +
+        '.902" y2="32.902" fill="none" stroke="#000" stroke-linecap="roun' +
+        'd" stroke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="35.' +
+        '978" x2="35.978" y1="12.9148" y2="12.9148" fill="none" stroke="#' +
+        '000" stroke-linecap="round" stroke-miterlimit="10" stroke-width=' +
+        '"2"/>'#13'      <line x1="21.8491" x2="31.7486" y1="18.771" y2="28.6' +
+        '705" fill="none" stroke="#000" stroke-linecap="round" stroke-lin' +
+        'ejoin="round" stroke-width="2"/>'#13'      <line x1="40.2339" x2="50' +
+        '.1334" y1="28.6704" y2="18.771" fill="none" stroke="#000" stroke' +
+        '-linecap="round" stroke-linejoin="round" stroke-width="2"/>'#13'    ' +
+        '  <line x1="50.1334" x2="40.2339" y1="47.0552" y2="37.1557" fill' +
+        '="none" stroke="#000" stroke-linecap="round" stroke-linejoin="ro' +
+        'und" stroke-width="2"/>'#13'      <line x1="31.7486" x2="21.8491" y1' +
+        '="37.1557" y2="47.0552" fill="none" stroke="#000" stroke-linecap' +
+        '="round" stroke-linejoin="round" stroke-width="2"/>'#13'      <line ' +
+        'x1="29.9913" x2="20.9913" y1="32.9131" y2="32.9131" fill="none" ' +
+        'stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stro' +
+        'ke-width="2"/>'#13'      <line x1="35.9913" x2="35.9913" y1="17.913"' +
+        ' y2="26.913" fill="none" stroke="#000" stroke-linecap="round" st' +
+        'roke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="50.9912"' +
+        ' x2="41.9912" y1="32.9131" y2="32.9131" fill="none" stroke="#000' +
+        '" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"' +
+        '/>'#13'      <line x1="13.0873" x2="19.6434" y1="23.4273" y2="26.143' +
+        '" fill="none" stroke="#000" stroke-linecap="round" stroke-miterl' +
+        'imit="10" stroke-width="2"/>'#13'      <line x1="13.0883" x2="19.644' +
+        '2" y1="42.4095" y2="39.6931" fill="none" stroke="#000" stroke-li' +
+        'necap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      <l' +
+        'ine x1="26.5133" x2="29.2274" y1="55.8299" y2="49.2731" fill="no' +
+        'ne" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" ' +
+        'stroke-width="2"/>'#13'      <line x1="45.4951" x2="42.7773" y1="55.' +
+        '8246" y2="49.2693" fill="none" stroke="#000" stroke-linecap="rou' +
+        'nd" stroke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="58' +
+        '.9127" x2="52.3553" y1="42.3963" y2="39.6837" fill="none" stroke' +
+        '="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-wid' +
+        'th="2"/>'#13'      <line x1="58.9032" x2="52.3485" y1="23.4149" y2="' +
+        '26.1341" fill="none" stroke="#000" stroke-linecap="round" stroke' +
+        '-miterlimit="10" stroke-width="2"/>'#13'      <line x1="45.4716" x2=' +
+        '"42.7605" y1="10" y2="16.5581" fill="none" stroke="#000" stroke-' +
+        'linecap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      ' +
+        '<line x1="26.492" x2="29.2159" y1="10.0241" y2="16.5769" fill="n' +
+        'one" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"' +
+        ' stroke-width="2"/>'#13'      <polygon stroke="#000" stroke-linejoin' +
+        '="round" stroke-width="2" points="36 34.315 37.7 35.53 37.069 33' +
+        '.538 38.75 32.298 36.661 32.282 36 30.3 35.339 32.282 33.25 32.2' +
+        '98 34.931 33.538 34.3 35.53 36 34.315"/>'#13'    </g>'#13'  </g>'#13'  <g id' +
+        '="color">'#13'    <rect x="35" y="38.915" width="2" height="25" fill' +
+        '="none" stroke="#d22f27" stroke-linecap="round" stroke-linejoin=' +
+        '"round" stroke-width="2"/>'#13'    <g>'#13'      <line x1="15.9954" x2="' +
+        '15.9954" y1="32.9114" y2="32.9114" fill="none" stroke="#fcea2b" ' +
+        'stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>' +
+        #13'      <line x1="55.9886" x2="55.9886" y1="32.902" y2="32.902" f' +
+        'ill="none" stroke="#f1b31c" stroke-linecap="round" stroke-miterl' +
+        'imit="10" stroke-width="2"/>'#13'      <line x1="35.978" x2="35.978"' +
+        ' y1="12.9148" y2="12.9148" fill="none" stroke="#f1b31c" stroke-l' +
+        'inecap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      <' +
+        'line x1="21.8491" x2="31.7486" y1="18.771" y2="28.6705" fill="no' +
+        'ne" stroke="#e27022" stroke-linecap="round" stroke-linejoin="rou' +
+        'nd" stroke-width="2"/>'#13'      <line x1="40.2339" x2="50.1334" y1=' +
+        '"28.6704" y2="18.771" fill="none" stroke="#61b2e4" stroke-lineca' +
+        'p="round" stroke-linejoin="round" stroke-width="2"/>'#13'      <line' +
+        ' x1="50.1334" x2="40.2339" y1="47.0552" y2="37.1557" fill="none"' +
+        ' stroke="#f1b31c" stroke-linecap="round" stroke-linejoin="round"' +
+        ' stroke-width="2"/>'#13'      <line x1="31.7486" x2="21.8491" y1="37' +
+        '.1557" y2="47.0552" fill="none" stroke="#e67a94" stroke-linecap=' +
+        '"round" stroke-linejoin="round" stroke-width="2"/>'#13'      <line x' +
+        '1="29.9913" x2="20.9913" y1="32.9131" y2="32.9131" fill="none" s' +
+        'troke="#d0cfce" stroke-linecap="round" stroke-miterlimit="10" st' +
+        'roke-width="2"/>'#13'      <line x1="35.9913" x2="35.9913" y1="17.91' +
+        '3" y2="26.913" fill="none" stroke="#8967aa" stroke-linecap="roun' +
+        'd" stroke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="50.' +
+        '9912" x2="41.9912" y1="32.9131" y2="32.9131" fill="none" stroke=' +
+        '"#ea5a47" stroke-linecap="round" stroke-miterlimit="10" stroke-w' +
+        'idth="2"/>'#13'      <line x1="13.0873" x2="19.6434" y1="23.4273" y2' +
+        '="26.143" fill="none" stroke="#b399c8" stroke-linecap="round" st' +
+        'roke-miterlimit="10" stroke-width="2"/>'#13'      <line x1="13.0883"' +
+        ' x2="19.6442" y1="42.4095" y2="39.6931" fill="none" stroke="#92d' +
+        '3f5" stroke-linecap="round" stroke-miterlimit="10" stroke-width=' +
+        '"2"/>'#13'      <line x1="26.5133" x2="29.2274" y1="55.8299" y2="49.' +
+        '2731" fill="none" stroke="#b1cc33" stroke-linecap="round" stroke' +
+        '-miterlimit="10" stroke-width="2"/>'#13'      <line x1="45.4951" x2=' +
+        '"42.7773" y1="55.8246" y2="49.2693" fill="none" stroke="#ffa7c0"' +
+        ' stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/' +
+        '>'#13'      <line x1="58.9127" x2="52.3553" y1="42.3963" y2="39.6837' +
+        '" fill="none" stroke="#b399c8" stroke-linecap="round" stroke-mit' +
+        'erlimit="10" stroke-width="2"/>'#13'      <line x1="58.9032" x2="52.' +
+        '3485" y1="23.4149" y2="26.1341" fill="none" stroke="#b1cc33" str' +
+        'oke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>'#13'  ' +
+        '    <line x1="45.4716" x2="42.7605" y1="10" y2="16.5581" fill="n' +
+        'one" stroke="#a57939" stroke-linecap="round" stroke-miterlimit="' +
+        '10" stroke-width="2"/>'#13'      <line x1="26.492" x2="29.2159" y1="' +
+        '10.0241" y2="16.5769" fill="none" stroke="#fcea2b" stroke-lineca' +
+        'p="round" stroke-miterlimit="10" stroke-width="2"/>'#13'      <polyg' +
+        'on fill="#d22f27" stroke="#d22f27" stroke-linejoin="round" strok' +
+        'e-width="2" points="36 34.315 37.7 35.53 37.069 33.538 38.75 32.' +
+        '298 36.661 32.282 36 30.3 35.339 32.282 33.25 32.298 34.931 33.5' +
+        '38 34.3 35.53 36 34.315"/>'#13'    </g>'#13'  </g>'#13'  <g id="line">'#13'    <' +
+        'polyline fill="none" stroke="#000" stroke-linecap="round" stroke' +
+        '-linejoin="round" stroke-width="2" points="35 58.915 35 38.915 3' +
+        '7 38.915"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+      object TImage
+        MultiResBitmap = <
+          item
+          end>
+      end
+    end
+    object ImageStoryItem3: TImageStoryItem
+      Align = Scale
+      Locked = True
+      Position.X = 271.809326171875000000
+      Position.Y = 99.976882934570310000
+      Size.Width = 379.456665039062500000
+      Size.Height = 334.509094238281300000
+      Size.PlatformDefault = False
+      TabStop = False
+      SVGText = 
+        '<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/200' +
+        '0/svg">'#13'  <g id="color">'#13'    <path fill="#fcea2b" stroke="none" ' +
+        'd="M41.5853,12.831h-20.795c0.072,0.333,0.152,0.72,0.246,1.168c0.' +
+        '476,2.287,1.392,6.775,3.152,15.579 c0.112,0.562,0.239,1.1,0.373,' +
+        '1.616c0.04,0.154,0.084,0.3,0.126,0.451c0.1,0.365,0.207,0.721,0.3' +
+        '2,1.064 c0.051,0.154,0.1,0.3,0.156,0.453c0.1213,0.3413,0.249,0.6' +
+        '713,0.383,0.99c0.049,0.117,0.1,0.236,0.147,0.35 c0.183,0.413,0.3' +
+        '76,0.81,0.582,1.183l0.01,0.019c0.2198,0.3981,0.4604,0.7843,0.721' +
+        ',1.157l0.025,0.034 c0.2309,0.3262,0.4792,0.6397,0.744,0.939c0.04' +
+        '2,0.047,0.085,0.093,0.128,0.139c0.2358,0.258,0.4852,0.5034,0.747' +
+        ',0.735 c0.042,0.037,0.084,0.076,0.127,0.112c2.0451,1.6637,4.6303' +
+        ',2.5178,7.264,2.4c0.9852,0.0032,1.968-0.1,2.931-0.308 C41.3121,3' +
+        '1.7469,42.1939,22.2705,41.5853,12.831z"/>'#13'    <path fill="#f1b31' +
+        'c" stroke="none" d="M41.5853,12.831c0.6086,9.4384-0.2729,18.9138' +
+        '-2.612,28.078c4.706-1.027,7.576-4.732,8.922-11.46 c1.457-7.282,2' +
+        '.511-12.474,3.134-15.431c0.1-0.456,0.18-0.849,0.255-1.187H41.585' +
+        '3z"/>'#13'    <path fill="#fcea2b" stroke="none" d="M31.4213,51.333h' +
+        '-3.871V58.5h10.958v-7.167L31.4213,51.333z"/>'#13'    <path fill="#f1' +
+        'b31c" stroke="none" d="M43.8833,51.333h-5.375V58.5h5.375V51.333z' +
+        '"/>'#13'    <circle cx="36.0373" cy="24.581" r="4" fill="#f1b31c" st' +
+        'roke="none"/>'#13'  </g>'#13'  <g id="hair"/>'#13'  <g id="skin"/>'#13'  <g id="' +
+        'skin-shadow"/>'#13'  <g id="line">'#13'    <path fill="none" stroke="#00' +
+        '0000" stroke-linecap="round" stroke-linejoin="round" stroke-widt' +
+        'h="2" d="M52.5373,11.832 c0,0,0-0.519-3.667,17.814c-1.588,7.942-' +
+        '5.5,12.572-12.833,12.572s-11.245-4.5-12.833-12.443 c-3.667-18.33' +
+        '3-3.667-17.943-3.667-17.943L52.5373,11.832z"/>'#13'    <path fill="n' +
+        'one" stroke="#000000" stroke-linecap="round" stroke-linejoin="ro' +
+        'und" stroke-width="2" d="M23.0443,31.479 c0,0,0.079-0.261-5.421-' +
+        '3.928c-2.528-1.683-5.459-3.9-5.459-6.943s2.5-5.11,5.539-5.11h1.5' +
+        '13"/>'#13'    <path fill="none" stroke="#000000" stroke-linecap="rou' +
+        'nd" stroke-linejoin="round" stroke-width="2" d="M48.7113,31.766 ' +
+        'c0,0,0.079-0.261,5.579-3.928c2.528-1.683,5.541-3.9,5.541-6.943c-' +
+        '0.0146-2.842-2.3303-5.1341-5.1723-5.1196 c-0.0963,0.0005-0.1926,' +
+        '0.0037-0.2887,0.0096h-2.154"/>'#13'    <rect x="26.5503" y="50.332" ' +
+        'width="18.333" height="9.167" fill="none" stroke="#000000" strok' +
+        'e-linecap="round" stroke-linejoin="round" stroke-width="2"/>'#13'   ' +
+        ' <circle cx="36.0373" cy="24.581" r="5" fill="none" stroke="#000' +
+        '000" stroke-linecap="round" stroke-linejoin="round" stroke-width' +
+        '="2"/>'#13'    <line x1="36.0373" x2="36.0373" y1="50.332" y2="42.21' +
+        '8" fill="none" stroke="#000000" stroke-linecap="round" stroke-li' +
+        'nejoin="round" stroke-width="2"/>'#13'  </g>'#13'</svg>'
+      AutoSize = False
+      object TImage
+        MultiResBitmap = <
+          item
+          end>
+      end
+    end
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+  end
+end

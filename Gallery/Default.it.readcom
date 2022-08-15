@@ -8,7 +8,6 @@ object PanelStoryItem222: TPanelStoryItem
   TabStop = False
   TabOrder = 32767
   Home = True
-  StoryPoint = False
   object FlagGreece16990989204: TBitmapImageStoryItem
     Align = Scale
     Locked = True
@@ -108,23 +107,6 @@ object PanelStoryItem222: TPanelStoryItem
       '"#000" stroke-miterlimit="10" stroke-width="1.5"/>'#13'  </g>'#13'</svg>'
     AutoSize = False
   end
-  object FlagGreece16990989205: TBitmapImageStoryItem
-    Align = Scale
-    Locked = True
-    Position.X = 678.722412109375000000
-    Position.Y = 728.348327636718800000
-    Size.Width = 0.000000000000000000
-    Size.Height = 0.000000000000000000
-    Size.PlatformDefault = False
-    TabStop = False
-    SVGText = 
-      '<?xml version="1.0" encoding="UTF-8"?>'#13'<svg xmlns="http://www.w3' +
-      '.org/2000/svg" width="600" height="400" viewBox="0 0 27 18">'#13'<re' +
-      'ct fill="#0D5EAF" width="27" height="18"/>'#13'<path fill="none" str' +
-      'oke-width="2" stroke="#FFF" d="M5,0V11 M0,5H10 M10,3H27 M10,7H27' +
-      ' M0,11H27 M0,15H27"/>'#13'</svg>'
-    AutoSize = False
-  end
   object TextStoryItem2: TTextStoryItem
     Align = Scale
     Locked = True
@@ -136,134 +118,7 @@ object PanelStoryItem222: TPanelStoryItem
     TabStop = False
     ForegroundColor = xFF204D69
     Text = 'Storie e attivit'#224' adatte all'#39'et'#224':'
-    Font.Size = 60.000000000000000000
-  end
-  object BitmapImageStoryItem3: TBitmapImageStoryItem
-    Align = Scale
-    Locked = True
-    Position.X = 344.892639160156300000
-    Position.Y = 197.877029418945300000
-    Size.Width = 145.800415039062500000
-    Size.Height = 102.275466918945300000
-    Size.PlatformDefault = False
-    TabStop = False
-    SVGText = 
-      '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#8dd2e5;o' +
-      'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
-      '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
-    AutoSize = False
-    object TextStoryItem3: TTextStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 8.526322364807129000
-      Position.Y = 13.235645294189450000
-      Size.Width = 128.747756958007800000
-      Size.Height = 78.210693359375000000
-      Size.PlatformDefault = False
-      TabStop = False
-      ForegroundColor = xFF1D5171
-      Text = '3-6'
-      Font.Size = 55.000000000000000000
-    end
-    object BitmapImageStoryItemMask: TBitmapImageStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 8.526322364807129000
-      Position.Y = 13.235645294189450000
-      Size.Width = 128.747756958007800000
-      Size.Height = 78.210693359375000000
-      Size.PlatformDefault = False
-      TabStop = False
-      UrlAction = 
-        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-        'r/Gallery/Stories/Aesop%20Fables/The%20Tortoise%20and%20the%20Ha' +
-        're/The%20Tortoise%20and%20the%20Hare.it.readcom'
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
-      AutoSize = False
-    end
-  end
-  object BitmapImageStoryItem4: TBitmapImageStoryItem
-    Align = Scale
-    Locked = True
-    Position.X = 348.632629394531300000
-    Position.Y = 363.204956054687500000
-    Size.Width = 144.763031005859400000
-    Size.Height = 99.109710693359380000
-    Size.PlatformDefault = False
-    TabStop = False
-    SVGText = 
-      '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
-      'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
-      '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
-    AutoSize = False
-    object TextStoryItem23: TTextStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 8.465656280517578000
-      Position.Y = 12.825959205627440000
-      Size.Width = 127.831680297851600000
-      Size.Height = 75.789794921875000000
-      Size.PlatformDefault = False
-      TabStop = False
-      ForegroundColor = xFF1C5772
-      Text = '6-9'
-      Font.Size = 53.000000000000000000
-    end
-    object BitmapImageStoryItemMask2: TBitmapImageStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 8.465668678283691000
-      Position.Y = 11.659964561462400000
-      Size.Width = 127.831695556640600000
-      Size.Height = 75.789794921875000000
-      Size.PlatformDefault = False
-      TabStop = False
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
-      AutoSize = False
-    end
-  end
-  object BitmapImageStoryItem5: TBitmapImageStoryItem
-    Align = Scale
-    Locked = True
-    Position.X = 350.748443603515600000
-    Position.Y = 533.538635253906300000
-    Size.Width = 143.548034667968800000
-    Size.Height = 96.343566894531250000
-    Size.PlatformDefault = False
-    TabStop = False
-    SVGText = 
-      '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
-      '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
-      'pacity:0.8;}</style></defs><title>dialoge box</title><rect class' +
-      '="cls-1" width="300" height="98" rx="16.81" ry="16.81"/></svg>'
-    AutoSize = False
-    object TextStoryItem24: TTextStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 8.394605636596680000
-      Position.Y = 12.467983245849610000
-      Size.Width = 126.758804321289100000
-      Size.Height = 73.674484252929690000
-      Size.PlatformDefault = False
-      TabStop = False
-      ForegroundColor = xFF267887
-      Text = '9-12'
-      Font.Size = 52.000000000000000000
-    end
-    object BitmapImageStoryItemMask3: TBitmapImageStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 8.394618034362793000
-      Position.Y = 11.334532737731930000
-      Size.Width = 126.758796691894500000
-      Size.Height = 73.674499511718750000
-      Size.PlatformDefault = False
-      TabStop = False
-      SVGText = '<svg xmlns="http://www.w3.org/2000/svg"></svg>'
-      AutoSize = False
-    end
+    Font.Size = 61.000000000000000000
   end
   object F9DA1F3FB1800437380: TBitmapImageStoryItem
     Align = Scale
@@ -465,10 +320,11 @@ object PanelStoryItem222: TPanelStoryItem
     Text = 
       'Una guida alle risorse per migliorare le abitudini di lettura a ' +
       'casa e a scuola:'
-    Font.Size = 33.000000000000000000
+    Font.Size = 30.000000000000000000
   end
   object READCOMToolkitblack1640302650: TBitmapImageStoryItem
     Align = Scale
+    Cursor = crHandPoint
     Locked = True
     Position.X = 798.496337890625000000
     Position.Y = 781.829589843750000000
@@ -495,11 +351,62 @@ object PanelStoryItem222: TPanelStoryItem
       '14.5,360.8,227,296.5,226.8Z"/></svg>'
     AutoSize = False
   end
-  object F4461F3FB519296809: TBitmapImageStoryItem
+  object TextStoryItem: TTextStoryItem
+    Align = Scale
+    Cursor = crHandPoint
+    Locked = True
+    Position.X = 351.324371337890600000
+    Position.Y = 216.381088256835900000
+    Size.Width = 142.521728515625000000
+    Size.Height = 92.805953979492190000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = xFFA0D4EE
+    UrlAction = 
+      'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+      'r/Gallery/it/3-6.readcom'
+    Text = '3-6'
+    Font.Size = 62.000000000000000000
+  end
+  object TextStoryItem: TTextStoryItem
+    Align = Scale
+    Cursor = crHandPoint
+    Locked = True
+    Position.X = 356.534057617187500000
+    Position.Y = 382.574279785156300000
+    Size.Width = 141.573516845703100000
+    Size.Height = 87.595947265625000000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = xFFA0D4EE
+    UrlAction = 
+      'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+      'r/Gallery/it/6-9.readcom'
+    Text = '6-9'
+    Font.Size = 58.000000000000000000
+  end
+  object TextStoryItem: TTextStoryItem
+    Align = Scale
+    Cursor = crHandPoint
+    Locked = True
+    Position.X = 359.847076416015600000
+    Position.Y = 548.767456054687500000
+    Size.Width = 135.419616699218800000
+    Size.Height = 85.703674316406250000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = xFFA0D4EE
+    UrlAction = 
+      'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+      'r/Gallery/it/9-12.readcom'
+    Text = '9-12'
+    Font.Size = 56.000000000000000000
+  end
+  object F4461F3FB5192968092: TBitmapImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 339.937591552734400000
-    Position.Y = 268.315979003906300000
+    Position.X = 346.763519287109400000
+    Position.Y = 449.844970703125000000
     Size.Width = 35.440124511718750000
     Size.Height = 32.737365722656250000
     Size.PlatformDefault = False
@@ -572,13 +479,13 @@ object PanelStoryItem222: TPanelStoryItem
       'nd" stroke-miterlimit="10" stroke-width="2"/>'#13'  </g>'#13'</svg>'
     AutoSize = False
   end
-  object F4461F3FB5192968092: TBitmapImageStoryItem
+  object F4461F3FB519296809: TBitmapImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 345.343048095703100000
-    Position.Y = 431.379028320312500000
-    Size.Width = 35.440124511718750000
-    Size.Height = 32.737365722656250000
+    Position.X = 338.540344238281300000
+    Position.Y = 293.085693359375000000
+    Size.Width = 41.669464111328130000
+    Size.Height = 33.146270751953130000
     Size.PlatformDefault = False
     TabStop = False
     SVGText = 
@@ -652,8 +559,8 @@ object PanelStoryItem222: TPanelStoryItem
   object F4461F3FB5192968093: TBitmapImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 343.541290283203100000
-    Position.Y = 596.243896484375000000
+    Position.X = 350.643646240234400000
+    Position.Y = 609.027893066406300000
     Size.Width = 35.440124511718750000
     Size.Height = 32.737365722656250000
     Size.PlatformDefault = False
@@ -729,8 +636,8 @@ object PanelStoryItem222: TPanelStoryItem
   object F4461F3FB5192968094: TBitmapImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 792.189880371093800000
-    Position.Y = 838.586364746093800000
+    Position.X = 790.769470214843800000
+    Position.Y = 842.847717285156300000
     Size.Width = 35.440124511718750000
     Size.Height = 32.737365722656250000
     Size.PlatformDefault = False
