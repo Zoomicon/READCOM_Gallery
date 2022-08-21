@@ -15,6 +15,7 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 731.148071289062500000
     Size.PlatformDefault = False
     TabStop = False
+    StoryPoint = True
     BackgroundColor = claWhite
     AutoSize = False
     object TImage
@@ -32,6 +33,7 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 731.148071289062500000
     Size.PlatformDefault = False
     TabStop = False
+    StoryPoint = True
     BackgroundColor = claWhite
     AutoSize = False
     object TImage
@@ -49,6 +51,7 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 731.148071289062500000
     Size.PlatformDefault = False
     TabStop = False
+    StoryPoint = True
     BackgroundColor = claWhite
     AutoSize = False
     object TImage
@@ -66,6 +69,7 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 731.148071289062500000
     Size.PlatformDefault = False
     TabStop = False
+    StoryPoint = True
     BackgroundColor = claWhite
     AutoSize = False
     object TImage

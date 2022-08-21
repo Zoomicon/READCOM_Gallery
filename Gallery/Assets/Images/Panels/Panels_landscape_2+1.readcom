@@ -5,7 +5,8 @@ object ImageStoryItem: TImageStoryItem
   Size.Height = 1751.777587890625000000
   Size.PlatformDefault = False
   TabStop = False
-  object ImageStoryItem: TImageStoryItem
+  Home = True
+  object ImageStoryItem2: TImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 173.076568603515600000
@@ -14,6 +15,7 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 731.148071289062500000
     Size.PlatformDefault = False
     TabStop = False
+    StoryPoint = True
     BackgroundColor = claWhite
     AutoSize = False
     object TImage
@@ -22,7 +24,7 @@ object ImageStoryItem: TImageStoryItem
         end>
     end
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem3: TImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 1698.211425781250000000
@@ -31,6 +33,7 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 1576.210937500000000000
     Size.PlatformDefault = False
     TabStop = False
+    StoryPoint = True
     BackgroundColor = claWhite
     AutoSize = False
     object TImage
@@ -39,7 +42,7 @@ object ImageStoryItem: TImageStoryItem
         end>
     end
   end
-  object ImageStoryItem: TImageStoryItem
+  object ImageStoryItem4: TImageStoryItem
     Align = Scale
     Locked = True
     Position.X = 171.729614257812500000
@@ -48,6 +51,7 @@ object ImageStoryItem: TImageStoryItem
     Size.Height = 731.148071289062500000
     Size.PlatformDefault = False
     TabStop = False
+    StoryPoint = True
     BackgroundColor = claWhite
     AutoSize = False
     object TImage
