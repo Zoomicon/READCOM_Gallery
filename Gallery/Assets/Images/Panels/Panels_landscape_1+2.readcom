@@ -1,0 +1,65 @@
+object ImageStoryItem: TImageStoryItem
+  Align = Center
+  Locked = True
+  Size.Width = 3399.045898437500000000
+  Size.Height = 1751.777587890625000000
+  Size.PlatformDefault = False
+  TabStop = False
+  Home = True
+  object ImageStoryItem2: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 173.076568603515600000
+    Position.Y = 70.640655517578130000
+    Size.Width = 1448.131103515625000000
+    Size.Height = 1577.938598632813000000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = claWhite
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+  end
+  object ImageStoryItem3: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 1721.953491210938000000
+    Position.Y = 72.370361328125000000
+    Size.Width = 1423.247924804688000000
+    Size.Height = 731.148071289062500000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = claWhite
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+  end
+  object ImageStoryItem5: TImageStoryItem
+    Align = Scale
+    Locked = True
+    Position.X = 1724.441650390625000000
+    Position.Y = 920.887573242187500000
+    Size.Width = 1423.247924804688000000
+    Size.Height = 731.148071289062500000
+    Size.PlatformDefault = False
+    TabStop = False
+    BackgroundColor = claWhite
+    AutoSize = False
+    object TImage
+      MultiResBitmap = <
+        item
+        end>
+    end
+  end
+  object TImage
+    MultiResBitmap = <
+      item
+      end>
+  end
+end
