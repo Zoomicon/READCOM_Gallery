@@ -1,0 +1,21 @@
+---
+  files:
+    - sofa*.svg:
+        title: sofa
+        tags: sofa; couch
+        source: publicdomainvectors.org
+        license: Public Domain
+---
+  files:
+    - table and chairs*.svg:
+        title: table and chairs
+        tags: table; chairs
+        source: publicdomainvectors.org
+        license: Public Domain
+        
+          files:
+    - table tablecloth*.svg:
+        title: table and ctablecloth
+        tags: table; tablecloth
+        source: publicdomainvectors.org
+        license: Public Domain
