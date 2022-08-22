@@ -1,20 +1,21 @@
-title: furniture
-tags: objects, furniture, sofa
-source: www.publicdomainvector.org
-license: CC0
-attribution:
-filegroups: from sofa-01.svg to sofa-06.svg
-
-title: furniture
-tags: objects, furniture, tables, chairs
-source: www.publicdomainvector.org
-license: CC0
-attribution:
-filegroups: from table and chairs-01.svg to table and chairs-04.svg
-
-title: furniture
-tags: objects, furniture, tables, chairs
-source: www.publicdomainvector.org
-license: CC0
-attribution:
-filegroups: from table-tablecloth-01.svg to table-tablecloth-04.svg
+---
+  files:
+    - sofa*.svg:
+        title: sofa
+        tags: sofa; couch
+        source: publicdomainvectors.org
+        license: Public Domain
+---
+  files:
+    - table and chairs*.svg:
+        title: table and chairs
+        tags: table; chairs
+        source: publicdomainvectors.org
+        license: Public Domain
+        
+          files:
+    - table tablecloth*.svg:
+        title: table and ctablecloth
+        tags: table; tablecloth
+        source: publicdomainvectors.org
+        license: Public Domain
