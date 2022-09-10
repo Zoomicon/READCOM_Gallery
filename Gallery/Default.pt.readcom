@@ -178,8 +178,7 @@ object PanelStoryItem222: TPanelStoryItem
       TabStop = False
       UrlAction = 
         'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-        'r/Gallery/Stories/Aesop%20Fables/The%20Tortoise%20and%20the%20Ha' +
-        're/The%20Tortoise%20and%20the%20Hare.pt.readcom'
+        'r/Gallery/pt/3-6.readcom'
       AutoSize = False
     end
   end
