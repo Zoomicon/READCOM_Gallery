@@ -1,17 +1,17 @@
 object ImageStoryItem: TBitmapImageStoryItem
   Align = Center
   Locked = True
-  Size.Width = 1607.040039062500000000
-  Size.Height = 1031.040283203125000000
+  Size.Width = 1928.448120117188000000
+  Size.Height = 1237.248413085938000000
   Size.PlatformDefault = False
   TabStop = False
   object fundozcl387114735: TBitmapImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 909.063049316406300000
-    Position.Y = 43.776420593261720000
-    Size.Width = 645.627258300781300000
-    Size.Height = 433.376129150390600000
+    Position.X = 1090.875732421875000000
+    Position.Y = 52.531707763671880000
+    Size.Width = 774.752685546875000000
+    Size.Height = 520.051391601562500000
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
@@ -4636,43 +4636,43 @@ object ImageStoryItem: TBitmapImageStoryItem
       end>
     Image.Align = Contents
     Image.HitTest = False
-    Image.Size.Width = 645.627258300781300000
-    Image.Size.Height = 433.376129150390600000
+    Image.Size.Width = 774.752685546875000000
+    Image.Size.Height = 520.051391601562500000
     Image.Size.PlatformDefault = False
     Image.WrapMode = Stretch
     AutoSize = False
     object TextStoryItem3: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 18.036945343017580000
-      Position.Y = 112.467002868652300000
-      Size.Width = 592.993103027343800000
-      Size.Height = 62.111808776855470000
+      Position.X = 21.644332885742190000
+      Position.Y = 134.960403442382800000
+      Size.Width = 711.591674804687500000
+      Size.Height = 74.534164428710940000
       Size.PlatformDefault = False
       TabStop = False
       Text = 'O c'#227'o correu atr'#225's do rato.'
-      Font.Size = 39.000000000000000000
+      Font.Size = 48.000000000000000000
     end
     object TextStoryItem52: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 44.797370910644530000
-      Position.Y = 5.861897945404053000
-      Size.Width = 558.295593261718800000
-      Size.Height = 52.739795684814450000
+      Position.X = 53.756843566894530000
+      Position.Y = 7.034277915954590000
+      Size.Width = 669.954650878906300000
+      Size.Height = 63.287757873535160000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFFB00505
       Text = 'Conta o n'#250'mero de palavras que tem a frase.'
-      Font.Size = 27.000000000000000000
+      Font.Size = 33.000000000000000000
     end
     object Qz1887096096: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 40.248710632324220000
-      Position.Y = 224.557083129882800000
-      Size.Width = 25.208412170410160000
-      Size.Height = 26.014587402343750000
+      Position.X = 48.298450469970700000
+      Position.Y = 269.468505859375000000
+      Size.Width = 30.250095367431640000
+      Size.Height = 31.217498779296880000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -4690,8 +4690,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 25.208412170410160000
-      Image.Size.Height = 26.014587402343750000
+      Image.Size.Width = 30.250095367431640000
+      Image.Size.Height = 31.217498779296880000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -4699,10 +4699,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz313315001: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 40.649433135986330000
-      Position.Y = 283.672729492187500000
-      Size.Width = 74.766265869140630000
-      Size.Height = 26.014648437500000000
+      Position.X = 48.779315948486330000
+      Position.Y = 340.407287597656300000
+      Size.Width = 89.719512939453130000
+      Size.Height = 31.217590332031250000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -4722,8 +4722,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 74.766265869140630000
-      Image.Size.Height = 26.014648437500000000
+      Image.Size.Width = 89.719512939453130000
+      Image.Size.Height = 31.217590332031250000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -4731,10 +4731,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz4346258475: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 40.839385986328130000
-      Position.Y = 312.467803955078100000
-      Size.Width = 100.547973632812500000
-      Size.Height = 25.427917480468750000
+      Position.X = 49.007259368896480000
+      Position.Y = 374.961364746093800000
+      Size.Width = 120.657562255859400000
+      Size.Height = 30.513488769531250000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -4755,8 +4755,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 100.547973632812500000
-      Image.Size.Height = 25.427917480468750000
+      Image.Size.Width = 120.657562255859400000
+      Image.Size.Height = 30.513488769531250000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -4764,10 +4764,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz612468814: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 154.110702514648400000
-      Position.Y = 281.552368164062500000
-      Size.Width = 147.957351684570300000
-      Size.Height = 26.380981445312500000
+      Position.X = 184.932830810546900000
+      Position.Y = 337.862854003906300000
+      Size.Width = 177.548797607421900000
+      Size.Height = 31.657165527343750000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -4789,8 +4789,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 147.957351684570300000
-      Image.Size.Height = 26.380981445312500000
+      Image.Size.Width = 177.548797607421900000
+      Image.Size.Height = 31.657165527343750000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -4798,10 +4798,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz82093301705: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 349.051269531250000000
-      Position.Y = 253.057083129882800000
-      Size.Width = 196.978881835937500000
-      Size.Height = 24.688583374023440000
+      Position.X = 418.861511230468800000
+      Position.Y = 303.668518066406300000
+      Size.Width = 236.374633789062500000
+      Size.Height = 29.626312255859380000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -4822,8 +4822,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 196.978881835937500000
-      Image.Size.Height = 24.688583374023440000
+      Image.Size.Width = 236.374633789062500000
+      Image.Size.Height = 29.626312255859380000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -4831,10 +4831,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz101997711604: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 349.970855712890600000
-      Position.Y = 312.846008300781300000
-      Size.Width = 246.255096435546900000
-      Size.Height = 24.083374023437500000
+      Position.X = 419.964996337890600000
+      Position.Y = 375.415222167968800000
+      Size.Width = 295.506072998046900000
+      Size.Height = 28.900054931640630000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -4854,8 +4854,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 246.255096435546900000
-      Image.Size.Height = 24.083374023437500000
+      Image.Size.Width = 295.506072998046900000
+      Image.Size.Height = 28.900054931640630000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -4863,10 +4863,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz18870960962: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 42.660690307617190000
-      Position.Y = 375.504516601562500000
-      Size.Width = 25.208412170410160000
-      Size.Height = 26.014556884765630000
+      Position.X = 51.192825317382810000
+      Position.Y = 450.605438232421900000
+      Size.Width = 30.250091552734380000
+      Size.Height = 31.217468261718750000
       Size.PlatformDefault = False
       TabStop = False
       Image.MultiResBitmap = <
@@ -4883,8 +4883,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 25.208412170410160000
-      Image.Size.Height = 26.014556884765630000
+      Image.Size.Width = 30.250091552734380000
+      Image.Size.Height = 31.217468261718750000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -4892,22 +4892,22 @@ object ImageStoryItem: TBitmapImageStoryItem
     object TextStoryItem5: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 69.839141845703130000
-      Position.Y = 372.119079589843800000
-      Size.Width = 44.405563354492190000
-      Size.Height = 32.015869140625000000
+      Position.X = 83.806968688964840000
+      Position.Y = 446.542907714843800000
+      Size.Width = 53.286674499511720000
+      Size.Height = 38.419036865234380000
       Size.PlatformDefault = False
       TabStop = False
       Text = '= 1'
-      Font.Size = 16.000000000000000000
+      Font.Size = 21.000000000000000000
     end
     object rat0301559927467: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 508.235809326171900000
-      Position.Y = 366.824493408203100000
-      Size.Width = 86.362701416015630000
-      Size.Height = 39.611145019531250000
+      Position.X = 609.882934570312500000
+      Position.Y = 440.189422607421900000
+      Size.Width = 103.635253906250000000
+      Size.Height = 47.533386230468750000
       Size.PlatformDefault = False
       TabStop = False
       SVGText = 
@@ -5073,10 +5073,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz21295000720: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 40.444309234619140000
-      Position.Y = 255.770309448242200000
-      Size.Width = 49.367862701416020000
-      Size.Height = 25.291122436523440000
+      Position.X = 48.533168792724610000
+      Position.Y = 306.924377441406300000
+      Size.Width = 59.241428375244140000
+      Size.Height = 30.349334716796880000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -5096,8 +5096,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 49.367862701416020000
-      Image.Size.Height = 25.291122436523440000
+      Image.Size.Width = 59.241428375244140000
+      Image.Size.Height = 30.349334716796880000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -5105,10 +5105,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz51956125915: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 153.478179931640600000
-      Position.Y = 250.590606689453100000
-      Size.Width = 123.920043945312500000
-      Size.Height = 25.330810546875000000
+      Position.X = 184.173797607421900000
+      Position.Y = 300.708740234375000000
+      Size.Width = 148.704040527343800000
+      Size.Height = 30.396972656250000000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -5128,8 +5128,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 123.920043945312500000
-      Image.Size.Height = 25.330810546875000000
+      Image.Size.Width = 148.704040527343800000
+      Image.Size.Height = 30.396972656250000000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -5137,10 +5137,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz9424110835: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 349.467926025390600000
-      Position.Y = 283.007720947265600000
-      Size.Width = 221.016448974609400000
-      Size.Height = 25.294067382812500000
+      Position.X = 419.361480712890600000
+      Position.Y = 339.609283447265600000
+      Size.Width = 265.219696044921900000
+      Size.Height = 30.352874755859380000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -5161,8 +5161,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 221.016448974609400000
-      Image.Size.Height = 25.294067382812500000
+      Image.Size.Width = 265.219696044921900000
+      Image.Size.Height = 30.352874755859380000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -5170,10 +5170,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz738021252: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 151.511642456054700000
-      Position.Y = 312.333190917968800000
-      Size.Width = 174.155227661132800000
-      Size.Height = 25.136779785156250000
+      Position.X = 181.813964843750000000
+      Position.Y = 374.799835205078100000
+      Size.Width = 208.986267089843800000
+      Size.Height = 30.164123535156250000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -5193,8 +5193,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 174.155227661132800000
-      Image.Size.Height = 25.136779785156250000
+      Image.Size.Width = 208.986267089843800000
+      Image.Size.Height = 30.164123535156250000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -5202,10 +5202,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object RopeBorder992629270: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 41.620262145996090000
-      Position.Y = 357.884399414062500000
-      Size.Width = 554.548278808593800000
-      Size.Height = 3.999938964843750000
+      Position.X = 49.944313049316410000
+      Position.Y = 429.461303710937500000
+      Size.Width = 665.457885742187500000
+      Size.Height = 4.799926757812500000
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = xE6275F8F
@@ -6424,24 +6424,24 @@ object ImageStoryItem: TBitmapImageStoryItem
     object TextStoryItem522: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 90.490608215332030000
-      Position.Y = 59.160037994384770000
-      Size.Width = 445.819519042968800000
-      Size.Height = 61.246456146240230000
+      Position.X = 108.588722229003900000
+      Position.Y = 70.992050170898440000
+      Size.Width = 534.983398437500000000
+      Size.Height = 73.495742797851560000
       Size.PlatformDefault = False
       TabStop = False
       Text = 
         'Escolhe a pe'#231'a de cuisenaire que corresponde ao n'#250'mero de palavr' +
         'as'#13#10'e arrasta-a para dentro da caixa amarela.'
-      Font.Size = 14.000000000000000000
+      Font.Size = 17.000000000000000000
     end
     object borders05873085472: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 39.084331512451170000
-      Position.Y = 171.756866455078100000
-      Size.Width = 549.493164062500000000
-      Size.Height = 38.385040283203130000
+      Position.X = 46.901195526123050000
+      Position.Y = 206.108245849609400000
+      Size.Width = 659.391784667968800000
+      Size.Height = 46.062042236328130000
       Size.PlatformDefault = False
       TabStop = False
       Snapping = True
@@ -6458,10 +6458,10 @@ object ImageStoryItem: TBitmapImageStoryItem
   object fundozcl3871147352: TBitmapImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 39.831329345703130000
-    Position.Y = 552.954833984375000000
-    Size.Width = 659.598876953125000000
-    Size.Height = 445.317626953125000000
+    Position.X = 47.797595977783200000
+    Position.Y = 663.545837402343800000
+    Size.Width = 791.518676757812500000
+    Size.Height = 534.381164550781300000
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
@@ -11086,30 +11086,30 @@ object ImageStoryItem: TBitmapImageStoryItem
       end>
     Image.Align = Contents
     Image.HitTest = False
-    Image.Size.Width = 659.598876953125000000
-    Image.Size.Height = 445.317626953125000000
+    Image.Size.Width = 791.518676757812500000
+    Image.Size.Height = 534.381164550781300000
     Image.Size.PlatformDefault = False
     Image.WrapMode = Stretch
     AutoSize = False
     object TextStoryItem34: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 16.288824081420900000
-      Position.Y = 102.078620910644500000
-      Size.Width = 610.426086425781300000
-      Size.Height = 70.906455993652340000
+      Position.X = 19.546588897705080000
+      Position.Y = 122.494346618652300000
+      Size.Width = 732.511352539062500000
+      Size.Height = 85.087745666503910000
       Size.PlatformDefault = False
       TabStop = False
       Text = 'O rato comeu um queijo.'
-      Font.Size = 45.000000000000000000
+      Font.Size = 56.000000000000000000
     end
     object borders058730854722: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 40.562656402587890000
-      Position.Y = 177.122177124023400000
-      Size.Width = 561.384094238281300000
-      Size.Height = 39.442718505859380000
+      Position.X = 48.675189971923830000
+      Position.Y = 212.546615600585900000
+      Size.Width = 673.660949707031300000
+      Size.Height = 47.331253051757810000
       Size.PlatformDefault = False
       TabStop = False
       Snapping = True
@@ -11125,10 +11125,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz18870960963: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 41.562782287597660000
-      Position.Y = 232.056945800781300000
-      Size.Width = 25.753913879394530000
-      Size.Height = 26.731445312500000000
+      Position.X = 49.875339508056640000
+      Position.Y = 278.468353271484400000
+      Size.Width = 30.904697418212890000
+      Size.Height = 32.077728271484380000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -11146,8 +11146,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 25.753913879394530000
-      Image.Size.Height = 26.731445312500000000
+      Image.Size.Width = 30.904697418212890000
+      Image.Size.Height = 32.077728271484380000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11155,10 +11155,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz3133150012: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 41.529090881347660000
-      Position.Y = 291.489318847656300000
-      Size.Width = 76.384216308593750000
-      Size.Height = 26.731506347656250000
+      Position.X = 49.834911346435550000
+      Position.Y = 349.787200927734400000
+      Size.Width = 91.661056518554690000
+      Size.Height = 32.077819824218750000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -11178,8 +11178,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 76.384216308593750000
-      Image.Size.Height = 26.731506347656250000
+      Image.Size.Width = 91.661056518554690000
+      Image.Size.Height = 32.077819824218750000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11187,10 +11187,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz43462584752: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 41.723155975341800000
-      Position.Y = 321.077880859375000000
-      Size.Width = 102.723892211914100000
-      Size.Height = 26.128601074218750000
+      Position.X = 50.067790985107420000
+      Position.Y = 385.293487548828100000
+      Size.Width = 123.268676757812500000
+      Size.Height = 31.354309082031250000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -11211,8 +11211,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 102.723892211914100000
-      Image.Size.Height = 26.128601074218750000
+      Image.Size.Width = 123.268676757812500000
+      Image.Size.Height = 31.354309082031250000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11220,10 +11220,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz6124688142: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 157.445632934570300000
-      Position.Y = 289.310455322265600000
-      Size.Width = 151.159194946289100000
-      Size.Height = 27.107910156250000000
+      Position.X = 188.934768676757800000
+      Position.Y = 347.172546386718800000
+      Size.Width = 181.391036987304700000
+      Size.Height = 32.529479980468750000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -11244,8 +11244,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 151.159194946289100000
-      Image.Size.Height = 27.107910156250000000
+      Image.Size.Width = 181.391036987304700000
+      Image.Size.Height = 32.529479980468750000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11253,10 +11253,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz820933017052: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 356.604736328125000000
-      Position.Y = 260.029937744140600000
-      Size.Width = 201.241577148437500000
-      Size.Height = 25.368835449218750000
+      Position.X = 427.925689697265600000
+      Position.Y = 312.035949707031300000
+      Size.Width = 241.489898681640600000
+      Size.Height = 30.442596435546880000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -11277,8 +11277,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 201.241577148437500000
-      Image.Size.Height = 25.368835449218750000
+      Image.Size.Width = 241.489898681640600000
+      Image.Size.Height = 30.442596435546880000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11286,10 +11286,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz1019977116042: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 357.544250488281300000
-      Position.Y = 321.466369628906300000
-      Size.Width = 251.584106445312500000
-      Size.Height = 24.747039794921880000
+      Position.X = 429.053131103515600000
+      Position.Y = 385.759674072265600000
+      Size.Width = 301.900970458984400000
+      Size.Height = 29.696441650390630000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -11309,8 +11309,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 251.584106445312500000
-      Image.Size.Height = 24.747039794921880000
+      Image.Size.Width = 301.900970458984400000
+      Image.Size.Height = 29.696441650390630000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11318,10 +11318,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz188709609622: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 43.583869934082030000
-      Position.Y = 385.851470947265600000
-      Size.Width = 25.753913879394530000
-      Size.Height = 26.731231689453130000
+      Position.X = 52.300647735595700000
+      Position.Y = 463.021789550781300000
+      Size.Width = 30.904697418212890000
+      Size.Height = 32.077484130859380000
       Size.PlatformDefault = False
       TabStop = False
       Image.MultiResBitmap = <
@@ -11338,8 +11338,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 25.753913879394530000
-      Image.Size.Height = 26.731231689453130000
+      Image.Size.Width = 30.904697418212890000
+      Image.Size.Height = 32.077484130859380000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11347,22 +11347,22 @@ object ImageStoryItem: TBitmapImageStoryItem
     object TextStoryItem53: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 71.350456237792970000
-      Position.Y = 382.372802734375000000
-      Size.Width = 45.366516113281250000
-      Size.Height = 32.898040771484380000
+      Position.X = 85.620552062988280000
+      Position.Y = 458.847381591796900000
+      Size.Width = 54.439826965332030000
+      Size.Height = 39.477661132812500000
       Size.PlatformDefault = False
       TabStop = False
       Text = '= 1'
-      Font.Size = 17.000000000000000000
+      Font.Size = 22.000000000000000000
     end
     object rat03015599274672: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 519.234069824218800000
-      Position.Y = 376.932312011718800000
-      Size.Width = 88.231628417968750000
-      Size.Height = 40.702575683593750000
+      Position.X = 623.080932617187500000
+      Position.Y = 452.318786621093800000
+      Size.Width = 105.877929687500000000
+      Size.Height = 48.843078613281250000
       Size.PlatformDefault = False
       TabStop = False
       SVGText = 
@@ -11528,10 +11528,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz212950007202: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 41.319522857666020000
-      Position.Y = 262.818054199218800000
-      Size.Width = 50.436183929443360000
-      Size.Height = 25.988037109375000000
+      Position.X = 49.583431243896480000
+      Position.Y = 315.381683349609400000
+      Size.Width = 60.523426055908200000
+      Size.Height = 31.185638427734380000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -11551,8 +11551,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 50.436183929443360000
-      Image.Size.Height = 25.988037109375000000
+      Image.Size.Width = 60.523426055908200000
+      Image.Size.Height = 31.185638427734380000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11560,10 +11560,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz519561259152: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 156.799407958984400000
-      Position.Y = 257.495574951171900000
-      Size.Width = 126.601593017578100000
-      Size.Height = 26.028778076171880000
+      Position.X = 188.159301757812500000
+      Position.Y = 308.994689941406300000
+      Size.Width = 151.921936035156300000
+      Size.Height = 31.234527587890630000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -11584,8 +11584,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 126.601593017578100000
-      Image.Size.Height = 26.028778076171880000
+      Image.Size.Width = 151.921936035156300000
+      Image.Size.Height = 31.234527587890630000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11593,10 +11593,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz94241108352: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 357.030395507812500000
-      Position.Y = 290.805999755859400000
-      Size.Width = 225.799072265625000000
-      Size.Height = 25.990966796875000000
+      Position.X = 428.436492919921900000
+      Position.Y = 348.967224121093800000
+      Size.Width = 270.958892822265600000
+      Size.Height = 31.189147949218750000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -11617,8 +11617,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 225.799072265625000000
-      Image.Size.Height = 25.990966796875000000
+      Image.Size.Width = 270.958892822265600000
+      Image.Size.Height = 31.189147949218750000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11626,10 +11626,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Qz7380212522: TBitmapImageStoryItem
       Align = Scale
       Cursor = crDrag
-      Position.X = 154.790328979492200000
-      Position.Y = 320.939483642578100000
-      Size.Width = 177.923721313476600000
-      Size.Height = 25.829437255859380000
+      Position.X = 185.748397827148400000
+      Position.Y = 385.127410888671900000
+      Size.Width = 213.508468627929700000
+      Size.Height = 30.995330810546880000
       Size.PlatformDefault = False
       TabStop = False
       Anchored = False
@@ -11649,8 +11649,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 177.923721313476600000
-      Image.Size.Height = 25.829437255859380000
+      Image.Size.Width = 213.508468627929700000
+      Image.Size.Height = 30.995330810546880000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -11658,10 +11658,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object RopeBorder9926292702: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 42.520931243896480000
-      Position.Y = 367.745727539062500000
-      Size.Width = 566.548706054687500000
-      Size.Height = 4.110290527343750000
+      Position.X = 51.025119781494140000
+      Position.Y = 441.294891357421900000
+      Size.Width = 679.858459472656300000
+      Size.Height = 4.932342529296875000
       Size.PlatformDefault = False
       TabStop = False
       BackgroundColor = xE6275F8F
@@ -12880,39 +12880,39 @@ object ImageStoryItem: TBitmapImageStoryItem
     object TextStoryItem523: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 26.413166046142580000
-      Position.Y = 13.930182456970210000
-      Size.Width = 597.131103515625000000
-      Size.Height = 47.353679656982420000
+      Position.X = 31.695800781250000000
+      Position.Y = 16.716218948364260000
+      Size.Width = 716.557373046875000000
+      Size.Height = 56.824417114257810000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFFB00505
       Text = 'Conta qual o n'#250'mero de letras que tem cada palavra.'
-      Font.Size = 25.000000000000000000
+      Font.Size = 30.000000000000000000
     end
     object TextStoryItem5222: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 101.196701049804700000
-      Position.Y = 72.482994079589840000
-      Size.Width = 445.819519042968800000
-      Size.Height = 61.246482849121090000
+      Position.X = 121.436042785644500000
+      Position.Y = 86.979598999023440000
+      Size.Width = 534.983459472656300000
+      Size.Height = 73.495773315429690000
       Size.PlatformDefault = False
       TabStop = False
       Text = 
         'Escolhe a pe'#231'a de cuisenaire que corresponde ao n'#250'mero de letras' +
         #13#10'de cada palavra e arrasta-a cada uma delas para dentro da caix' +
         'a amarela.'
-      Font.Size = 13.000000000000000000
+      Font.Size = 16.000000000000000000
     end
   end
   object fundozcl1376466713: TImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 922.741149902343800000
-    Position.Y = 574.716552734375000000
-    Size.Width = 626.676818847656300000
-    Size.Height = 423.105163574218800000
+    Position.X = 1107.289428710938000000
+    Position.Y = 689.659912109375000000
+    Size.Width = 752.012207031250000000
+    Size.Height = 507.726196289062500000
     Size.PlatformDefault = False
     TabStop = False
     StoryPoint = True
@@ -17536,18 +17536,18 @@ object ImageStoryItem: TBitmapImageStoryItem
       end>
     Image.Align = Contents
     Image.HitTest = False
-    Image.Size.Width = 626.676818847656300000
-    Image.Size.Height = 423.105163574218800000
+    Image.Size.Width = 752.012207031250000000
+    Image.Size.Height = 507.726196289062500000
     Image.Size.PlatformDefault = False
     Image.WrapMode = Stretch
     AutoSize = False
     object FlagGreece169909892042: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 222.128753662109400000
-      Position.Y = 139.603317260742200000
-      Size.Width = 141.822479248046900000
-      Size.Height = 147.922531127929700000
+      Position.X = 266.554504394531300000
+      Position.Y = 167.523986816406300000
+      Size.Width = 170.186981201171900000
+      Size.Height = 177.507049560546900000
       Size.PlatformDefault = False
       TabStop = False
       SVGText = 
@@ -17643,10 +17643,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object Trophy217756556: TImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 284.311828613281300000
-      Position.Y = 148.387542724609400000
-      Size.Width = 107.887390136718800000
-      Size.Height = 109.689147949218800000
+      Position.X = 341.174194335937500000
+      Position.Y = 178.065063476562500000
+      Size.Width = 129.464874267578100000
+      Size.Height = 131.626983642578100000
       Size.PlatformDefault = False
       TabStop = False
       SVGText = 
@@ -17696,23 +17696,23 @@ object ImageStoryItem: TBitmapImageStoryItem
     object TextStoryItem6: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 122.795974731445300000
-      Position.Y = 289.328704833984400000
-      Size.Width = 330.398986816406300000
-      Size.Height = 82.183746337890630000
+      Position.X = 147.355178833007800000
+      Position.Y = 347.194458007812500000
+      Size.Width = 396.478820800781300000
+      Size.Height = 98.620483398437500000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFFD0FDE6
       Text = 'Muito Bem !!!'
-      Font.Size = 54.000000000000000000
+      Font.Size = 65.000000000000000000
     end
     object READCOM_512x5121574467992: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 65.831398010253910000
-      Position.Y = 34.363483428955080000
-      Size.Width = 88.736991882324220000
-      Size.Height = 95.947525024414060000
+      Position.X = 78.997680664062500000
+      Position.Y = 41.236183166503910000
+      Size.Width = 106.484405517578100000
+      Size.Height = 115.137031555175800000
       Size.PlatformDefault = False
       TabStop = False
       Image.MultiResBitmap = <
@@ -18412,8 +18412,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 88.736991882324220000
-      Image.Size.Height = 95.947525024414060000
+      Image.Size.Width = 106.484405517578100000
+      Image.Size.Height = 115.137031555175800000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -18421,24 +18421,24 @@ object ImageStoryItem: TBitmapImageStoryItem
     object TextStoryItem222: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 207.383697509765600000
-      Position.Y = 49.287738800048830000
-      Size.Width = 343.478851318359400000
-      Size.Height = 73.563583374023440000
+      Position.X = 248.860443115234400000
+      Position.Y = 59.145290374755860000
+      Size.Width = 412.174652099609400000
+      Size.Height = 88.276306152343750000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF93611E
       Text = 'Palavras contadas'
-      Font.Size = 43.000000000000000000
+      Font.Size = 52.000000000000000000
     end
   end
   object landscape152502793897443: TBitmapImageStoryItem
     Align = Scale
     Locked = True
-    Position.X = 47.520362854003910000
-    Position.Y = 38.830490112304690000
-    Size.Width = 646.338439941406300000
-    Size.Height = 431.778503417968800000
+    Position.X = 57.024436950683590000
+    Position.Y = 46.596588134765630000
+    Size.Width = 775.606140136718800000
+    Size.Height = 518.134277343750000000
     Size.PlatformDefault = False
     TabStop = False
     Active = True
@@ -20082,35 +20082,35 @@ object ImageStoryItem: TBitmapImageStoryItem
     object TextStoryItem2: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 514.541748046875000000
-      Position.Y = 135.445327758789100000
-      Size.Width = 127.355163574218800000
-      Size.Height = 36.999008178710940000
+      Position.X = 617.450134277343800000
+      Position.Y = 162.534408569335900000
+      Size.Width = 152.826232910156300000
+      Size.Height = 44.398818969726560000
       Size.PlatformDefault = False
       TabStop = False
       Text = 'N'#237'vel'
-      Font.Size = 20.000000000000000000
+      Font.Size = 25.000000000000000000
     end
     object TextStoryItem4: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 248.867553710937500000
-      Position.Y = 25.951372146606450000
-      Size.Width = 355.282409667968800000
-      Size.Height = 77.051132202148440000
+      Position.X = 298.641082763671900000
+      Position.Y = 31.141651153564450000
+      Size.Width = 426.338897705078100000
+      Size.Height = 92.461380004882810000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF105C86
       Text = 'Recursos para melhorar os h'#225'bitos de leitura'
-      Font.Size = 25.000000000000000000
+      Font.Size = 30.000000000000000000
     end
     object FlagGreece16990989204: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 552.184814453125000000
-      Position.Y = 175.059112548828100000
-      Size.Width = 53.804931640625000000
-      Size.Height = 57.354278564453130000
+      Position.X = 662.621826171875000000
+      Position.Y = 210.070968627929700000
+      Size.Width = 64.565917968750000000
+      Size.Height = 68.825149536132810000
       Size.PlatformDefault = False
       TabStop = False
       SVGText = 
@@ -20206,10 +20206,10 @@ object ImageStoryItem: TBitmapImageStoryItem
     object READCOM_512x512157446799: TBitmapImageStoryItem
       Align = Scale
       Locked = True
-      Position.X = 118.639091491699200000
-      Position.Y = 12.888208389282230000
-      Size.Width = 88.737052917480470000
-      Size.Height = 95.947486877441410000
+      Position.X = 142.366912841796900000
+      Position.Y = 15.465851783752440000
+      Size.Width = 106.484466552734400000
+      Size.Height = 115.137008666992200000
       Size.PlatformDefault = False
       TabStop = False
       Image.MultiResBitmap = <
@@ -20909,8 +20909,8 @@ object ImageStoryItem: TBitmapImageStoryItem
         end>
       Image.Align = Contents
       Image.HitTest = False
-      Image.Size.Width = 88.737052917480470000
-      Image.Size.Height = 95.947486877441410000
+      Image.Size.Width = 106.484466552734400000
+      Image.Size.Height = 115.137008666992200000
       Image.Size.PlatformDefault = False
       Image.WrapMode = Stretch
       AutoSize = False
@@ -20918,29 +20918,29 @@ object ImageStoryItem: TBitmapImageStoryItem
     object TextStoryItem22: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 57.616909027099610000
-      Position.Y = 141.567642211914100000
-      Size.Width = 440.204895019531300000
-      Size.Height = 145.431381225585900000
+      Position.X = 69.140296936035160000
+      Position.Y = 169.881195068359400000
+      Size.Width = 528.245910644531300000
+      Size.Height = 174.517669677734400000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF93611E
       Text = 'Palavras'#13#10'Contadas'
-      Font.Size = 50.000000000000000000
+      Font.Size = 61.000000000000000000
     end
     object TextStoryItem33: TTextStoryItem
       Align = Scale
       Locked = True
-      Position.X = 536.621032714843800000
-      Position.Y = 238.462463378906300000
-      Size.Width = 87.449096679687500000
-      Size.Height = 57.736328125000000000
+      Position.X = 643.945251464843800000
+      Position.Y = 286.154998779296900000
+      Size.Width = 104.938903808593800000
+      Size.Height = 69.283599853515630000
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF861F1F
       BackgroundColor = x00C9E436
       Text = '3 - 6'#13#10'avan'#231'ado'
-      Font.Size = 17.000000000000000000
+      Font.Size = 22.000000000000000000
     end
   end
 end
