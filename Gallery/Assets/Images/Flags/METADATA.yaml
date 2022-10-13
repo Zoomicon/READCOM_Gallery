@@ -1,0 +1,25 @@
+---
+title: Images for Flags
+tags: Flag, Image
+source: #if same one for all files in folder, set url here
+license: #if same one for all files in folder (those that don't override it below), can mention license here
+attribution: #if same one for all files in folder (those that don't override it below), can mention attribution here
+files:
+  - FlagFrance.svg:
+      title: Flag of France
+      tags: France
+  - FlagGreece.svg:
+      title: Flag of Greece
+      tags: Greece, Hellas
+  - FlagItaly.svg:
+      title: Flag of Italy
+      tags: Italy
+  - FlagPortugal.svg:
+      title: Flag of Portugal
+      tags: Portugal
+  - FlagSpain.svg:
+      title: Flag of Spain
+      tags: Spain
+  - FlagUK.svg:
+      title: Flag of UK
+      tags: UK, England
