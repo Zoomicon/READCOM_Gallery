@@ -23,6 +23,7 @@ exit 0
 
 :processFolder
 if "%~nx1"==".thumbs" exit /B
+if "%~nx1"==".html" exit /B
 if "%~nx1"==".git" exit /B
 
 echo:

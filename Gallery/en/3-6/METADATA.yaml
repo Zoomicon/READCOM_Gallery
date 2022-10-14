@@ -1,0 +1,22 @@
+---
+title: Stories/Activities for 3-6 y.o.
+tags: English, Activity, 3-6
+source: #if same one for all files in folder, set url here
+license: READ-COM Content License (CC-BY-SA)
+attribution: READ-COM Project (https://www.read-com-eu.uma.es/)
+files:
+  - CountedWords.readcom:
+      title: Counted Words
+      tags: Letters, Counting, Words
+  - FunnyLetters.svg:
+      title: Funny Letters
+      tags: Letters, Ordering, Words
+  - Numbers.svg:
+      title: Numbers
+      tags: Numbers, Ordering, Matching
+  - Rhymes.svg:
+      title: Ice Cream Sound & Rhymes
+      tags: Ice Cream, Rhymes, Matching
+  - The Tortoise and the Hare.svg:
+      title: The Toroise and the Hare
+      tags: Aesop, Fable, Tortoise, Hare
