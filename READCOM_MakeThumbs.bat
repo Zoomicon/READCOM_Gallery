@@ -46,6 +46,6 @@ if not exist "%~dp1.thumbs" echo Creating subfolder ".thumbs" & md "%~dp1.thumbs
 
 echo Saving thumb for %1
 %~dp0READCOM_App -thumb "%~f1"
-move %1.png "%~dp1.thumbs\" >NUL
+move /Y %1.png "%~dp1.thumbs\" >NUL
 
 exit /B

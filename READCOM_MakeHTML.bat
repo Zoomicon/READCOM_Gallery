@@ -30,7 +30,7 @@ echo:
 echo Processing folder %1
 
 :: Process files
-if exist "%~df1\.html" echo Clearing subfolder ".html" & (del "%~df1\.html\*.*" /Q >NUL)
+if exist "%~df1\.html" echo Clearing subfolder ".html" & (for /D %%d in (%~df1\.html\*.*) do rmdir "%%d" /S /Q)
 for %%f in (%1\*.readcom) do call :processFile "%%f"
 
 :: Process subfolders
@@ -46,7 +46,7 @@ if not exist "%~dp1.html" echo Creating subfolder ".html" & md "%~dp1.html"
 
 echo Saving HTML for %1
 %~dp0READCOM_App -html "%~f1"
-::move %1.html "%~dp1.html\" >NUL
-::move %1.html_Images "%~dp1.html\" >NUL
+move /Y %1.html "%~dp1.html\" >NUL
+move /Y %1.html_Images "%~dp1.html\" >NUL
 
 exit /B
