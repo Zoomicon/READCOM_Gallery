@@ -40,7 +40,8 @@ for %%f in (%1\*.readcom) do call :processFile "%%f" "%~df1\all.html"
 :: Process subfolders
 for /D %%d in (%1\*.*) do call :processFolder "%%d" "%~df1\all.html"
 
-echo ^<iframe src="%~nx1\all.html" title="%1" style="width:100%%; height:640px; border:none;"^>iFrame not supported, use newer HTML browser^<^/iframe^> >> %2
+::echo ^<iframe src="%~nx1\all.html" title="%1" style="width:100%%; height:640px; border:none;"^>iFrame not supported, use newer HTML browser^<^/iframe^> >> %2
+echo ^<iframe src="%~nx1\all.html" title="%1" style="border:none; overflow:hidden;" sandbox="allow-same-origin" onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';"^>iFrame not supported, use newer HTML browser^<^/iframe^> >> %2
 
 echo ^<^/body^> >> "%~df1\all.html"
 echo ^</html^> >> "%~df1\all.html"
@@ -58,7 +59,8 @@ echo Saving HTML for %1
 
 :: Append an iframe to HTML concatenation file
 echo ^<p^>%~1^<^/p^> >> %2
-echo ^<iframe src=".html/%~nx1.html" title="%~nx1.html" style="width:100%%; height:640px; border:none;"^>iFrame not supported, use newer HTML browser^<^/iframe^> >> %2
+::echo ^<iframe src=".html/%~nx1.html" title="%~nx1.html" style="width:100%%; height:640px; border:none;"^>iFrame not supported, use newer HTML browser^<^/iframe^> >> %2
+echo ^<iframe src=".html/%~nx1.html" title="%~nx1.html" style="border:none; overflow:hidden;" sandbox="allow-same-origin" onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';"^>iFrame not supported, use newer HTML browser^<^/iframe^> >> %2
 echo. >> %2
 
 :: Move to .html subfolder
