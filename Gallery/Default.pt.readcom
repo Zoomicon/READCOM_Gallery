@@ -155,19 +155,6 @@ object PanelStoryItem222: TPanelStoryItem
     AutoSize = False
     object TextStoryItem3: TTextStoryItem
       Align = Scale
-      Locked = True
-      Position.X = 10.001478195190430000
-      Position.Y = 14.401509284973140000
-      Size.Width = 151.022659301757800000
-      Size.Height = 85.099906921386720000
-      Size.PlatformDefault = False
-      TabStop = False
-      ForegroundColor = xFF1D5171
-      Text = '3-6'
-      Font.Size = 56.000000000000000000
-    end
-    object BitmapImageStoryItemMask: TBitmapImageStoryItem
-      Align = Scale
       Cursor = crHandPoint
       Locked = True
       Position.X = 10.001478195190430000
@@ -176,10 +163,12 @@ object PanelStoryItem222: TPanelStoryItem
       Size.Height = 85.099906921386720000
       Size.PlatformDefault = False
       TabStop = False
+      ForegroundColor = xFF1D5171
       UrlAction = 
         'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
         'r/Gallery/pt/3-6.readcom'
-      AutoSize = False
+      Text = '3-6'
+      Font.Size = 56.000000000000000000
     end
   end
   object BitmapImageStoryItem4: TBitmapImageStoryItem
@@ -191,6 +180,7 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 114.424987792968800000
     Size.PlatformDefault = False
     TabStop = False
+    ForegroundColor = xFF92D7CF
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
       '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
@@ -199,6 +189,7 @@ object PanelStoryItem222: TPanelStoryItem
     AutoSize = False
     object TextStoryItem23: TTextStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 10.204236030578610000
       Position.Y = 14.807934761047360000
@@ -207,20 +198,11 @@ object PanelStoryItem222: TPanelStoryItem
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF1C5772
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/pt/6-9.readcom'
       Text = '6-9'
       Font.Size = 58.000000000000000000
-    end
-    object BitmapImageStoryItemMask2: TBitmapImageStoryItem
-      Align = Scale
-      Cursor = crHandPoint
-      Locked = True
-      Position.X = 10.204252243041990000
-      Position.Y = 13.461758613586430000
-      Size.Width = 154.084259033203100000
-      Size.Height = 87.501480102539060000
-      Size.PlatformDefault = False
-      TabStop = False
-      AutoSize = False
     end
   end
   object BitmapImageStoryItem5: TBitmapImageStoryItem
@@ -232,6 +214,8 @@ object PanelStoryItem222: TPanelStoryItem
     Size.Height = 100.848022460937500000
     Size.PlatformDefault = False
     TabStop = False
+    ForegroundColor = xFF81CFC2
+    BackgroundColor = x0012E3A9
     SVGText = 
       '<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2' +
       '000/svg" viewBox="0 0 300 98"><defs><style>.cls-1{fill:#f0f0f0;o' +
@@ -240,6 +224,7 @@ object PanelStoryItem222: TPanelStoryItem
     AutoSize = False
     object TextStoryItem24: TTextStoryItem
       Align = Scale
+      Cursor = crHandPoint
       Locked = True
       Position.X = 10.501979827880860000
       Position.Y = 13.050913810729980000
@@ -248,19 +233,11 @@ object PanelStoryItem222: TPanelStoryItem
       Size.PlatformDefault = False
       TabStop = False
       ForegroundColor = xFF20606B
+      UrlAction = 
+        'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
+        'r/Gallery/pt/9-12.readcom'
       Text = '9-12'
       Font.Size = 50.000000000000000000
-    end
-    object BitmapImageStoryItemMask3: TBitmapImageStoryItem
-      Align = Scale
-      Locked = True
-      Position.X = 10.501997947692870000
-      Position.Y = 11.864469528198240000
-      Size.Width = 158.580200195312500000
-      Size.Height = 77.119087219238280000
-      Size.PlatformDefault = False
-      TabStop = False
-      AutoSize = False
     end
   end
   object F9DA1F3FB1800437380: TBitmapImageStoryItem
