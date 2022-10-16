@@ -34,7 +34,7 @@ echo Processing folder %1
 ::echo ^<body^> >> "%~df1\all.html"
 ::echo ^<div style="width:100vw"^/^> >> "%~df1\all.html"
 
-if exist "~df1\all.docx" echo Clearing all.docx & del "%~df1\all.docx" /Q >NUL
+::if exist "~df1\all.docx" echo Clearing all.docx & del "%~df1\all.docx" /Q >NUL
 
 :: Process files
 if exist "%~df1\.html" echo Clearing subfolder ".html" & (for /D %%d in (%~df1\.html\*.*) do rmdir "%%d" /S /Q)
