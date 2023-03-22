@@ -12,7 +12,3 @@ Since the Gallery browser/picker for the READ-COM App isn't yet ready, you can d
 * Screenshot:
 
 ![image](https://user-images.githubusercontent.com/3461504/172534159-2b4691db-7d7b-4734-badd-3f1ed09fa2d4.png)
-
-* Browse activity screenshots:
-
-[Screenshots](http://github.com/Zoomicon/READCOM_Gallery/Gallery/.html/Default.readcom.html)
