@@ -29,6 +29,7 @@ if "%~nx1"==".git" exit /B
 echo:
 echo Processing folder %1
 
+:: *** TODO: SEEMS TO NOT BE DELETING HTML IMAGES SUBFOLDER AND FAILING TO UPDATE IMAGE IF THAT SUBFOLDER EXISTS (could also see if READCOM_App should be fixed to ALWAYS overwrite existing image and .html when using command-line option ***
 :: Process files
 if exist "%~df1\.html" echo Clearing subfolder ".html" & (for /D %%d in (%~df1\.html\*.*) do rmdir "%%d" /S /Q)
 for %%f in (%1\*.readcom) do call :processFile "%%f"
