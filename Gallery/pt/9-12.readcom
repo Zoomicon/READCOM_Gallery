@@ -19,7 +19,7 @@ object PanelStoryItem: TPanelStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-      'r/Gallery/pt/3-6/GuessWhoIam.pt.readcom'
+      'r/Gallery/pt/9-12/GuessWhoIam.pt.readcom'
     Image.MultiResBitmap = <
       item
         Width = 400
