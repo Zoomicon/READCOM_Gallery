@@ -19,7 +19,7 @@ object PanelStoryItem: TPanelStoryItem
     TabStop = False
     UrlAction = 
       'https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/maste' +
-      'r/Gallery/pt/3-6/HauntedHouse.pt.readcom'
+      'r/Gallery/pt/6-9/HauntedHouse.pt.readcom'
     Image.MultiResBitmap = <
       item
         Width = 400
