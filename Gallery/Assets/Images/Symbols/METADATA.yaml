@@ -57,12 +57,16 @@ filegroups:
         license: CC0
         attribution: SVGRepo.com
         files:
+          - FullScreen_SVGrepo_435680.svg:
+            title: Fullscreen
+            tags: Copy, Action
+            source: https://www.svgrepo.com/svg/435680/fullscreen
           - CopyAction.svg:
-            title: Copy action symbol
+            title: Copy
             tags: Copy, Action
             source: https://www.svgrepo.com/svg/253532/copy
           - PasteAction.svg:
-            title: Paste action symbol
+            title: Paste
             tags: Paste, Action
             source: https://www.svgrepo.com/svg/253525/paste-clipboard-paste
           - FlipHorizontally.svg:
