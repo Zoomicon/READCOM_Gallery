@@ -54,29 +54,31 @@ filegroups:
               tag: Close, Exit
               source: https://openmoji.org/library/emoji-E24E/
   - SVGrepo:
-        license: CC0
-        attribution: SVGRepo.com
-        files:
-          - FullScreen_SVGrepo_435680.svg:
-            title: Fullscreen
-            tags: Copy, Action
-            source: https://www.svgrepo.com/svg/435680/fullscreen
-          - CopyAction.svg:
-            title: Copy
-            tags: Copy, Action
-            source: https://www.svgrepo.com/svg/253532/copy
-          - PasteAction.svg:
-            title: Paste
-            tags: Paste, Action
-            source: https://www.svgrepo.com/svg/253525/paste-clipboard-paste
-          - FlipHorizontally.svg:
-            title: Flip Horizontally
-            tags: Flip, Horizontal, Action, Mirror
-            source: https://www.svgrepo.com/svg/189118/flip
-          - FlipVertically.svg:
-            title: Flip Vertically
-            tags: Flip, Vertical, Action
-            source: https://www.svgrepo.com/svg/189121/flip
+        - license: CC0
+            attribution: SVGRepo.com
+            files:
+              - CopyAction.svg:
+                title: Copy
+                tags: Copy, Action
+                source: https://www.svgrepo.com/svg/253532/copy
+              - PasteAction.svg:
+                title: Paste
+                tags: Paste, Action
+                source: https://www.svgrepo.com/svg/253525/paste-clipboard-paste
+              - FlipHorizontally.svg:
+                title: Flip Horizontally
+                tags: Flip, Horizontal, Action, Mirror
+                source: https://www.svgrepo.com/svg/189118/flip
+              - FlipVertically.svg:
+                title: Flip Vertically
+                tags: Flip, Vertical, Action
+                source: https://www.svgrepo.com/svg/189121/flip
+        - license: MIT
+            files:
+              - FullScreen_SVGrepo_505892.svg:
+                title: Fullscreen
+                tags: Copy, Action
+                source: https://www.svgrepo.com/svg/505892/fullscreen
   - Other:
       - Diagram.svg:
           title: Diagram symbol
