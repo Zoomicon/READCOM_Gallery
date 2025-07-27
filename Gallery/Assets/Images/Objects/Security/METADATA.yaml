@@ -9,23 +9,23 @@ filegroups:
     license: https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt
     attribution: OpenMoji.org
     files:
-      - Key.svg:
+      - Key_OpenMoji_1F511.svg:
           title: Key
           tags: Key
           source: https://openmoji.org/library/emoji-1F511/
-      - KeyOld.svg:
+      - KeyOld_OpenMoji_1F5DD.svg:
           title: Old Key
           tags: Key, Old
           source: https://openmoji.org/library/emoji-1F5DD/
-      - LockClosed.svg:
+      - LockClosed_OpenMoji_1F512.svg:
           title: Closed Lock
           tags: Lock, Closed
           source: https://openmoji.org/library/emoji-1F512/
-      - LockClosedKey.svg:
+      - LockClosedKey_OpenMoji_1F510.svg:
           title: Closed Lock with Key
           tags: Lock, Closed, Key
           source: https://openmoji.org/library/emoji-1F510/
-      - LockOpen.svg:
+      - LockOpen_OpenMoji_1F513.svg:
           title: Open Lock
           tags: Lock, Open
           source: https://openmoji.org/library/emoji-1F513/
