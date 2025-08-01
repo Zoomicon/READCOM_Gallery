@@ -1,0 +1,141 @@
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Default.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Default.en.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Default.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Default.it.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Default.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Default.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Activities.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Crosswords/Acrostics/Acrostic-PARTNERS.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Crosswords/Acrostics/Acrostic-Poem-Greece.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Differences/Differences-Jungle.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Matching/AnalogClock.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Matching/BCF-BeeCowFrog.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Matching/Class-AnnaWorried-SpeechBubbles.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Matching/FarmAnimals-ChickenPigCow.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Matching/FruitNames.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Matching/MAO-KidNames.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Ordering/Any order - The Tortoise and the Hare.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Ordering/Find order - The Tortoise and the Hare.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Activities/Ordering/Reorder - The Tortoise and the Hare.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Dialogs/EditableText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Dialogs/Dialog Boxes/DialogBoxMoveable.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Dialogs/Dialog Boxes/DialogBoxMoveableEditable.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Dialogs/Speech Bubbles/SpeechBubbleEditable.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Dialogs/Speech Bubbles/SpeechBubbleEditableMoveable.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Dialogs/Speech Bubbles/SpeechBubbleReadonly.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Dialogs/Speech Bubbles/SpeechBubbleReadonlyMoveable.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Dialogs/Speech Bubbles/ThoughtBubbleEditable.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Dialogs/Speech Bubbles/ThoughtBubbleEditableMoveable.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Dialogs/Speech Bubbles/ThoughtBubbleReadonly.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Objects/Celebration/Win.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Panels/Panels_landscape_1+2.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Panels/Panels_landscape_2+1.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Panels/Panels_landscape_2x1.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Panels/Panels_landscape_2x2.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Seasons/Autumn.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Seasons/Spring.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Seasons/Summer.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Images/Seasons/Winter.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Layouts/Frame_ImageOnLeft_TextOnRight.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Layouts/Frame_TextOnLeft_ImageOnRight.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/BoldItalicText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/BoldItalicUnderlinedText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/BoldText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/BoldUnderlinedText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/EditableBoldText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/EditableText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/ItalicText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/ItalicUnderlinedText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/MonospaceText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/StrikeoutText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/UnderlinedText.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/Emoji-text/Cat_Mouse_HouseDog.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Assets/Texts/Emoji-text/Cat_Mouse_HouseDog.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/3-6.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/6-9.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/9-12.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/3-6/AnnaLearns-WhoIsWho.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/3-6/Any Order - The Tortoise and the Hare.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/3-6/Dragon_MoveTheWords.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/3-6/JungleAnimals.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/3-6/Jupiter_Shadow.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/3-6/Letters_Reorder_Animals.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/3-6/Seasons.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/3-6/The Tortoise and the Hare.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/3-6/TheMiceCouncil.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/6-9/-HauntedHouse_Vertical.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/6-9/Addition.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/6-9/AnalogClock.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/6-9/FindBirds.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/6-9/FindOlympianGods.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/6-9/HauntedHouse.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/6-9/Synonyms.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/9-12/GuessWhoIam.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/el/9-12/Multiplication.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/6-9.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/9-12.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/-Mammals_Birds.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/Any order - The Tortoise and the Hare.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/BCF-BeeCowFrog.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/CountedWords.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/Find order - The Tortoise and the Hare.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/FunnyLetters.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/Jupiter_Shadow.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/Numbers.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/Rhymes.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/Seasons.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/The Tortoise and the Hare.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/3-6/TheMiceCouncil.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/6-9/AnalogClock.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/6-9/FindBirds.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/6-9/HauntedHouse.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/9-12/-BlackMartin.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/9-12/-GroupingWords.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/en/9-12/GuessWhoIam.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/3-6.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/6-9.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/9-12.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/3-6/AnnaLearns-WhoIsWho.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/3-6/Any Order - The Tortoise and the Hare.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/3-6/Cat-Rooster.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/3-6/Dragon_MoveTheWords.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/3-6/JungleAnimals.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/3-6/Jupiter_Shadow.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/3-6/Rhymes.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/3-6/Seasons.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/3-6/The Tortoise and the Hare.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/6-9/HauntedHouse.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/6-9/Planetas.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/6-9/Reorder - The Tortoise and the Hare.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/9-12/GuessWhoIam.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/es/9-12/Receta.es.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/3-6.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/6-9.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/9-12.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/3-6/Jupiter_Shadow.it.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/3-6/Seasons.it.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/3-6/The Tortoise and the Hare.it.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/6-9/Any Order - The Tortoise and the Hare.it.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/6-9/GroupSynonyms.it.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/6-9/HauntedHouse.it.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/9-12/-BlackMartin.it_20220816a.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/it/9-12/GuessWhoIam.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/3-6.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/6-9.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/9-12.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/3-6/Any Order - The Tortoise and the Hare.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/3-6/CountedWords.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/3-6/FunnyLetters.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/3-6/Jupiter_Shadow.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/3-6/Rhymes.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/3-6/Seasons.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/3-6/The Tortoise and the Hare.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/6-9/HauntedHouse.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/pt/9-12/GuessWhoIam.pt.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Stories/Aesop Fables/The Tortoise and the Hare/-george - The Tortoise and the Hare.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Stories/Aesop Fables/The Tortoise and the Hare/-original stavroula - The Tortoise and the Hare.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Stories/Aesop Fables/The Tortoise and the Hare/-The Tortoise and the Hare - Frame1.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Stories/Aesop Fables/The Tortoise and the Hare/-The Tortoise and the Hare - Frame2.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Stories/Aesop Fables/The Tortoise and the Hare/-xrysa - The Tortoise and the Hare.el.readcom
+??https://raw.githubusercontent.com/zoomicon/READCOM_Gallery/master/Gallery/Stories/Aesop Fables/The Tortoise and the Hare/The Tortoise and the Hare.readcom
