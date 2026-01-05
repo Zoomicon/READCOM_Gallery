@@ -86,4 +86,8 @@ filegroups:
           license: CC-BY-SA
           attribution: diagram by Wan HD from the Noun Project
           source: https://thenounproject.com/term/org-chart/4173547/
-     
+      - OpenWebFolder.svg:
+          title: Open Web Folder symbol
+          tag: Open, Web, Folder     
+          license: CC-BY-SA
+          attribution: made by George Birbilis combining OpenMoji icons
